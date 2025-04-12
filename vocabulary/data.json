@@ -42,6 +42,31 @@
     "tag": "c2level"
   },
   {
+    "title" : "500 Most Common English Verbs",
+    "url" : "https://langeek.co/en/vocab/category/45/most-common-verbs",
+    "image" : "https://cdn.langeek.co/photo/26573/thumb/most-common-verbs?type=jpeg",
+    "tag" : "500mostcommonenglishverbs"
+  }, {
+    "title" : "250 Most Common English Phrasal Verbs",
+    "url" : "https://langeek.co/en/vocab/category/46/most-common-phrasal-verbs",
+    "image" : "https://cdn.langeek.co/photo/26574/thumb/most-common-phrasal-verbs?type=jpeg",
+    "tag" : "250mostcommonenglishphrasalverbs"
+  }, {
+    "title" : "500 Most Common English Adjectives",
+    "url" : "https://langeek.co/en/vocab/category/47/most-common-adjectives",
+    "image" : "https://cdn.langeek.co/photo/26575/thumb/most-common-adjectives?type=jpeg",
+    "tag" : "500mostcommonenglishadjectives"
+  }, {
+    "title" : "500 Most Common English Adverbs",
+    "url" : "https://langeek.co/en/vocab/category/48/most-common-adverbs",
+    "image" : "https://cdn.langeek.co/photo/26576/thumb/most-common-adverbs?type=jpeg",
+    "tag" : "500mostcommonenglishadverbs"
+  }, {
+    "title" : "500 Most Common English Nouns",
+    "url" : "https://langeek.co/en/vocab/category/49/most-common-nouns",
+    "image" : "https://cdn.langeek.co/photo/26577/thumb/most-common-nouns?type=jpeg",
+    "tag" : "500mostcommonenglishnouns"
+  }, {
     "title": "Adverbs of Time and Place",
     "url": "https://langeek.co/en/vocab/category/187/adverbs-time-place",
     "image": "https://cdn.langeek.co/photo/46044/thumb/adverbs-time-place?type=jpeg",

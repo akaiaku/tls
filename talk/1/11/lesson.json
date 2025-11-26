@@ -1,0 +1,68 @@
+{
+  "id": 11,
+  "sectionId": 1,
+  "number": 11,
+  "title": "I have to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2012",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2012-long.mp3",
+  "content": "The words 'have to' describe something that needs to take place soon. It expresses certainty, necessity, or obligation.\nHere are some examples:\n\"I have to switch schools.\"\n\"I have to use the telephone.\"\n\"I have to go to the bathroom.\"\n\"I have to leave.\"\n\"I have to unpack my bags.\"\nYou can also add the word 'don't' to suggest that someone is not required to do something.\n\"I don't have to switch schools.\"\n\"I don't have to use the telephone.\"\n\"I don't have to go to the bathroom.\"\n\"I don't have to leave.\"\n\"I don't have to unpack my bags.\"",
+  "examples": [
+    {
+      "sentence": "I have to switch schools.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S1.mp3"
+    },
+    {
+      "sentence": "I have to use the telephone.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S2.mp3"
+    },
+    {
+      "sentence": "I have to go to the bathroom.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S3.mp3"
+    },
+    {
+      "sentence": "I have to leave.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S4.mp3"
+    },
+    {
+      "sentence": "I have to unpack my bags.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S5.mp3"
+    },
+    {
+      "sentence": "I don't have to switch schools.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S6.mp3"
+    },
+    {
+      "sentence": "I don't have to use the telephone.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S7.mp3"
+    },
+    {
+      "sentence": "I don't have to go to the bathroom.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S8.mp3"
+    },
+    {
+      "sentence": "I don't have to leave.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S9.mp3"
+    },
+    {
+      "sentence": "I don't have to unpack my bags.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E12/sentence/E012S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2013",
+  "crawledAt": "2025-11-24T14:09:23.700Z"
+}

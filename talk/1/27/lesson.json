@@ -1,0 +1,68 @@
+{
+  "id": 27,
+  "sectionId": 1,
+  "number": 27,
+  "title": "I'm here to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2028",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2028-long.mp3",
+  "content": "You are informing someone that you are at a particular place to accomplish something.\nHere are some examples:\n\"I'm here to apply for the job.\"\n\"I'm here to take a test.\"\n\"I'm here to receive my gift.\"\n\"I'm here to support all your decisions.\"\n\"I'm here to watch a movie.\"\n\"I'm here to work on your computer.\"\n\"I'm here to welcome you to the neighborhood.\"\n\"I'm here to raise awareness for cancer.\"\n\"I'm here to start the job.\"\n\"I'm here to receive the award.\"",
+  "examples": [
+    {
+      "sentence": "I'm here to apply for the job.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S1.mp3"
+    },
+    {
+      "sentence": "I'm here to take a test.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S2.mp3"
+    },
+    {
+      "sentence": "I'm here to receive my gift.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S3.mp3"
+    },
+    {
+      "sentence": "I'm here to support all your decisions.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S4.mp3"
+    },
+    {
+      "sentence": "I'm here to watch a movie.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S5.mp3"
+    },
+    {
+      "sentence": "I'm here to work on your computer.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S6.mp3"
+    },
+    {
+      "sentence": "I'm here to welcome you to the neighborhood.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S7.mp3"
+    },
+    {
+      "sentence": "I'm here to raise awareness for cancer.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S8.mp3"
+    },
+    {
+      "sentence": "I'm here to start the job.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S9.mp3"
+    },
+    {
+      "sentence": "I'm here to receive the award.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E28/sentence/E028S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2029",
+  "crawledAt": "2025-11-24T14:09:44.440Z"
+}

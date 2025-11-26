@@ -1,0 +1,68 @@
+{
+  "id": 14,
+  "sectionId": 1,
+  "number": 14,
+  "title": "I would like to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2015",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2015-long.mp3",
+  "content": "This sentence lets someone know what you would be interested in doing. This can be a physical, mental or verbal action.\nHere are some examples:\n\"I would like to answer that question.\"\n\"I would like to compete in a cooking contest.\"\n\"I would like to explain myself.\"\n\"I would like to invite you over.\"\n\"I would like to practice.\"\n\"I would like to become a doctor.\"\n\"I would like to see you more often.\"\n\"I would like to thank you.\"\n\"I would like to learn about animals.\"\n\"I would like to meet the President.\"",
+  "examples": [
+    {
+      "sentence": "I would like to answer that question.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S1.mp3"
+    },
+    {
+      "sentence": "I would like to compete in a cooking contest.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S2.mp3"
+    },
+    {
+      "sentence": "I would like to explain myself.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S3.mp3"
+    },
+    {
+      "sentence": "I would like to invite you over.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S4.mp3"
+    },
+    {
+      "sentence": "I would like to practice.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S5.mp3"
+    },
+    {
+      "sentence": "I would like to become a doctor.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S6.mp3"
+    },
+    {
+      "sentence": "I would like to see you more often.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S7.mp3"
+    },
+    {
+      "sentence": "I would like to thank you.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S8.mp3"
+    },
+    {
+      "sentence": "I would like to learn about animals.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S9.mp3"
+    },
+    {
+      "sentence": "I would like to meet the President.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E15/sentence/E015S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2016",
+  "crawledAt": "2025-11-24T14:09:27.509Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 46,
+  "sectionId": 2,
+  "number": 17,
+  "title": "I'm not sure if (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2047",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2047-long.mp3",
+  "content": "'I'm not sure' expresses a feeling of uncertainty or lack of confidence on a particular matter.\nHere are some examples:\n\"I am not sure if they will offer me the job.\"\n\"I'm not sure if she'll return my call.\"\n\"I'm not sure if my wife will understand.\"\n\"I'm not sure if we will go out tonight.\"\n\"I'm not sure if I understand your question.\"\n\"I am not sure if I can handle it.\"\n\"I am not sure if it will happen.\"\n\"I am not sure if it will matter.\"\n\"I am not sure if my mom will notice.\"\n\"I am not sure if they will permit us to park there.\"",
+  "examples": [
+    {
+      "sentence": "I am not sure if they will offer me the job.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S1.mp3"
+    },
+    {
+      "sentence": "I'm not sure if she'll return my call.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S2.mp3"
+    },
+    {
+      "sentence": "I'm not sure if my wife will understand.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S3.mp3"
+    },
+    {
+      "sentence": "I'm not sure if we will go out tonight.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S4.mp3"
+    },
+    {
+      "sentence": "I'm not sure if I understand your question.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S5.mp3"
+    },
+    {
+      "sentence": "I am not sure if I can handle it.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S6.mp3"
+    },
+    {
+      "sentence": "I am not sure if it will happen.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S7.mp3"
+    },
+    {
+      "sentence": "I am not sure if it will matter.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S8.mp3"
+    },
+    {
+      "sentence": "I am not sure if my mom will notice.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S9.mp3"
+    },
+    {
+      "sentence": "I am not sure if they will permit us to park there.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E47/sentence/E047S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2048",
+  "crawledAt": "2025-11-24T14:10:09.254Z"
+}

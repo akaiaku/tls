@@ -1,0 +1,120 @@
+{
+  "id": 879,
+  "sectionId": 32,
+  "number": 17,
+  "title": "Basic Listening Lesson #17",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=116",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L74/practice/L74P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What does limping mean?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To crawl"
+          },
+          {
+            "value": "b",
+            "text": "To cringe due to pain"
+          },
+          {
+            "value": "c",
+            "text": "Walk that is unbalanced from injury or pain"
+          },
+          {
+            "value": "d",
+            "text": "Walk that is faster than normal"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why was Sarah limping?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She was running late for class and was in a hurry"
+          },
+          {
+            "value": "b",
+            "text": "She went snowboarding and had body aches"
+          },
+          {
+            "value": "c",
+            "text": "She was looking for her contacts that fell to the ground"
+          },
+          {
+            "value": "d",
+            "text": "She was practicing a martial arts move"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What would happen in the past when Matt walked too fast?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He would trip and fall"
+          },
+          {
+            "value": "b",
+            "text": "His leg would cramp"
+          },
+          {
+            "value": "c",
+            "text": "He would start running"
+          },
+          {
+            "value": "d",
+            "text": "He looked goofy walking fast"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is Sarah's impression on snowboarding?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Loves it and wants to go again"
+          },
+          {
+            "value": "b",
+            "text": "Loves it but it is too expensive"
+          },
+          {
+            "value": "c",
+            "text": "Not sure yet so she will try again"
+          },
+          {
+            "value": "d",
+            "text": "Hates it and doesn't want to think about it"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Walk that is unbalanced from injury or pain",
+      "She went snowboarding and had body aches",
+      "His leg would cramp",
+      "Hates it and doesn't want to think about it"
+    ]
+  },
+  "transcript": "A: \"Hey Sarah. Why are you limping?\"\nB: \"Oh. Hi Matt. I went snowboarding yesterday and my whole body aches.\"\nA: \"Was it your first time?\"\nB: \"Yeah. And I never want to go again.\"\nA: \"I remember the first time I went. My back was sore, I couldn't sit down because it hurt my butt, and my legs would cramp if I walked too fast.\"\nB: \"That's exactly how I feel now.\"\nA: \"It's only like that the first couple of times.\"\nB: \"Ha. There won't be a next time.\"\nA: \"You gotta give it a chance. It's fun after awhile.\"\nB: \"I'll think about it after I start feeling better. Right now, I don't even want to hear the word snowboarding.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=117",
+  "crawledAt": "2025-11-24T14:29:02.092Z"
+}

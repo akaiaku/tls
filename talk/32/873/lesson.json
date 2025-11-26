@@ -1,0 +1,120 @@
+{
+  "id": 873,
+  "sectionId": 32,
+  "number": 11,
+  "title": "Basic Listening Lesson #11",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=110",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L39/practice/L39P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What does Jimmy's friend want to do later?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Workout"
+          },
+          {
+            "value": "b",
+            "text": "Eat lunch"
+          },
+          {
+            "value": "c",
+            "text": "Sleep"
+          },
+          {
+            "value": "d",
+            "text": "Play basketball"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What time do that plan on meeting?",
+        "options": [
+          {
+            "value": "a",
+            "text": "After dinner"
+          },
+          {
+            "value": "b",
+            "text": "At 3:30"
+          },
+          {
+            "value": "c",
+            "text": "Ten in the morning"
+          },
+          {
+            "value": "d",
+            "text": "After lunch at 1:00"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What did he do earlier that caused soreness in his legs?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Lifted weights"
+          },
+          {
+            "value": "b",
+            "text": "Skiing with friends"
+          },
+          {
+            "value": "c",
+            "text": "Played soccer all day"
+          },
+          {
+            "value": "d",
+            "text": "Played basketball"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Where are they going to meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At Jimmy's house"
+          },
+          {
+            "value": "b",
+            "text": "At the coffee shop down the street"
+          },
+          {
+            "value": "c",
+            "text": "By the bus stop"
+          },
+          {
+            "value": "d",
+            "text": "At the gym"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Workout",
+      "At 3:",
+      "Played basketball",
+      "At the gym"
+    ]
+  },
+  "transcript": "A: \"Hey Jimmy. Let's go workout later today.\"\nB: \"Sure. What time do you want to go?\"\nA: \"How about at 3:30.\"\nB: \"That sounds good. Today we work on Legs and forearm.\"\nA: \"Hey. I just played basketball earlier, so my legs are a little sore. Let's work out on arms and stomach today.\"\nB: \"I'm on a weekly schedule. You're messing everything up.\"\nA: \"C'mon. We're only switching two days. You can do legs on Friday.\"\nB: \"Aright. I'll meet you at the gym at 3:30 then.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=111",
+  "crawledAt": "2025-11-24T14:28:44.762Z"
+}

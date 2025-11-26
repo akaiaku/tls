@@ -1,0 +1,68 @@
+{
+  "id": 5,
+  "sectionId": 1,
+  "number": 5,
+  "title": "I'm getting",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2006",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2006-long.mp3",
+  "content": "When combining the words 'I am' and 'getting' you are telling someone 'you' are gaining possession, being affected by or have plans to seek out and obtain a particular thing.\nHere are some examples:\n\"I'm getting better.\"\n\"I'm getting ready for bed.\"\n\"I'm getting a tooth ache.\"\n\"I'm getting a cold.\"\n\"I'm getting married.\"\n\"I'm getting tired.\"\n\"I'm getting good at reading.\"\n\"I'm getting a new car.\"\n\"I'm getting a job.\"\n\"I'm getting a puppy.\"",
+  "examples": [
+    {
+      "sentence": "I'm getting better.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S1.mp3"
+    },
+    {
+      "sentence": "I'm getting ready for bed.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S2.mp3"
+    },
+    {
+      "sentence": "I'm getting a tooth ache.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S3.mp3"
+    },
+    {
+      "sentence": "I'm getting a cold.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S4.mp3"
+    },
+    {
+      "sentence": "I'm getting married.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S5.mp3"
+    },
+    {
+      "sentence": "I'm getting tired.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S6.mp3"
+    },
+    {
+      "sentence": "I'm getting good at reading.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S7.mp3"
+    },
+    {
+      "sentence": "I'm getting a new car.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S8.mp3"
+    },
+    {
+      "sentence": "I'm getting a job.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S9.mp3"
+    },
+    {
+      "sentence": "I'm getting a puppy.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E06/sentence/E006S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2007",
+  "crawledAt": "2025-11-24T14:09:16.070Z"
+}

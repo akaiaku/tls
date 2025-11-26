@@ -1,0 +1,68 @@
+{
+  "id": 79,
+  "sectionId": 3,
+  "number": 20,
+  "title": "Let's not + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2080",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2080-long.mp3",
+  "content": "The word 'let's' is formed from the words 'let us.' Here you are requesting that something not take place at this moment or that what is happening needs to be contained or lessened.\nHere are some examples:\n\"Let's not discuss this now.\"\n\"Let's not stay here too long.\"\n\"Let's not stop anywhere on the way.\"\n\"Let's not remain mad at each other.\"\n\"Let's not meddle in other people's business.\"\n\"Let us not get too excited.\"\n\"Let us not worry too much.\"\n\"Let us not interrupt them when they are talking.\"\n\"Let us help you.\"\n\"Let us get that for you.\"",
+  "examples": [
+    {
+      "sentence": "Let's not discuss this now.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S1.mp3"
+    },
+    {
+      "sentence": "Let's not stay here too long.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S2.mp3"
+    },
+    {
+      "sentence": "Let's not stop anywhere on the way.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S3.mp3"
+    },
+    {
+      "sentence": "Let's not remain mad at each other.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S4.mp3"
+    },
+    {
+      "sentence": "Let's not meddle in other people's business.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S5.mp3"
+    },
+    {
+      "sentence": "Let us not get too excited.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S6.mp3"
+    },
+    {
+      "sentence": "Let us not worry too much.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S7.mp3"
+    },
+    {
+      "sentence": "Let us not interrupt them when they are talking.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S8.mp3"
+    },
+    {
+      "sentence": "Let us help you.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S9.mp3"
+    },
+    {
+      "sentence": "Let us get that for you.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E80/sentence/E080S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2081",
+  "crawledAt": "2025-11-24T14:10:52.164Z"
+}

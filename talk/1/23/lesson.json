@@ -1,0 +1,68 @@
+{
+  "id": 23,
+  "sectionId": 1,
+  "number": 23,
+  "title": "I can't help + (verb-ing)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2024",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2024-long.mp3",
+  "content": "The word 'can't' is contraction for 'cannot.' Combined with 'help' you are communicating something you are unable to control or having a hard time gaining a grasp for. This can be a physical or mental action.\nHere are some examples:\n\"I can't help thinking about it.\"\n\"I can't help shopping so much.\"\n\"I can't help working all the time.\"\n\"I can't help smiling when I see her.\"\n\"I can't help eating so much.\"\n\"I can't help loving you.\"\n\"I can not help biting my nails when I am nervous.\"\n\"I can not help smoking when I have been drinking.\"\n\"I cannot help feeling so sad.\"\n\"I cannot help remembering the things you did.\"",
+  "examples": [
+    {
+      "sentence": "I can't help thinking about it.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S1.mp3"
+    },
+    {
+      "sentence": "I can't help shopping so much.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S2.mp3"
+    },
+    {
+      "sentence": "I can't help working all the time.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S3.mp3"
+    },
+    {
+      "sentence": "I can't help smiling when I see her.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S4.mp3"
+    },
+    {
+      "sentence": "I can't help eating so much.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S5.mp3"
+    },
+    {
+      "sentence": "I can't help loving you.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S6.mp3"
+    },
+    {
+      "sentence": "I can not help biting my nails when I am nervous.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S7.mp3"
+    },
+    {
+      "sentence": "I can not help smoking when I have been drinking.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S8.mp3"
+    },
+    {
+      "sentence": "I cannot help feeling so sad.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S9.mp3"
+    },
+    {
+      "sentence": "I cannot help remembering the things you did.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E24/sentence/E024S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2025",
+  "crawledAt": "2025-11-24T14:09:39.218Z"
+}

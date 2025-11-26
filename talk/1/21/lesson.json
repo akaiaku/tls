@@ -1,0 +1,68 @@
+{
+  "id": 21,
+  "sectionId": 1,
+  "number": 21,
+  "title": "I'd rather + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2022",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2022-long.mp3",
+  "content": "'I'd' is a contraction of the words 'I had' or 'I would.'\nWhen using it with the word 'rather' you are suggesting you would like to do or prefer one thing more than another.\nHere are some examples:\n\"I'd rather talk about this later.\"\n\"I'd like to eat at home than go get fast food.\"\n\"I'd rather ski than snowboard.\"\n\"I'd rather stay late than come in early tomorrow.\"\n\"I'd rather handle the problem myself.\"\n\"I had rather go home than stay out too late.\"\n\"I had rather listen to my parents or get in trouble.\"\n\"I would rather exercise than sit on the couch all day.\"\n\"I would rather complete my task early.\"\n\"I would rather know the answer.\"",
+  "examples": [
+    {
+      "sentence": "I'd rather talk about this later.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S1.mp3"
+    },
+    {
+      "sentence": "I'd like to eat at home than go get fast food.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S2.mp3"
+    },
+    {
+      "sentence": "I'd rather ski than snowboard.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S3.mp3"
+    },
+    {
+      "sentence": "I'd rather stay late than come in early tomorrow.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S4.mp3"
+    },
+    {
+      "sentence": "I'd rather handle the problem myself.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S5.mp3"
+    },
+    {
+      "sentence": "I had rather go home than stay out too late.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S6.mp3"
+    },
+    {
+      "sentence": "I had rather listen to my parents or get in trouble.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S7.mp3"
+    },
+    {
+      "sentence": "I would rather exercise than sit on the couch all day.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S8.mp3"
+    },
+    {
+      "sentence": "I would rather complete my task early.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S9.mp3"
+    },
+    {
+      "sentence": "I would rather know the answer.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E22/sentence/E022S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2023",
+  "crawledAt": "2025-11-24T14:09:36.607Z"
+}

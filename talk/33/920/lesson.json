@@ -1,0 +1,120 @@
+{
+  "id": 920,
+  "sectionId": 33,
+  "number": 24,
+  "title": "Intermediate Listening Lesson #24",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=223",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L143/practice/L143P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is this person looking for today?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Ring, necklace, and bracelet"
+          },
+          {
+            "value": "b",
+            "text": "Ring and necklace"
+          },
+          {
+            "value": "c",
+            "text": "Bracelet and necklace"
+          },
+          {
+            "value": "d",
+            "text": "Engagement ring"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What size ring is this person looking for?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Size 6"
+          },
+          {
+            "value": "b",
+            "text": "Size 6.5"
+          },
+          {
+            "value": "c",
+            "text": "Size 7"
+          },
+          {
+            "value": "d",
+            "text": "Size 7.5"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What was the problem with the first necklace?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It was too expensive"
+          },
+          {
+            "value": "b",
+            "text": "It didn't match the ring"
+          },
+          {
+            "value": "c",
+            "text": "It was too long"
+          },
+          {
+            "value": "d",
+            "text": "It was too short"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What happened after looking at all the items?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The person bought them all"
+          },
+          {
+            "value": "b",
+            "text": "The person will wait for a sale"
+          },
+          {
+            "value": "c",
+            "text": "The person wants to think about it"
+          },
+          {
+            "value": "d",
+            "text": "The person bought only the ring"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Ring and necklace",
+      "Size",
+      "It was too short",
+      "The person wants to think about it"
+    ]
+  },
+  "transcript": "A: \"Hi. Can I help you with anything?\"\nB: \"Yeah. Can I look at this ring?\"\nA: \"Sure. Let me get it out for you. What is your size?\"\nB: \"I believe I am a six.\"\nA: \"Here you go.\"\nB: \"Would you have any necklace that would go well with this?\"\nA: \"Actually, we have a few to choose from. They are over here.\"\nB: \"There's no price tag on this necklace.\"\nA: \"Oh. I'm sorry. I'll check the price for you. It is $199.\"\nB: \"This necklace is a little short. Do you have one that is longer?\"\nA: \"Yes. Why don't you try this one on.\"\nB: \"This one is much better. Can I try on the ring with this necklace?\"\nA: \"Sure. Here you go.\"\nB: \"Let me think about it.\"\nA: \"Sure. Take your time.\"\nB: \"Thank you for all the help.\"\nA: \"No problem at all.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=224",
+  "crawledAt": "2025-11-24T14:30:58.084Z"
+}

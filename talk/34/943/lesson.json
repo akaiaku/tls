@@ -1,0 +1,120 @@
+{
+  "id": 943,
+  "sectionId": 34,
+  "number": 13,
+  "title": "Advanced Listening Lesson #13",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=312",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L104/practice/L104P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why did Samantha start exercising?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To look good in bed"
+          },
+          {
+            "value": "b",
+            "text": "Started dating a personal trainer"
+          },
+          {
+            "value": "c",
+            "text": "Wants to look perfect"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How long have they been dating?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A week"
+          },
+          {
+            "value": "b",
+            "text": "A month and a half"
+          },
+          {
+            "value": "c",
+            "text": "3 months"
+          },
+          {
+            "value": "d",
+            "text": "6 months"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What area is the father suffering from?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Back pains"
+          },
+          {
+            "value": "b",
+            "text": "Stomach pains"
+          },
+          {
+            "value": "c",
+            "text": "Chest pains"
+          },
+          {
+            "value": "d",
+            "text": "Leg pains"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the diagnosis that the father received from the doctors?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Hasn't been to the doctors yet"
+          },
+          {
+            "value": "b",
+            "text": "He has stomach flu"
+          },
+          {
+            "value": "c",
+            "text": "Doctors do not know yet"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "All of the above",
+      "A month and a half",
+      "Stomach pains",
+      "Doctors do not know yet"
+    ]
+  },
+  "transcript": "A: \"Hey Samantha. You've been so busy lately. What have you been up to?\"\nB: \"Hey Jackie. I started dating this cute guy and decided to start exercising.\"\nA: \"You're not out of shape. You look fine.\"\nB: \"Well, this guy I am seeing is a personal trainer and he has a perfect body. Compared to him, I need some work.\"\nA: \"How long have you seen him?\"\nB: \"We've been together for about a month and a half.\"\nA: \"Did you sleep with him yet?\"\nB: \"Not yet. But before I get into bed with him, I want to look fit.\"\nA: \"That's not the greatest reason to exercise, but I guess it is a valid one.\"\nB: \"How about you? Anything new in your life?\"\nA: \"My father is a little ill. He has been to the doctor's quite a bit lately but they don't know what is wrong with him. He complains about stomach pains a lot these days.\"\nB: \"I'm sorry to hear that. Any idea what could have caused it?\"\nA: \"He says it is because he didn't take care of himself when he was young. That's why I want to start thinking about my health.\"\nB: \"I think it is important to take care of yourself while you are young too. Even though my reasons are not the best, at least I am working on it.\"\nA: \"How are your parents doing?\"\nB: \"They're doing great. I'm thankful that they are healthy.\"\nA: \"That's good to hear. Well, I gotta get running now. I'll catch you later.\"\nB: \"Ok. Send my regards to your father.\"\nA: \"I will. Thanks.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=313",
+  "crawledAt": "2025-11-24T14:32:05.950Z"
+}

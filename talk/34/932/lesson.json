@@ -1,0 +1,120 @@
+{
+  "id": 932,
+  "sectionId": 34,
+  "number": 2,
+  "title": "Advanced Listening Lesson #02",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=301",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L51/practice/L51P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Jack so tired?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He was up all night drinking at a party"
+          },
+          {
+            "value": "b",
+            "text": "He was up all night studying"
+          },
+          {
+            "value": "c",
+            "text": "He got sick and is feeling tired all the time"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What does cramming mean in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To drink as much as possible in a short amount of time"
+          },
+          {
+            "value": "b",
+            "text": "To pack for vacation using one small bag"
+          },
+          {
+            "value": "c",
+            "text": "To do last minute studying"
+          },
+          {
+            "value": "d",
+            "text": "To have muscle pain from running too much"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What subject and how many pages does one student have to write?",
+        "options": [
+          {
+            "value": "a",
+            "text": "5 pages for English literature"
+          },
+          {
+            "value": "b",
+            "text": "10 pages for English literature"
+          },
+          {
+            "value": "c",
+            "text": "5 pages for Psychology"
+          },
+          {
+            "value": "d",
+            "text": "10 pages for Psychology"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Why are they going to meet on Saturday?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because one student will help the other in Biology"
+          },
+          {
+            "value": "b",
+            "text": "Because one student will help the other in Chemistry"
+          },
+          {
+            "value": "c",
+            "text": "To share notes in the history class they are taking"
+          },
+          {
+            "value": "d",
+            "text": "To study together for the Psychology exam"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "He was up all night studying",
+      "To do last minute studying",
+      "10 pages for Psychology",
+      "Because one student will help the other in Chemistry"
+    ]
+  },
+  "transcript": "A: \"Hey Jack. You look tired. What's going on?\"\nB: \"It's finals week and I have been up all night studying.\"\nA: \"How many exams do you have left?\"\nB: \"Three more to go?\"\nA: \"Have you been keeping up, or are you cramming everything?\"\nB: \"If I was keeping up, I wouldn't need to stay up all night.\"\nA: \"Ha ha ha. Looks like you are in for a tough week.\"\nB: \"Tell me about it. How about you? What have you been up to?\"\nA: \"I finished my last final this morning.\"\nB: \"So you're completely done?\"\nA: \"No. I have one more report that is due this Friday. I haven't started it yet, but it shouldn't be too tough.\"\nB: \"How many pages do you have to write?\"\nA: \"It's a 10 page paper on habitual behavior for psychology 211.\"\nB: \"You wanna take one of my exams for me?\"\nA: \"I would if I could, but you know that's not possible.\"\nB: \"Yeah, I know.\"\nA: \"If you need help with your chemistry class, I can help you over the weekend.\"\nB: \"That would be great.\"\nA: \"Let's get together Saturday around lunch time.\"\nB: \"You don't know how much this means to me. Thanks.\"\nA: \"Don't mention it. I'll see you on Saturday.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=302",
+  "crawledAt": "2025-11-24T14:31:31.702Z"
+}

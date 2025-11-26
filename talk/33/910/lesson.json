@@ -1,0 +1,120 @@
+{
+  "id": 910,
+  "sectionId": 33,
+  "number": 14,
+  "title": "Intermediate Listening Lesson #14",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=213",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L77/practice/L77P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "How many months has Julie been on a diet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "1 month"
+          },
+          {
+            "value": "b",
+            "text": "2 months"
+          },
+          {
+            "value": "c",
+            "text": "3 months"
+          },
+          {
+            "value": "d",
+            "text": "6 months"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "How much weight did Julie lose so far?",
+        "options": [
+          {
+            "value": "a",
+            "text": "5 pounds"
+          },
+          {
+            "value": "b",
+            "text": "15 pounds"
+          },
+          {
+            "value": "c",
+            "text": "20 pounds"
+          },
+          {
+            "value": "d",
+            "text": "25 pounds"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What was the main tip Julie got from her trainer?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Eat less"
+          },
+          {
+            "value": "b",
+            "text": "Exercise more"
+          },
+          {
+            "value": "c",
+            "text": "Eat 2 times a day"
+          },
+          {
+            "value": "d",
+            "text": "Eat 5 times a day"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Does Julie think Barbara should try this?",
+        "options": [
+          {
+            "value": "a",
+            "text": "No. Julie thinks Barbara doesn't need to go on a diet"
+          },
+          {
+            "value": "b",
+            "text": "No. It wouldn't work for someone like Barbara"
+          },
+          {
+            "value": "c",
+            "text": "Yes. Barbara is much fatter than Julie and needs to go on a diet"
+          },
+          {
+            "value": "d",
+            "text": "Yes. Barbara is similar to Julie so she should use the same plan"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "2 months",
+      "15 pounds",
+      "Eat 5 times a day",
+      "No. Julie thinks Barbara doesn't need to go on a diet"
+    ]
+  },
+  "transcript": "A: \"Hi Barbara. Have you lost weight?\"\nB: \"Hi Julie. Yeah. I've been on a diet for a couple of months now.\"\nA: \"Wow. You look great.\"\nB: \"Thanks for noticing.\"\nA: \"What type of diet were you on?\"\nB: \"I joined a health club and my trainer gave me tips on eating. With a combination of eating better and exercising, I managed to lose 15 pounds in 2 months.\"\nA: \"That's amazing. What tips did your trainer give you?\"\nB: \"Mostly on how to exercise, but the best advice I got was changing my eating habits. Instead of eating 3 times a day, she told me to eat 5 times a day.\"\nA: \"That doesn't make sense. If you eat more, than how do you lose weight?\"\nB: \"Actually, I'm eating the same amount. I eat 5 smaller meals a day. Basically, it naturally speeds up the metabolism and helps to burn fat at a faster rate.\"\nA: \"That makes sense. I'm going to try that.\"\nB: \"You don't need to lose weight.\"\nA: \"I have a little gut I have been trying to get rid of.\"\nB: \"Ah... but remember to incorporate a little exercise into your diet.\"\nA: \"Thanks for the advice.\"\nB: \"No problem.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=214",
+  "crawledAt": "2025-11-24T14:30:28.748Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 893,
+  "sectionId": 32,
+  "number": 31,
+  "title": "Basic Listening Lesson #31",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=130",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L165/practice/L165P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the topic of this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "University classes"
+          },
+          {
+            "value": "b",
+            "text": "A friend who is not himself lately"
+          },
+          {
+            "value": "c",
+            "text": "Partying and drinking"
+          },
+          {
+            "value": "d",
+            "text": "A friend with a pretty girlfriend"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why is Sam depressed?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He failed an important exam"
+          },
+          {
+            "value": "b",
+            "text": "His girlfriend broke up with him"
+          },
+          {
+            "value": "c",
+            "text": "He wasn't invited to a big party"
+          },
+          {
+            "value": "d",
+            "text": "He failed one of his university classes"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What has Sam been doing for the last several days?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Sitting in his room"
+          },
+          {
+            "value": "b",
+            "text": "Exercising all day long"
+          },
+          {
+            "value": "c",
+            "text": "Thinking about his girlfriend"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What are they going to do about Sam?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Try to take him out"
+          },
+          {
+            "value": "b",
+            "text": "Talk to his girlfriend"
+          },
+          {
+            "value": "c",
+            "text": "Help him study"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "A friend who is not himself lately",
+      "He failed an important exam",
+      "Sitting in his room",
+      "Try to take him out"
+    ]
+  },
+  "transcript": "A: \"Hey Mike. What are you doing?\"\nB: \"Nothing much. What are you up to?\"\nA: \"I was just concerned about Sam. He hasn't been himself lately.\"\nB: \"He took the civil service exam and failed.\"\nA: \"That sucks. He must feel depressed.\"\nB: \"Yeah. He's been sitting in his room everyday for the last 4 days.\"\nA: \"Why don't we take him out? We can try to take his mind off of it. In the least show him that we're there for him.\"\nB: \"That's a great idea. Why don't you call him. I already talked to him a couple of times and it might be good for him to hear from somebody else.\"\nA: \"Ok. I'll call you back after I'm done.\"\nB: \"Sounds good.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=131",
+  "crawledAt": "2025-11-24T14:29:40.777Z"
+}

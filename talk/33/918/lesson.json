@@ -1,0 +1,120 @@
+{
+  "id": 918,
+  "sectionId": 33,
+  "number": 22,
+  "title": "Intermediate Listening Lesson #22",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=221",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L140/practice/L140P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the person trying on in the dressing room?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Pants"
+          },
+          {
+            "value": "b",
+            "text": "Jacket"
+          },
+          {
+            "value": "c",
+            "text": "Sweater"
+          },
+          {
+            "value": "d",
+            "text": "Shirt"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How can this person save 10% off the sweater?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Waiting until the sale happens this weekend"
+          },
+          {
+            "value": "b",
+            "text": "Using a coupon in the catalog"
+          },
+          {
+            "value": "c",
+            "text": "Filling out a survey"
+          },
+          {
+            "value": "d",
+            "text": "Opening a department store credit card"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What else is this person looking for?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Pants"
+          },
+          {
+            "value": "b",
+            "text": "Jacket"
+          },
+          {
+            "value": "c",
+            "text": "Sweater"
+          },
+          {
+            "value": "d",
+            "text": "Shirt"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why is the person not going to buy the second item?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Jacket sleeves are too long"
+          },
+          {
+            "value": "b",
+            "text": "Pants are too long"
+          },
+          {
+            "value": "c",
+            "text": "Sweater is too bulky"
+          },
+          {
+            "value": "d",
+            "text": "The shirt is too tight"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Sweater",
+      "Opening a department store credit card",
+      "Pants",
+      "Pants are too long"
+    ]
+  },
+  "transcript": "A: \"Where is your dressing room?\"\nB: \"Right over there.\"\nPerson A comes out of the dressing room\nB: \"How did you like the sweater?\"\nA: \"I loved it. I'll take it.\"\nB: \"Great. I can ring you up over here. It comes to $87.04.\"\nA: \"Here you go?\"\nB: \"Do you have a credit card with us?\"\nA: \"No I don't.\"\nB: \"If you open up a card, you can save 10% on all your purchases today.\"\nA: \"Not today. Thanks though.\"\nB: \"No problem. We always have this offer, so when ever you decide to, just let us know.\"\nA: \"Sure.\"\nB: \"Is there anything else I can help you with?\"\nA: \"Yeah. I was looking at some of your pants, but they are all a bit too long. Do you have alteration services here?\"\nB: \"Yes. It cost $7, and it takes one day.\"\nA: \"Great. Thanks for your help.\"\nB: \"Thank you, and have a great day.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=222",
+  "crawledAt": "2025-11-24T14:30:52.399Z"
+}

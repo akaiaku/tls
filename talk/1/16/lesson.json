@@ -1,0 +1,68 @@
+{
+  "id": 16,
+  "sectionId": 1,
+  "number": 16,
+  "title": "I've decided to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2017",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2017-long.mp3",
+  "content": "'I've' is short for 'I have' and including the word 'decided' you are stating that you have made a decision or come to a conclusion.\nHere are some examples:\n\"I've decided to accept the job.\"\n\"I've decided to complete my degree.\"\n\"I've decided to change my bad habits.\"\n\"I've decided to extend my membership at the gym.\"\n\"I've decided to form a chess club.\"\n\"I've decided to hand over my responsibilities.\"\n\"I've decided to help you move.\"\n\"I've decided to interview for the job.\"\n\"I've decided to increase my work load.\"\n\"I've decided to manage a store.\"",
+  "examples": [
+    {
+      "sentence": "I've decided to accept the job.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S1.mp3"
+    },
+    {
+      "sentence": "I've decided to complete my degree.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S2.mp3"
+    },
+    {
+      "sentence": "I've decided to change my bad habits.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S3.mp3"
+    },
+    {
+      "sentence": "I've decided to extend my membership at the gym.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S4.mp3"
+    },
+    {
+      "sentence": "I've decided to form a chess club.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S5.mp3"
+    },
+    {
+      "sentence": "I've decided to hand over my responsibilities.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S6.mp3"
+    },
+    {
+      "sentence": "I've decided to help you move.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S7.mp3"
+    },
+    {
+      "sentence": "I've decided to interview for the job.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S8.mp3"
+    },
+    {
+      "sentence": "I've decided to increase my work load.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S9.mp3"
+    },
+    {
+      "sentence": "I've decided to manage a store.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E17/sentence/E017S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2018",
+  "crawledAt": "2025-11-24T14:09:30.069Z"
+}

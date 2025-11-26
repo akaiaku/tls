@@ -1,0 +1,68 @@
+{
+  "id": 26,
+  "sectionId": 1,
+  "number": 26,
+  "title": "I want you to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2027",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2027-long.mp3",
+  "content": "I want you to' is telling someone that you have a desire or would like for them to do something.\nHere are some examples:\n\"I want you to clean the dishes.\"\n\"I want you to come home right after school.\"\n\"I want you to call once you get there.\"\n\"I want you to explain yourself to me.\"\n\"I want you to educate me.\"\nBy using the word 'need' instead of 'want' you are expressing something that is required or wanted.\nHere are some examples:\n\"I need you to study harder in school.\"\n\"I need you to stop and listen to me.\"\n\"I need you to greet our guests.\"\n\"I need you to introduce me to your family.\"\n\"I need to request a refund.\"",
+  "examples": [
+    {
+      "sentence": "I want you to clean the dishes.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S1.mp3"
+    },
+    {
+      "sentence": "I want you to come home right after school.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S2.mp3"
+    },
+    {
+      "sentence": "I want you to call once you get there.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S3.mp3"
+    },
+    {
+      "sentence": "I want you to explain yourself to me.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S4.mp3"
+    },
+    {
+      "sentence": "I want you to educate me.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S5.mp3"
+    },
+    {
+      "sentence": "I need you to study harder in school.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S6.mp3"
+    },
+    {
+      "sentence": "I need you to stop and listen to me.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S7.mp3"
+    },
+    {
+      "sentence": "I need you to greet our guests.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S8.mp3"
+    },
+    {
+      "sentence": "I need you to introduce me to your family.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S9.mp3"
+    },
+    {
+      "sentence": "I need to request a refund.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E27/sentence/E027S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2028",
+  "crawledAt": "2025-11-24T14:09:43.120Z"
+}

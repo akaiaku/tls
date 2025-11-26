@@ -1,0 +1,120 @@
+{
+  "id": 902,
+  "sectionId": 33,
+  "number": 6,
+  "title": "Intermediate Listening Lesson #06",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=205",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L47/practice/L47P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Mike forgot to register for classes. What is the consequence of missing your registration day?",
+        "options": [
+          {
+            "value": "a",
+            "text": "You have to wait until everyone registers"
+          },
+          {
+            "value": "b",
+            "text": "He can register any time afterwards, but most of the classes will be full"
+          },
+          {
+            "value": "c",
+            "text": "He can register and his seniority will allow him to choose any class"
+          },
+          {
+            "value": "d",
+            "text": "He has to take this semester off"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why will psychology 101 be available to take?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because the class is very big with many seats"
+          },
+          {
+            "value": "b",
+            "text": "Because nobody takes that class"
+          },
+          {
+            "value": "c",
+            "text": "Because the subject is boring"
+          },
+          {
+            "value": "d",
+            "text": "Because it is not a requirement"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What recommendation is given if a class is already full?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go to the registration building"
+          },
+          {
+            "value": "b",
+            "text": "Get on the waiting list"
+          },
+          {
+            "value": "c",
+            "text": "Find the professor and get permission"
+          },
+          {
+            "value": "d",
+            "text": "Show up to class on the first day without registering"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does the professor accept more students than the class allows?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because he wants as many students to teach as possible"
+          },
+          {
+            "value": "b",
+            "text": "Because he is a nice professor wanting to help"
+          },
+          {
+            "value": "c",
+            "text": "Because many students drop out of the class"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "He can register any time afterwards, but most of the classes will be full",
+      "Because the class is very big with many seats",
+      "Find the professor and get permission",
+      "Because many students drop out of the class"
+    ]
+  },
+  "transcript": "A: \"Hey Mike. I forgot about registration. I'm a day late, so all the classes are mostly full. What do you think I should do?\"\nB: \"You're screwed. You can't do anything about that. You have to hope that you get some classes that will be useful.\"\nA: \"Do you think going to the registration building will help at all.\"\nB: \"No. They will tell you the same thing in a worse way.\"\nA: \"Did you register yet?\"\nB: \"Of course. Registering for classes is not something you want to miss.\"\nA: \"What classes do you think are still open?\"\nB: \"Well, I know psychology 101 is a big class, so there will always be seats in that class. You can also get into Sociology.\"\nA: \"That's helpful. Thanks. But what do you think about philosophy. I wanted to take that class this semester.\"\nB: \"I took that class last year. The professor is really cool, so if you go to his office, you can have him sign a card that will let you in even if the class is full.\"\nA: \"He does that?\"\nB: \"I guess that's because so many people drop out of that class.\"\nA: \"That makes sense. I think I'll do that. Thanks for all the help.\"\nB: \"No problem man.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=206",
+  "crawledAt": "2025-11-24T14:30:05.572Z"
+}

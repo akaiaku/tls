@@ -1,0 +1,120 @@
+{
+  "id": 874,
+  "sectionId": 32,
+  "number": 12,
+  "title": "Basic Listening Lesson #12",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=111",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L39/practice/L39P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "How would you describe Scott?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Very tall and skinny"
+          },
+          {
+            "value": "b",
+            "text": "Slender with broad shoulders"
+          },
+          {
+            "value": "c",
+            "text": "Big and muscular"
+          },
+          {
+            "value": "d",
+            "text": "Short and fat"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How long has it been since these two last saw each other?",
+        "options": [
+          {
+            "value": "a",
+            "text": "6 months ago"
+          },
+          {
+            "value": "b",
+            "text": "10 months ago"
+          },
+          {
+            "value": "c",
+            "text": "A year and a half ago"
+          },
+          {
+            "value": "d",
+            "text": "Two years ago"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How often does Scott go to the gym?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Never"
+          },
+          {
+            "value": "b",
+            "text": "Once a month"
+          },
+          {
+            "value": "c",
+            "text": "Every day for an hour"
+          },
+          {
+            "value": "d",
+            "text": "Every other day for 3 hours"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Why does Scott work out so much?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get noticeable results"
+          },
+          {
+            "value": "b",
+            "text": "Because he will be bored"
+          },
+          {
+            "value": "c",
+            "text": "To enter a competition"
+          },
+          {
+            "value": "d",
+            "text": "To train for a marathon"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Big and muscular",
+      "Two years ago",
+      "Every other day for 3 hours",
+      "To get noticeable results"
+    ]
+  },
+  "transcript": "A: \"Damn Scott. You got big.\"\nB: \"Yeah, I've been working out a lot.\"\nA: \"How long have you been lifting weights?\"\nB: \"For a year and a half.\"\nA: \"Yeah. Last time I saw you, it was like 2 years ago.\"\nB: \"Has it been that long?\"\nA: \"How often do you go to the gym?\"\nB: \"I usually go every other day for about 3 hours.\"\nA: \"That's a lot.\"\nB: \"Yeah, I used to work out for an hour a day 4 times a week, and I saw no results. This is what you have to do to get noticeable results.\"\nA: \"I don't think I have the discipline for that.\"\nB: \"Just think of it as a hobby. Then it's actually fun.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=112",
+  "crawledAt": "2025-11-24T14:28:47.687Z"
+}

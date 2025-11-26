@@ -1,0 +1,93 @@
+{
+  "id": 1,
+  "sectionId": 1,
+  "number": 1,
+  "title": "I'm",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2001",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2001-long.mp3",
+  "content": "'I'm' is an abbreviation for the word 'I AM.' It is used in combination with other words to tell someone about yourself or to describe something you are doing.\nHere are some examples:\n\"I'm so tired.\"\n\"I'm confused.\"\n\"I'm happy.\"\n\"I'm twenty three years old.\"\n\"I'm hungry.\"\n\"I'm nervous.\"\n\"I'm excited.\"\n\"I'm leaving work.\"\n\"I'm thirsty.\"\n\"I'm from Seattle.\"\nYou can also add descriptive words with 'I'm' such as:\n\"I'm extremely tired.\"\n\"I'm very happy.\"\n\"I'm terribly hungry.\"\n\"I am super excited.\"\n\"I'm very nervous.\"",
+  "examples": [
+    {
+      "sentence": "I'm so tired.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S1.mp3"
+    },
+    {
+      "sentence": "I'm confused.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S2.mp3"
+    },
+    {
+      "sentence": "I'm happy.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S3.mp3"
+    },
+    {
+      "sentence": "I'm twenty three years old.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S4.mp3"
+    },
+    {
+      "sentence": "I'm hungry.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S5.mp3"
+    },
+    {
+      "sentence": "I'm nervous.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S6.mp3"
+    },
+    {
+      "sentence": "I'm excited.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S7.mp3"
+    },
+    {
+      "sentence": "I'm leaving work.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S8.mp3"
+    },
+    {
+      "sentence": "I'm thirsty.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S9.mp3"
+    },
+    {
+      "sentence": "I'm from Seattle.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S10.mp3"
+    },
+    {
+      "sentence": "I'm extremely tired.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S11.mp3"
+    },
+    {
+      "sentence": "I'm very happy.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S12.mp3"
+    },
+    {
+      "sentence": "I'm terribly hungry.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S13.mp3"
+    },
+    {
+      "sentence": "I am super excited.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S14.mp3"
+    },
+    {
+      "sentence": "I'm very nervous.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E01/sentence/E001S15.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2002",
+  "crawledAt": "2025-11-24T14:09:10.967Z"
+}

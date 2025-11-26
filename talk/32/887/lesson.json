@@ -1,0 +1,120 @@
+{
+  "id": 887,
+  "sectionId": 32,
+  "number": 25,
+  "title": "Basic Listening Lesson #25",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=124",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L151/practice/L151P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Who is Jack angry at?",
+        "options": [
+          {
+            "value": "a",
+            "text": "His friend Sara"
+          },
+          {
+            "value": "b",
+            "text": "His girlfriend Martha"
+          },
+          {
+            "value": "c",
+            "text": "His brother"
+          },
+          {
+            "value": "d",
+            "text": "The friend he is talking to"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Why is Jack so angry?",
+        "options": [
+          {
+            "value": "a",
+            "text": "His friend told Martha that Jack was dating Sara"
+          },
+          {
+            "value": "b",
+            "text": "His friend was angry he wasn't invited to a party"
+          },
+          {
+            "value": "c",
+            "text": "Because he didn't tell him about the surprise exam"
+          },
+          {
+            "value": "d",
+            "text": "His friend dated his girlfriend"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why did his friend cause this problem?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get revenge because he was also angry with Jack"
+          },
+          {
+            "value": "b",
+            "text": "To make Jack and Martha break up"
+          },
+          {
+            "value": "c",
+            "text": "He was just joking and didn't mean to cause this problem"
+          },
+          {
+            "value": "d",
+            "text": "He knew it was a secret, but it just slipped out"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is Jack asking his friend to do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To talk to Martha about it"
+          },
+          {
+            "value": "b",
+            "text": "To not say anything to Martha anymore"
+          },
+          {
+            "value": "c",
+            "text": "To talk to Sara about it"
+          },
+          {
+            "value": "d",
+            "text": "To apologize to Martha"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "The friend he is talking to",
+      "His friend told Martha that Jack was dating Sara",
+      "He was just joking and didn't mean to cause this problem",
+      "To not say anything to Martha anymore"
+    ]
+  },
+  "transcript": "A: \"Jack, what's wrong?\"\nB: \"You!\"\nA: \"What are you talking about? What did I do?\"\nB: \"You told Martha that I was on a date? What was that all about?\"\nA: \"No... that's not what I meant. I didn't mean that. She asked me where you were and I jokingly said that you were on a date with Sara. I thought Martha knew that you and Sara were just friends.\"\nB: \"She started feeling suspicious after you said that.\"\nA: \"I'm sorry man. I didn't know. I didn't mean to screw anything up.\"\nB: \"Martha gets jealous easily and it took a while to convince her that Sara was just a friend. Now, I have to explain to Sara that I can't hang around her because of you.\"\nA: \"Look. I really didn't mean to, and next time I see Martha, I'll really tell her that you and Sara are really just friends.\"\nB: \"Don't bother.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=125",
+  "crawledAt": "2025-11-24T14:29:24.505Z"
+}

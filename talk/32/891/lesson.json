@@ -1,0 +1,120 @@
+{
+  "id": 891,
+  "sectionId": 32,
+  "number": 29,
+  "title": "Basic Listening Lesson #29",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=128",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L161/practice/L161P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why doesn't Jackie look so well?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She is sick"
+          },
+          {
+            "value": "b",
+            "text": "She is stressed out"
+          },
+          {
+            "value": "c",
+            "text": "She just had a fight with her boyfriend"
+          },
+          {
+            "value": "d",
+            "text": "She just failed an exam"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why is Jackie having a hard time keeping up with class?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She was working part time"
+          },
+          {
+            "value": "b",
+            "text": "She had to take care of her mother who was sick"
+          },
+          {
+            "value": "c",
+            "text": "She couldn't understand the material and didn't look for help early enough"
+          },
+          {
+            "value": "d",
+            "text": "She had too many classes to take and got behind"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the solution to get through this problem?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Take her mother to the hospital"
+          },
+          {
+            "value": "b",
+            "text": "Drop out of one class"
+          },
+          {
+            "value": "c",
+            "text": "Find a tutor to help with this subject"
+          },
+          {
+            "value": "d",
+            "text": "Study with a friend with encouragement"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What statement is true from this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A new semester is about to start for school"
+          },
+          {
+            "value": "b",
+            "text": "The mother is sick but is getting better"
+          },
+          {
+            "value": "c",
+            "text": "They are both working to pay for school"
+          },
+          {
+            "value": "d",
+            "text": "They both have exams coming up"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "She is stressed out",
+      "She was working part time",
+      "Study with a friend with encouragement",
+      "They both have exams coming up"
+    ]
+  },
+  "transcript": "A: \"Hi Jackie. You don't look too well. What's going on?\"\nB: \"It's nothing. I'm just a little stressed out.\"\nA: \"Why? What's stressing you out?\"\nB: \"School. Since I was working part time, I had a difficult time keeping up with class. Now that we have exams coming up, I'm totally freaking out.\"\nA: \"The best thing to do is study as much as you can. I'm sure you'll do alright.\"\nB: \"I hope so. I guess I won't be sleeping for the next 3 days. That's what it'll take.\"\nA: \"I have to study for an exam too. Why don't we study together. We can encourage each other.\"\nB: \"That will be great.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=129",
+  "crawledAt": "2025-11-24T14:29:35.465Z"
+}

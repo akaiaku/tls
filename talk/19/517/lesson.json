@@ -1,0 +1,38 @@
+{
+  "id": 517,
+  "sectionId": 19,
+  "number": 5,
+  "title": "Talking about work experience",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=488",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/488-long.mp3",
+  "content": "I won't cover topics we have in our regular English lessons, but talking about work experience is not a separate topic I have, so let's spend a few minutes here.\nWhen you are talking to a co-worker, you can talk about many different things. One of the topics might be previous work experience. Whenever you receive this question, the easiest way to answer this is to say where you worked and what you did.\n\"What did you do before working here?\"\n\"I worked at ABC Company. I was a market analyst researching what the user wants in portable devices.\"\n\"I was over in the sales department on the second floor. I was in charge of overseeing the sales made by all the sales associates each month.\"\n\"I was a software engineer at Sun Microsystems. I created internal tools using Java to help automate the recruiting process.\"",
+  "examples": [
+    {
+      "sentence": "What did you do before working here?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B44/sentence/B44S1.mp3"
+    },
+    {
+      "sentence": "I worked at ABC Company. I was a market analyst researching what the user wants in portable devices.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B44/sentence/B44S2.mp3"
+    },
+    {
+      "sentence": "I was over in the sales department on the second floor. I was in charge of overseeing the sales made by all the sales associates each month.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B44/sentence/B44S3.mp3"
+    },
+    {
+      "sentence": "I was a software engineer at Sun Microsystems. I created internal tools using Java to help automate the recruiting process.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B44/sentence/B44S4.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=489",
+  "crawledAt": "2025-11-24T14:20:32.238Z"
+}

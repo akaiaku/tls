@@ -1,0 +1,68 @@
+{
+  "id": 45,
+  "sectionId": 2,
+  "number": 16,
+  "title": "Can I get + (noun)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2046",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2046-long.mp3",
+  "content": "The phrase 'Can I get' can be used in a couple different ways. You can use it to ask a question.\nHere are some examples:\n\"Can I get a cup of water?\"\n\"Can I get a dog?\"\n\"Can I get lunch?\"\n\"Can I get sugar in my coffee?\"\n\"Can I get popcorn at the movie?\"\nYou can also use it when offering to help someone or do something for them.\nHere are some examples:\n\"Can I get you another drink?\"\n\"Can I help you move that?\"\n\"Can I recommend a good place to eat?\"\n\"Can I take you home?\"\n\"Can I help you finish your project?\"",
+  "examples": [
+    {
+      "sentence": "Can I get a cup of water?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S1.mp3"
+    },
+    {
+      "sentence": "Can I get a dog?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S2.mp3"
+    },
+    {
+      "sentence": "Can I get lunch?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S3.mp3"
+    },
+    {
+      "sentence": "Can I get sugar in my coffee?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S4.mp3"
+    },
+    {
+      "sentence": "Can I get popcorn at the movie?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S5.mp3"
+    },
+    {
+      "sentence": "Can I get you another drink?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S6.mp3"
+    },
+    {
+      "sentence": "Can I help you move that?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S7.mp3"
+    },
+    {
+      "sentence": "Can I recommend a good place to eat?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S8.mp3"
+    },
+    {
+      "sentence": "Can I take you home?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S9.mp3"
+    },
+    {
+      "sentence": "Can I help you finish your project?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E46/sentence/E046S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2047",
+  "crawledAt": "2025-11-24T14:10:07.945Z"
+}

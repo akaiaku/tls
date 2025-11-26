@@ -1,0 +1,68 @@
+{
+  "id": 47,
+  "sectionId": 2,
+  "number": 18,
+  "title": "Do you mind if I + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2048",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2048-long.mp3",
+  "content": "You are asking someone in present tense if they object to something you are asking.\nHere are some examples:\n\"Do you mind if I excuse myself?\"\n\"Do you mind if we left early?\"\n\"Do you mind if I take a nap?\"\n\"Do you mind if I ask your mom?\"\n\"Do you mind if it snows?\"\nYou could also use the word 'would'\nHere are some examples:\n\"Would you mind if we went out to eat?\"\n\"Would you mind if I opened the window?\"\n\"Would you mind telling me what you're doing?\"\n\"Would you mind being quiet for a minute?\"\n\"Would you mind if I changed the channel?\"",
+  "examples": [
+    {
+      "sentence": "Do you mind if I excuse myself?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S1.mp3"
+    },
+    {
+      "sentence": "Do you mind if we left early?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S2.mp3"
+    },
+    {
+      "sentence": "Do you mind if I take a nap?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S3.mp3"
+    },
+    {
+      "sentence": "Do you mind if I ask your mom?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S4.mp3"
+    },
+    {
+      "sentence": "Do you mind if it snows?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S5.mp3"
+    },
+    {
+      "sentence": "Would you mind if we went out to eat?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S6.mp3"
+    },
+    {
+      "sentence": "Would you mind if I opened the window?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S7.mp3"
+    },
+    {
+      "sentence": "Would you mind telling me what you're doing?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S8.mp3"
+    },
+    {
+      "sentence": "Would you mind being quiet for a minute?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S9.mp3"
+    },
+    {
+      "sentence": "Would you mind if I changed the channel?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E48/sentence/E048S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2049",
+  "crawledAt": "2025-11-24T14:10:10.556Z"
+}

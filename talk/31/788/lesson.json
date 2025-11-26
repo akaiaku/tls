@@ -1,0 +1,58 @@
+{
+  "id": 788,
+  "sectionId": 31,
+  "number": 1,
+  "title": "What gives?",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=1023",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "<b>Meaning/Usage</b>: Used to ask what is the matter or what went wrong\n<b>Explanation</b>: The only explanation I found was that this could have come from German borrowing. Germans used the phrase \"was gibt es?\" as \"What is the matter?\" or \"What's up?\" But to be honest. I am not sure about this. However, I do know that in English, it is commonly used to ask \"What is the matter?\"\n\"It's not like you to get so upset, <b>what gives</b>?\"\n\"I had no idea you were leaving? <b>What gives</b>?\"\n\"Your mom said you stopped taking piano lessons. <b>What gives</b>?\"\n<b>A.</b> \"I heard that you did not pass your test?\"\n<b>B.</b> \"Yeah, it was harder than I thought.\"\n<b>A.</b> \"You studied really hard for it though, <b>what gives</b>?\"\n<b>B.</b> \"I guess I will just have to try harder next time.\nOther Common Sentences\n\"What's the problem?\"\n\"What happened?\"",
+  "examples": [
+    {
+      "sentence": "It's not like you to get so upset, what gives?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S1.mp3"
+    },
+    {
+      "sentence": "I had no idea you were leaving? What gives?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S2.mp3"
+    },
+    {
+      "sentence": "Your mom said you stopped taking piano lessons. What gives?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S3.mp3"
+    },
+    {
+      "sentence": "I heard that you did not pass your test?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S4.mp3"
+    },
+    {
+      "sentence": "Yeah, it was harder than I thought.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S5.mp3"
+    },
+    {
+      "sentence": "You studied really hard for it though, what gives?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S6.mp3"
+    },
+    {
+      "sentence": "I guess I will just have to try harder next time.Other Common Sentences\"What's the problem?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S7.mp3"
+    },
+    {
+      "sentence": "What happened?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P76/sentence/P76S9.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=1024",
+  "crawledAt": "2025-11-24T14:26:35.190Z"
+}

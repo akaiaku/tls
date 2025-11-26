@@ -1,0 +1,120 @@
+{
+  "id": 924,
+  "sectionId": 33,
+  "number": 28,
+  "title": "Intermediate Listening Lesson #28",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=227",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L161/practice/L161P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What causes stress the most for this person?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Pressure from parents"
+          },
+          {
+            "value": "b",
+            "text": "Too much school work"
+          },
+          {
+            "value": "c",
+            "text": "Stressful work"
+          },
+          {
+            "value": "d",
+            "text": "Demanding wife"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why does the other friend NOT have this same problem?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Brought home bad grades"
+          },
+          {
+            "value": "b",
+            "text": "Always got into trouble"
+          },
+          {
+            "value": "c",
+            "text": "Never listened"
+          },
+          {
+            "value": "d",
+            "text": "Never paid attention"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How does this person deal with stress?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Meditate"
+          },
+          {
+            "value": "b",
+            "text": "Talk with a psychologist"
+          },
+          {
+            "value": "c",
+            "text": "Drink with friends"
+          },
+          {
+            "value": "d",
+            "text": "Ignore the stress"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What are they going to do after this conversation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Grab a beer"
+          },
+          {
+            "value": "b",
+            "text": "Go home"
+          },
+          {
+            "value": "c",
+            "text": "Eat dinner"
+          },
+          {
+            "value": "d",
+            "text": "Watch TV"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Pressure from parents",
+      "Brought home bad grades",
+      "Drink with friends",
+      "Grab a beer"
+    ]
+  },
+  "transcript": "A: \"What stresses you out the most?\"\nB: \"Probably my parents.\"\nA: \"How so?\"\nB: \"Well, during school, they wanted good grades. Then after I got a job, they wanted me to get a better job. And finally, they want me to get married.\"\nA: \"You have to deal with a lot of pressure from your parents.\"\nB: \"Your parents are not like that?\"\nA: \"Ever since I brought home some bad grades in elementary school, they never expected much.\"\nB: \"You're lucky.\"\nA: \"What do you do to deal with the stress?\"\nB: \"Not much I can do. It's always there. I sometimes go out with some friends and drink, but that's only a temporary solution. The stress always returns in the morning.\"\nA: \"That sucks. You wanna go grab a beer?\"\nB: \"Sure. Sounds great. Let's go.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=228",
+  "crawledAt": "2025-11-24T14:31:09.129Z"
+}

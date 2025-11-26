@@ -1,0 +1,113 @@
+{
+  "id": 560,
+  "sectionId": 20,
+  "number": 12,
+  "title": "Making a Reservation I",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=402",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/402-long.mp3",
+  "content": "It is not common to go to a hotel without a reservation so I will only cover the reservation aspect. Along with reserving a room, I will cover checking in, checking out, room service, and wake up call.\n<b>Making a Reservation</b>\nWhen you make a reservation, call them and tell them you want to reserve a room. Or, you can start by asking them for a price.\n\"Hi, how much are your rooms?\"\n\"Hi, what are your rates?\"\n\"Hello, how much is a room?\"\n\"Our rooms start at $79 for a basic room.\"\n\"Our rooms start at $79 for a standard room and go up to $300 for a suite.\"\n\"Ok. Can I reserve a room?\"\n\"Hi, I would like to reserve a room.\"\n\"Hello, can I reserve a couple of rooms?\"\nThe first thing they usually ask is the dates you want the room and the duration.\n\"What day do you want to check in?\"\n\"Which date did you want to reserve?\"\n\"What date are you looking for?\"\n\"I want a room from June 22nd to June 25th.\"\n\"I would like a room for the 19th of July.\"\n\"How long will you be staying with us?\"\n\"When will you be checking out?\"\n\"How many days would you like the room for?\"\n\"I am going to stay for 3 days.\"\n\"I would like to reserve the room for 4 days.\"\n\"I am going to need the room until July 23rd.\"",
+  "examples": [
+    {
+      "sentence": "Hi, how much are your rooms?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S1.mp3"
+    },
+    {
+      "sentence": "Hi, what are your rates?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S2.mp3"
+    },
+    {
+      "sentence": "Hello, how much is a room?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S3.mp3"
+    },
+    {
+      "sentence": "Our rooms start at $79 for a basic room.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S4.mp3"
+    },
+    {
+      "sentence": "Our rooms start at $79 for a standard room and go up to $300 for a suite.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S5.mp3"
+    },
+    {
+      "sentence": "Ok. Can I reserve a room?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S6.mp3"
+    },
+    {
+      "sentence": "Hi, I would like to reserve a room.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S7.mp3"
+    },
+    {
+      "sentence": "Hello, can I reserve a couple of rooms?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S8.mp3"
+    },
+    {
+      "sentence": "What day do you want to check in?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S9.mp3"
+    },
+    {
+      "sentence": "Which date did you want to reserve?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S10.mp3"
+    },
+    {
+      "sentence": "What date are you looking for?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S11.mp3"
+    },
+    {
+      "sentence": "I want a room from June 22nd to June 25th.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S12.mp3"
+    },
+    {
+      "sentence": "I would like a room for the 19th of July.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S13.mp3"
+    },
+    {
+      "sentence": "How long will you be staying with us?",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S14.mp3"
+    },
+    {
+      "sentence": "When will you be checking out?",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S15.mp3"
+    },
+    {
+      "sentence": "How many days would you like the room for?",
+      "audio": "example_16.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S16.mp3"
+    },
+    {
+      "sentence": "I am going to stay for 3 days.",
+      "audio": "example_17.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S17.mp3"
+    },
+    {
+      "sentence": "I would like to reserve the room for 4 days.",
+      "audio": "example_18.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S18.mp3"
+    },
+    {
+      "sentence": "I am going to need the room until July 23rd.",
+      "audio": "example_19.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T10/sentence/T10S19.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=403",
+  "crawledAt": "2025-11-24T14:21:28.745Z"
+}

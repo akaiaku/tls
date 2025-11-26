@@ -1,0 +1,120 @@
+{
+  "id": 866,
+  "sectionId": 32,
+  "number": 4,
+  "title": "Basic Listening Lesson #04",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=103",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L26/practice/L26P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What movies was first suggested?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Titanic"
+          },
+          {
+            "value": "b",
+            "text": "Rocky V"
+          },
+          {
+            "value": "c",
+            "text": "Last man standing"
+          },
+          {
+            "value": "d",
+            "text": "Legally Blonde"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Why did they not accept the first suggested movie?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He already seen it"
+          },
+          {
+            "value": "b",
+            "text": "He doesn't like that type of movie"
+          },
+          {
+            "value": "c",
+            "text": "He needs to watch it with his girlfriend"
+          },
+          {
+            "value": "d",
+            "text": "He doesn't like horror movies"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What type of movie did they end up choosing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A scary movie"
+          },
+          {
+            "value": "b",
+            "text": "An action packed movie"
+          },
+          {
+            "value": "c",
+            "text": "An exciting movie"
+          },
+          {
+            "value": "d",
+            "text": "A dramatic movie"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "When are they going to see the movie?",
+        "options": [
+          {
+            "value": "a",
+            "text": "On the weekend after lunch"
+          },
+          {
+            "value": "b",
+            "text": "Next week after the final exams"
+          },
+          {
+            "value": "c",
+            "text": "On Friday after class"
+          },
+          {
+            "value": "d",
+            "text": "Tomorrow after class"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Legally Blonde",
+      "He needs to watch it with his girlfriend",
+      "A scary movie",
+      "Tomorrow after class"
+    ]
+  },
+  "transcript": "A: \"Hey, you wanna see a movie tomorrow?\"\nB: \"Sounds like a good plan. What do you want to see?\"\nA: \"How about Legally Blonde.\"\nB: \"Ah, my girlfriend wanted to see that movie. I have to take her later so I don't want to watch it ahead of time. How about The Cube?\"\nA: \"Isn't that a scary movie?\"\nB: \"How scary can it be? Come on, it'll be fun.\"\nA: \"Ok. I'll give it a try.\"\nB: \"That's the spirit. I'll see you tomorrow after class.\"\nA: \"Ok. See you tomorrow.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=104",
+  "crawledAt": "2025-11-24T14:28:23.943Z"
+}

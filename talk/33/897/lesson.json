@@ -1,0 +1,120 @@
+{
+  "id": 897,
+  "sectionId": 33,
+  "number": 1,
+  "title": "Intermediate Listening Lesson #01",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=200",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L40/practice/L40P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What type of movie is Forrest Gump?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Action"
+          },
+          {
+            "value": "b",
+            "text": "Drama"
+          },
+          {
+            "value": "c",
+            "text": "Suspense"
+          },
+          {
+            "value": "d",
+            "text": "Comedy"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Besides watching movies, what does this person like to do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go shopping"
+          },
+          {
+            "value": "b",
+            "text": "Swimming"
+          },
+          {
+            "value": "c",
+            "text": "Drinking and partying"
+          },
+          {
+            "value": "d",
+            "text": "Playing basketball"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What does this person do for exercise?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Golf once a week"
+          },
+          {
+            "value": "b",
+            "text": "Basketball on the weekends"
+          },
+          {
+            "value": "c",
+            "text": "Jogging twice a week"
+          },
+          {
+            "value": "d",
+            "text": "No exercising"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the favorite thing this person likes to do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Playing computer games"
+          },
+          {
+            "value": "b",
+            "text": "Reading books"
+          },
+          {
+            "value": "c",
+            "text": "Going shopping"
+          },
+          {
+            "value": "d",
+            "text": "Playing pool"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Drama",
+      "Go shopping",
+      "Jogging twice a week",
+      "Playing computer games"
+    ]
+  },
+  "transcript": "A: \"How are you doing?\"\nB: \"I'm doing great.\"\nA: \"What movies have you seen lately?\"\nB: \"I saw Forrest Gump the other day.\"\nA: \"What type of movie is that?\"\nB: \"The movie type is drama.\"\nA: \"I can't believe you are watching movies. The weather is great. You should be outside.\"\nB: \"I hate the hot weather. I'd rather stay indoors with the air conditioner.\"\nA: \"What else do you like to do besides watching movies?\"\nB: \"I like to play computer games, read books, go shopping, and play pool.\"\nA: \"Out of those what is your favorite?\"\nB: \"My favorite is to play computer games.\"\nA: \"What is your favorite computer game?\"\nB: \"My favorite is Diablo. It used to be Star Craft, but it is getting a little old.\"\nA: \"If you like to play so much, when do you ever exercise?\"\nB: \"Although I hate to exercise, I go jogging at least twice a week.\"\nA: \"That's pretty good. By the way, what are you doing next Saturday?\"\nB: \"I am going to go to the bookstore.\"\nA: \"I am having a party Saturday night at my house. If you have time, you should come.\"\nB: \"That sounds like fun.\"\nA: \"Great. I'll see you on Saturday.\"\nB: \"Ok. See you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=201",
+  "crawledAt": "2025-11-24T14:29:51.716Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 938,
+  "sectionId": 34,
+  "number": 8,
+  "title": "Advanced Listening Lesson #08",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=307",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L69/practice/L69P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where is the conversation taking place?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Over the phone"
+          },
+          {
+            "value": "b",
+            "text": "At a party"
+          },
+          {
+            "value": "c",
+            "text": "At a company meeting"
+          },
+          {
+            "value": "d",
+            "text": "In the classroom"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What type of company is one person working at?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At a computer company"
+          },
+          {
+            "value": "b",
+            "text": "At Microsoft"
+          },
+          {
+            "value": "c",
+            "text": "At a consulting firm"
+          },
+          {
+            "value": "d",
+            "text": "At a marketing company"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "The person who is not working is studying what major?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Computer Science"
+          },
+          {
+            "value": "b",
+            "text": "Marketing"
+          },
+          {
+            "value": "c",
+            "text": "Information Systems"
+          },
+          {
+            "value": "d",
+            "text": "MBA"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Mike is someone they both know. What is Mike doing now?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He is working at an accounting firm"
+          },
+          {
+            "value": "b",
+            "text": "He is in a PHD program"
+          },
+          {
+            "value": "c",
+            "text": "He is in grad school"
+          },
+          {
+            "value": "d",
+            "text": "He is almost done with his Computer Science degree"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "At a party",
+      "At a marketing company",
+      "Computer Science",
+      "He is in grad school"
+    ]
+  },
+  "transcript": "A: \"You're Jason right?\"\nB: \"Yeah. Tom right?\"\nA: \"Yeah. What's going on?\"\nB: \"Not much. Just hanging out. A bunch of guys are playing a game for shots.\"\nA: \"You're not playing?\"\nB: \"I had enough to drink already.\"\nA: \"I hear ya.\"\nB: \"You in school or do you work?\"\nA: \"I work at a marketing company. How about you?\"\nB: \"I'm still in school. I have one more year left.\"\nA: \"What are you majoring in?\"\nB: \"I'm majoring in computer science.\"\nA: \"Where do you want to work?\"\nB: \"I would love to work at Microsoft. But it's pretty tough to get in.\"\nA: \"So I hear. So you come to this club often?\"\nB: \"Every now and then. I usually hang out at Pioneer Square.\"\nA: \"Yeah. That's a cool place. There are a ton of bars to hit in that area.\"\nB: \"Are you here with Mike?\"\nA: \"No. Some of my work buddies. I haven't seen Mike in a while now. Do you know what he is up to?\"\nB: \"He's going to grad school.\"\nA: \"What a surprise. I didn't know he was so studious.\"\nB: \"Yeah. Surprised us all. Hey, I'm going to get another drink. You want one?\"\nA: \"It's aright. I still have to work on this one.\"\nB: \"I'll catch you later.\"\nA: \"Aright man.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=308",
+  "crawledAt": "2025-11-24T14:31:49.740Z"
+}

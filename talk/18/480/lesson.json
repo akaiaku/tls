@@ -1,0 +1,58 @@
+{
+  "id": 480,
+  "sectionId": 18,
+  "number": 12,
+  "title": "Sick day",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=447",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/447-long.mp3",
+  "content": "\"Martha? This is Jack. I have a fever and I will not be able to come in today.\"\n\"Hi Mary, I have to use a sick day today. I'm feeling terrible right now.\"\n\"Hi Steve, this is Mark. I wanted to let you know that I am too sick to come in today.\"\n\"Hi Andrew, this is Josh. I'm pretty sick so I will not be able to make it in today. I was feeling sick last night and thought I would be better after some sleep, but it just got worse.\"\n\"Hi Sam, this is Jessica. I have some urgent personal matters I have to deal with. I won't be able to make it in.\"\n\"Mark? This is John. My dad went into the emergency room this morning. I'm not sure what the problem is, but I don't think I can make it in today. I'll send you an update later.\"\n\"My son all of the sudden got really sick. I have to take him to the hospital now. I doubt I can make it in today. Will that be ok?\"\n\"Jake? Will it be ok if I take the day off? My grandmother just passed away and I don't think I will be able to work today.\"",
+  "examples": [
+    {
+      "sentence": "Martha? This is Jack. I have a fever and I will not be able to come in today.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S1.mp3"
+    },
+    {
+      "sentence": "Hi Mary, I have to use a sick day today. I'm feeling terrible right now.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S2.mp3"
+    },
+    {
+      "sentence": "Hi Steve, this is Mark. I wanted to let you know that I am too sick to come in today.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S3.mp3"
+    },
+    {
+      "sentence": "Hi Andrew, this is Josh. I'm pretty sick so I will not be able to make it in today. I was feeling sick last night and thought I would be better after some sleep, but it just got worse.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S4.mp3"
+    },
+    {
+      "sentence": "Hi Sam, this is Jessica. I have some urgent personal matters I have to deal with. I won't be able to make it in.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S5.mp3"
+    },
+    {
+      "sentence": "Mark? This is John. My dad went into the emergency room this morning. I'm not sure what the problem is, but I don't think I can make it in today. I'll send you an update later.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S6.mp3"
+    },
+    {
+      "sentence": "My son all of the sudden got really sick. I have to take him to the hospital now. I doubt I can make it in today. Will that be ok?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S7.mp3"
+    },
+    {
+      "sentence": "Jake? Will it be ok if I take the day off? My grandmother just passed away and I don't think I will be able to work today.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B11/sentence/B11S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=452",
+  "crawledAt": "2025-11-24T14:19:43.582Z"
+}

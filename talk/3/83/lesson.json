@@ -1,0 +1,68 @@
+{
+  "id": 83,
+  "sectionId": 3,
+  "number": 24,
+  "title": "Please make sure that + (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2084",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2084-long.mp3",
+  "content": "You are asking someone to make sure that a particular thing happens or takes place.\nHere are some examples:\n\"Please make sure that she wakes up on time.\"\n\"Please make sure that she gets to school.\"\n\"Please make sure that dinner is ready when we get home.\"\n\"Please make sure that your assignment is done.\"\n\"Please make sure that the water is not too hot.\"\n\"Please make sure you cook the meat long enough.\"\n\"Please make sure that she is getting along with her new friends.\"\n\"Please make sure that we leave on time.\"\n\"Please make sure you record our favorite TV show.\"\n\"Please make sure that you don't stay out too late.\"",
+  "examples": [
+    {
+      "sentence": "Please make sure that she wakes up on time.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S1.mp3"
+    },
+    {
+      "sentence": "Please make sure that she gets to school.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S2.mp3"
+    },
+    {
+      "sentence": "Please make sure that dinner is ready when we get home.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S3.mp3"
+    },
+    {
+      "sentence": "Please make sure that your assignment is done.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S4.mp3"
+    },
+    {
+      "sentence": "Please make sure that the water is not too hot.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S5.mp3"
+    },
+    {
+      "sentence": "Please make sure you cook the meat long enough.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S6.mp3"
+    },
+    {
+      "sentence": "Please make sure that she is getting along with her new friends.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S7.mp3"
+    },
+    {
+      "sentence": "Please make sure that we leave on time.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S8.mp3"
+    },
+    {
+      "sentence": "Please make sure you record our favorite TV show.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S9.mp3"
+    },
+    {
+      "sentence": "Please make sure that you don't stay out too late.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E84/sentence/E084S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2085",
+  "crawledAt": "2025-11-24T14:10:57.366Z"
+}

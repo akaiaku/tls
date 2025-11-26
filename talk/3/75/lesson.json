@@ -1,0 +1,68 @@
+{
+  "id": 75,
+  "sectionId": 3,
+  "number": 16,
+  "title": "How much does it cost to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2076",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2076-long.mp3",
+  "content": "You are simply asking how much you would need to pay to do something.\nHere are some examples:\n\"How much does it cost to fly to Europe?\"\n\"How much does it cost to own a house?\"\n\"How much does it cost to play a round of golf?\"\n\"How much does it cost to join a gym?\"\n\"How much does it cost to repair my car?\"\n\"How much would it cost to talk long distance?\"\n\"How much would it cost to run a website?\"\n\"How much would it cost to wash my car?\"\n\"How much would it cost to rent a car?\"\n\"How much would it cost to go to the movies?\"",
+  "examples": [
+    {
+      "sentence": "How much does it cost to fly to Europe?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S1.mp3"
+    },
+    {
+      "sentence": "How much does it cost to own a house?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S2.mp3"
+    },
+    {
+      "sentence": "How much does it cost to play a round of golf?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S3.mp3"
+    },
+    {
+      "sentence": "How much does it cost to join a gym?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S4.mp3"
+    },
+    {
+      "sentence": "How much does it cost to repair my car?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S5.mp3"
+    },
+    {
+      "sentence": "How much would it cost to talk long distance?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S6.mp3"
+    },
+    {
+      "sentence": "How much would it cost to run a website?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S7.mp3"
+    },
+    {
+      "sentence": "How much would it cost to wash my car?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S8.mp3"
+    },
+    {
+      "sentence": "How much would it cost to rent a car?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S9.mp3"
+    },
+    {
+      "sentence": "How much would it cost to go to the movies?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E76/sentence/E076S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2077",
+  "crawledAt": "2025-11-24T14:10:46.971Z"
+}

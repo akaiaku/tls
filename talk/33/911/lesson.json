@@ -1,0 +1,119 @@
+{
+  "id": 911,
+  "sectionId": 33,
+  "number": 15,
+  "title": "Intermediate Listening Lesson #15",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=214",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L77/practice/L77P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why did they start talking about dieting?",
+        "options": [
+          {
+            "value": "a",
+            "text": "They looked at themselves in the mirror"
+          },
+          {
+            "value": "b",
+            "text": "They need to lose weight for a school dance party"
+          },
+          {
+            "value": "c",
+            "text": "They saw a skinny girl that was on a diet"
+          },
+          {
+            "value": "d",
+            "text": "They saw a picture of a skinny model"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How many different diets has one of the girl been on?",
+        "options": [
+          {
+            "value": "a",
+            "text": "1"
+          },
+          {
+            "value": "b",
+            "text": "3"
+          },
+          {
+            "value": "c",
+            "text": "4"
+          },
+          {
+            "value": "d",
+            "text": "Too many to count"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why is one girl reluctant to go on a diet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Does feel she needs to"
+          },
+          {
+            "value": "b",
+            "text": "Likes to eat ice cream too much"
+          },
+          {
+            "value": "c",
+            "text": "Just completed one diet and wants a break"
+          },
+          {
+            "value": "d",
+            "text": "Doesn't think she can benefit from a diet"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "When are they going to start?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Very soon, probably tomorrow"
+          },
+          {
+            "value": "b",
+            "text": "Very soon, next week"
+          },
+          {
+            "value": "c",
+            "text": "Next month after school is over"
+          },
+          {
+            "value": "d",
+            "text": "During summer break"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "They saw a skinny girl that was on a diet",
+      "Likes to eat ice cream too much",
+      "Very soon, probably tomorrow"
+    ]
+  },
+  "transcript": "A: \"Can you believe her? She is not even a hundred pounds and she is going off on how she wants to go on a diet.\"\nB: \"Tell me about it. If I was as small as her, I wouldn't think about going on a diet.\"\nA: \"Me too. But what are we going to do? I have been on 4 different diets and I can't seem to lose weight.\"\nB: \"That's because you don't exercise. If you were more active, you wouldn't have a dieting problem.\"\nA: \"What do you know? You are over weight too.\"\nB: \"I'm not on a diet though.\"\nA: \"I know. But I don't have someone to diet with. If we help each other and motivate each other, then I think we can lose some weight.\"\nB: \"I like ice cream too much though.\"\nA: \"C'mon. You'll feel better and look better and as a reward you can eat a little bit of ice cream here and there.\"\nB: \"It does sound appealing.\"\nA: \"It's a great idea. I can't believe I didn't think of this earlier. Going on a diet with a friend to back you up is a great way to succeed.\"\nB: \"Okay. I'm in. Let's do it.\"\nA: \"Great. I'll get our plan started right away.\"\nB: \"Can we start tomorrow though?\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=215",
+  "crawledAt": "2025-11-24T14:30:31.834Z"
+}

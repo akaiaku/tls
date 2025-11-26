@@ -1,0 +1,120 @@
+{
+  "id": 939,
+  "sectionId": 34,
+  "number": 9,
+  "title": "Advanced Listening Lesson #09",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=308",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L69/practice/L69P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where is this conversation taking place?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Over the phone"
+          },
+          {
+            "value": "b",
+            "text": "At a party"
+          },
+          {
+            "value": "c",
+            "text": "At a company meeting"
+          },
+          {
+            "value": "d",
+            "text": "In the classroom"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Where are all the fun clubs and bars?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In downtown"
+          },
+          {
+            "value": "b",
+            "text": "Over by the water"
+          },
+          {
+            "value": "c",
+            "text": "Down the street"
+          },
+          {
+            "value": "d",
+            "text": "On University Ave"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "One student is will major in business unless something happens. What is that something?",
+        "options": [
+          {
+            "value": "a",
+            "text": "If he gets a job offer soon"
+          },
+          {
+            "value": "b",
+            "text": "If he decides to go to med school"
+          },
+          {
+            "value": "c",
+            "text": "If he gets into the computer science department"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What do many people tend to do when the weather is always bad?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Watch movies"
+          },
+          {
+            "value": "b",
+            "text": "Go on a road trip"
+          },
+          {
+            "value": "c",
+            "text": "Study in the library"
+          },
+          {
+            "value": "d",
+            "text": "Rent movies"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "In the classroom",
+      "Over by the water",
+      "If he gets into the computer science department",
+      "Watch movies"
+    ]
+  },
+  "transcript": "A: \"Hi. My name is Robert.\"\nB: \"I'm John. It's nice to meet you.\"\nA: \"Do you know what this professor is like?\"\nB: \"I have no idea. This is my first year.\"\nA: \"You a freshman? Me too. Where are you from?\"\nB: \"I'm from San Francisco.\"\nA: \"I've been there a few times. It's a great city.\"\nB: \"Where are you from?\"\nA: \"I grew up in this area all my life.\"\nB: \"So you know where all the fun places to hang out right?\"\nA: \"Yeah. The best place is over by the water. They have a lot of clubs and bars.\"\nB: \"I drove by that area before. I didn't know it was a college hang-out.\"\nA: \"It gets pretty wild over there sometimes. You should go.\"\nB: \"Sounds like a good idea. Do you know what you are majoring in yet?\"\nA: \"Not yet. I'm leaning towards business, but that's only if I can't get into computer science. How about you?\"\nB: \"I want to go to med school, so I'll probably end up majoring in biology.\"\nA: \"That's cool.\"\nB: \"Is the weather this bad all the time in the fall?\"\nA: \"Yap. This is a typical autumn. It gets worse though. At least it's not raining that much.\"\nB: \"That sucks.\"\nA: \"You'll get used to it. In the meantime, you'll have to watch a lot of movies. Seems like the only thing to do with the bad weather.\"\nB: \"Too expensive. Can you believe how much movies cost these days?\"\nA: \"Yeah. It's crazy. It's like 9 bucks a movie. I remember when it was half that.\"\nB: \"Unless it's a date, I'm not going to pay that much to watch a movie.\"\nA: \"That makes sense.\"\nB: \"Oh. The professor is coming. I'll talk to you later.\"\nA: \"Aright.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=309",
+  "crawledAt": "2025-11-24T14:31:52.494Z"
+}

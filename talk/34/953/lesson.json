@@ -1,0 +1,120 @@
+{
+  "id": 953,
+  "sectionId": 34,
+  "number": 23,
+  "title": "Advanced Listening Lesson #23",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=322",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L137/practice/L137P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Who does the two girls see on the dance floor?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A friend dancing with two boys"
+          },
+          {
+            "value": "b",
+            "text": "They see Beth's boyfriend"
+          },
+          {
+            "value": "c",
+            "text": "A boy dancing with Beth"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What type of guy is Beth's boyfriend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A cheater and a liar"
+          },
+          {
+            "value": "b",
+            "text": "Someone who is tall and handsome"
+          },
+          {
+            "value": "c",
+            "text": "A smart and intelligent man"
+          },
+          {
+            "value": "d",
+            "text": "A nice and sweet person"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is not listed as a trait that one of the girls want in a guy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Good looking"
+          },
+          {
+            "value": "b",
+            "text": "Sensitive"
+          },
+          {
+            "value": "c",
+            "text": "Smart"
+          },
+          {
+            "value": "d",
+            "text": "Rich"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why is Alex out of the question?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He is a dork and an idiot"
+          },
+          {
+            "value": "b",
+            "text": "He already has a girlfriend"
+          },
+          {
+            "value": "c",
+            "text": "He is not the friendly type"
+          },
+          {
+            "value": "d",
+            "text": "He is immature and stupid"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "None of the above",
+      "A nice and sweet person",
+      "Good looking",
+      "He is a dork and an idiot"
+    ]
+  },
+  "transcript": "A: \"Jane. Did you see that guy standing by the dance floor?\"\nB: \"Yeah. He's kinda cute.\"\nA: \"Wait. Isn't that Beth's boyfriend?\"\nB: \"I'm not sure. I haven't met him before.\"\nA: \"Look. He's dancing with another girl.\"\nB: \"Are you sure that's him?\"\nA: \"No. It just looks like him.\"\nB: \"I heard he was a nice guy. He wouldn't be cheating on Beth.\"\nA: \"Yeah. You're right. How do you know about him if you never met him?\"\nB: \"I hear all this stuff from Beth. She is always going off on how nice and sweet he is.\"\nA: \"I heard the same thing. What type of guy are you looking for?\"\nB: \"Someone who is understanding, responsible, sensitive, smart, and with a lot of money.\"\nA: \"Don't we all. Get real. All those guys are probably already taken.\"\nB: \"It doesn't hurt to have expectations. What type of guy do you want to find?\"\nA: \"All I want is someone who is going to treat me well.\"\nB: \"You know Alex don't you? He likes you. I bet he'll take good care of you.\"\nA: \"He's a dork. At least someone who is not an idiot ok?\"\nB: \"Got it.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=323",
+  "crawledAt": "2025-11-24T14:32:57.867Z"
+}

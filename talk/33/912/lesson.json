@@ -1,0 +1,120 @@
+{
+  "id": 912,
+  "sectionId": 33,
+  "number": 16,
+  "title": "Intermediate Listening Lesson #16",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=215",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L84/practice/L84P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What are the two guys talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A fat girl that walked by"
+          },
+          {
+            "value": "b",
+            "text": "A pretty girl in a red shirt"
+          },
+          {
+            "value": "c",
+            "text": "The swim suit models in the new magazine"
+          },
+          {
+            "value": "d",
+            "text": "Movies stars with perfect bodies"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the meaning of \"chicken\" in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To fly like a bird"
+          },
+          {
+            "value": "b",
+            "text": "To speak with a chirp"
+          },
+          {
+            "value": "c",
+            "text": "To be scared"
+          },
+          {
+            "value": "d",
+            "text": "Someone who eats chicken every day"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What feeling is used to describe how one guy feels when he talks to girls?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He gets anxious"
+          },
+          {
+            "value": "b",
+            "text": "He gets excited"
+          },
+          {
+            "value": "c",
+            "text": "He gets nervous"
+          },
+          {
+            "value": "d",
+            "text": "He gets emotional"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What will the guy do after this conversation is over?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Look for other pretty girls"
+          },
+          {
+            "value": "b",
+            "text": "Try to talk to the pretty girl"
+          },
+          {
+            "value": "c",
+            "text": "Go home depressed and drunk"
+          },
+          {
+            "value": "d",
+            "text": "Drink more to get the courage to talk to girls"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "A pretty girl in a red shirt",
+      "To be scared",
+      "He gets nervous",
+      "Try to talk to the pretty girl"
+    ]
+  },
+  "transcript": "A: \"You see that chick over there?\"\nB: \"The one in the red shirt?\"\nA: \"Yeah. Isn't she hot?\"\nB: \"She's alright.\"\nA: \"Just alright?!? She's hot!\"\nB: \"Why don't you go talk to her?\"\nA: \"You think she's out of my league?\"\nB: \"Hell no! You're just a chicken that's all.\"\nA: \"C'mon. I get nervous when I talk to girls.\"\nB: \"Why don't you go stand next to her for awhile and if an opportunity comes up, strike a conversation.\"\nA: \"What do I talk about?\"\nB: \"It doesn't matter. You gotta find what she's interested in and go with that.\"\nA: \"I don't know...\"\nB: \"Do you want me to go talk to her?\"\nA: \"No. Stay away from her.\"\nB: \"If you don't do anything, I'll bet somebody else will.\"\nA: \"Ok already. I'll try.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=216",
+  "crawledAt": "2025-11-24T14:30:34.741Z"
+}

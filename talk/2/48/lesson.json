@@ -1,0 +1,68 @@
+{
+  "id": 48,
+  "sectionId": 2,
+  "number": 19,
+  "title": "I don't know what to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2049",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2049-long.mp3",
+  "content": "You are letting someone know that you are not sure about what is being asked. You may also have no knowledge or opinion on a topic.\nHere are some examples:\n\"I don't know what to eat for dinner.\"\n\"I don't know what to buy you for your birthday.\"\n\"I don't know what to say.\"\n\"I don't know what to do with my spare time.\"\n\"I don't know what to do for vacation.\"\n\"I do not know what to do to make you happy.\"\n\"I do not know what to do to help you understand.\"\n\"I do not know what to think.\"\n\"I do not know what to do to prevent this.\"\n\"I do not know what to order.\"",
+  "examples": [
+    {
+      "sentence": "I don't know what to eat for dinner.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S1.mp3"
+    },
+    {
+      "sentence": "I don't know what to buy you for your birthday.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S2.mp3"
+    },
+    {
+      "sentence": "I don't know what to say.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S3.mp3"
+    },
+    {
+      "sentence": "I don't know what to do with my spare time.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S4.mp3"
+    },
+    {
+      "sentence": "I don't know what to do for vacation.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S5.mp3"
+    },
+    {
+      "sentence": "I do not know what to do to make you happy.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S6.mp3"
+    },
+    {
+      "sentence": "I do not know what to do to help you understand.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S7.mp3"
+    },
+    {
+      "sentence": "I do not know what to think.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S8.mp3"
+    },
+    {
+      "sentence": "I do not know what to do to prevent this.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S9.mp3"
+    },
+    {
+      "sentence": "I do not know what to order.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E49/sentence/E049S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2050",
+  "crawledAt": "2025-11-24T14:10:11.870Z"
+}

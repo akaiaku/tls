@@ -1,0 +1,120 @@
+{
+  "id": 863,
+  "sectionId": 32,
+  "number": 1,
+  "title": "Basic Listening Lesson #01",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=100",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/practice/L23P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What movie do these people plan on watching?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Matrix Revolution"
+          },
+          {
+            "value": "b",
+            "text": "The Two Towers"
+          },
+          {
+            "value": "c",
+            "text": "Lord of the Rings"
+          },
+          {
+            "value": "d",
+            "text": "The Last Samurai"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When do they plan on watching the movie?",
+        "options": [
+          {
+            "value": "a",
+            "text": "On the Weekend"
+          },
+          {
+            "value": "b",
+            "text": "Tomorrow"
+          },
+          {
+            "value": "c",
+            "text": "Later in the evening today"
+          },
+          {
+            "value": "d",
+            "text": "Next Friday"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where do they plan on meeting?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At the subway entrance"
+          },
+          {
+            "value": "b",
+            "text": "In front of the movie theater"
+          },
+          {
+            "value": "c",
+            "text": "At starbucks next to the theater"
+          },
+          {
+            "value": "d",
+            "text": "At home"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What time do they plan on meeting?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At 7:30pm after dinner"
+          },
+          {
+            "value": "b",
+            "text": "At noontime"
+          },
+          {
+            "value": "c",
+            "text": "At one o'clock"
+          },
+          {
+            "value": "d",
+            "text": "At 3:45pm"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Lord of the Rings",
+      "Tomorrow",
+      "At the subway entrance",
+      "At one o'clock"
+    ]
+  },
+  "transcript": "A: \"What are you doing tomorrow?\"\nB: \"Nothing really.\"\nA: \"Let's watch a movie or something.\"\nB: \"What's on these days?\"\nA: \"I think they're playing Lord of the Rings\"\nB: \"That sounds pretty good. Let's watch that.\"\nA: \"Where should we meet?\"\nB: \"How about at the subway entrance.\"\nA: \"Aright. I'll meet you there at one o'clock.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=101",
+  "crawledAt": "2025-11-24T14:28:14.003Z"
+}

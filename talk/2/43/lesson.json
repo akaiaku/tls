@@ -1,0 +1,68 @@
+{
+  "id": 43,
+  "sectionId": 2,
+  "number": 14,
+  "title": "Thank you for",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2044",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2044-long.mp3",
+  "content": "Saying 'thank you' is telling someone you appreciate what they have done. This can either be something they did for you or for someone else.\nHere are some examples:\n\"Thank you for inviting me.\"\n\"Thank you for helping me move.\"\n\"Thank you for informing me about the job opening.\"\n\"Thank you for mailing that package for me.\"\n\"Thank you for working so hard.\"\n\"Thank you for stopping by to visit.\"\n\"Thank you for replying to my email.\"\n\"Thank you for providing me with the answers.\"\n\"Thank you for heating up dinner.\"\n\"Thank you for hurrying to get here.\"",
+  "examples": [
+    {
+      "sentence": "Thank you for inviting me.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S1.mp3"
+    },
+    {
+      "sentence": "Thank you for helping me move.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S2.mp3"
+    },
+    {
+      "sentence": "Thank you for informing me about the job opening.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S3.mp3"
+    },
+    {
+      "sentence": "Thank you for mailing that package for me.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S4.mp3"
+    },
+    {
+      "sentence": "Thank you for working so hard.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S5.mp3"
+    },
+    {
+      "sentence": "Thank you for stopping by to visit.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S6.mp3"
+    },
+    {
+      "sentence": "Thank you for replying to my email.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S7.mp3"
+    },
+    {
+      "sentence": "Thank you for providing me with the answers.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S8.mp3"
+    },
+    {
+      "sentence": "Thank you for heating up dinner.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S9.mp3"
+    },
+    {
+      "sentence": "Thank you for hurrying to get here.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E44/sentence/E044S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2045",
+  "crawledAt": "2025-11-24T14:10:05.338Z"
+}

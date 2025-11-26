@@ -1,0 +1,120 @@
+{
+  "id": 957,
+  "sectionId": 34,
+  "number": 27,
+  "title": "Advanced Listening Lesson #27",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=326",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L144/practice/L144P4.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What was the obvious clue Mike gave to Pam regarding a possible proposal?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Gave her a watch"
+          },
+          {
+            "value": "b",
+            "text": "Asked her what type of ring she likes"
+          },
+          {
+            "value": "c",
+            "text": "Showed her a wedding catalog"
+          },
+          {
+            "value": "d",
+            "text": "Acted silly and cute around her"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "How does the other girl feel after breaking up with Brad?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She is a little depressed"
+          },
+          {
+            "value": "b",
+            "text": "She is actually feeling good"
+          },
+          {
+            "value": "c",
+            "text": "She doesn't have any feelings right now"
+          },
+          {
+            "value": "d",
+            "text": "She hated Brad, so she is happy"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What was her biggest complaint about Brad?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He was boring and didn't like to go out"
+          },
+          {
+            "value": "b",
+            "text": "He was too wild and wanted to party all the time"
+          },
+          {
+            "value": "c",
+            "text": "He was a romantic that wasn't very realistic"
+          },
+          {
+            "value": "d",
+            "text": "He was too weird wanting to go on walks down the beach all the time"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Where are the ladies going to find a guy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Going to a bar this Friday night"
+          },
+          {
+            "value": "b",
+            "text": "Going to a club this Saturday night"
+          },
+          {
+            "value": "c",
+            "text": "Going to the library tomorrow night"
+          },
+          {
+            "value": "d",
+            "text": "Going to the mall after school"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Asked her what type of ring she likes",
+      "She is actually feeling good",
+      "He was boring and didn't like to go out",
+      "Going to the club this Saturday night"
+    ]
+  },
+  "transcript": "A: \"What did Mike get you for your birthday Pam?\"\nB: \"He got me a watch. See.\"\nA: \"That's beautiful. He must have spent a fortune on it.\"\nB: \"He's so great. I think he might propose pretty soon.\"\nA: \"How do you know? Did he give you any clues?\"\nB: \"He took me to a jewelry store and asked me what type of rings I like. It was a little obvious, but at least I got to pick the one I wanted.\"\nA: \"That's not so romantic?\"\nB: \"He was never romantic. Silly and cute, but not romantic. I like all his quirkiness. He always makes me laugh.\"\nA: \"I guess you can't ask for much more than that.\"\nB: \"How is it going with you and Brad?\"\nA: \"We broke up a week ago.\"\nB: \"I'm sorry to hear that. What happened?\"\nA: \"I think we both just started to grow apart. I wasn't surprised.\"\nB: \"Are you doing ok?\"\nA: \"Actually, I'm feeling great. I guess I needed some freedom.\"\nB: \"Have you started seeing other guys yet?\"\nA: \"Not yet, but I when I meet a decent guy, I wouldn't mind dating again.\"\nB: \"What kind of guy are you looking for?\"\nA: \"Although my relationship with Brad wasn't that bad, I want a guy who likes to go out more. Brad always spent all his time studying and researching for school. It was quite boring.\"\nB: \"You definitely need a guy who likes to have fun.\"\nA: \"I wouldn't mind dating a romantic guy. Maybe I'm dreaming, but a nice walk down the beach, or dancing in the moonlight would be something I would love to do.\"\nB: \"Hey. There are guys like that. All you have to do is find the right one.\"\nA: \"But that's the hard part. I always fall for the guy who is smart. And then after a couple of months, I get bored.\"\nB: \"Doesn't a tall, good looking guy turn you on?\"\nA: \"Not really. What should I do?\"\nB: \"We should go to a club this Saturday and find a smart romantic guy. How does that sound?\"\nA: \"That sounds like a plan. Let's do it.\"\nB: \"Great. I'll see you at nine then.\"\nA: \"Ok. See you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=327",
+  "crawledAt": "2025-11-24T14:33:08.471Z"
+}

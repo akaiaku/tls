@@ -1,0 +1,120 @@
+{
+  "id": 884,
+  "sectionId": 32,
+  "number": 22,
+  "title": "Basic Listening Lesson #22",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=121",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L147/practice/L147P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Mike so happy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He won the lottery"
+          },
+          {
+            "value": "b",
+            "text": "His wife won the lottery"
+          },
+          {
+            "value": "c",
+            "text": "He passed the bar exam"
+          },
+          {
+            "value": "d",
+            "text": "He passed the civil service exam"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who will Mike call with this good news later?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Hi brother"
+          },
+          {
+            "value": "b",
+            "text": "His wife"
+          },
+          {
+            "value": "c",
+            "text": "His parents"
+          },
+          {
+            "value": "d",
+            "text": "His friend"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What does \"cloud nine\" mean?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A state of extreme happiness"
+          },
+          {
+            "value": "b",
+            "text": "To be in an airplane"
+          },
+          {
+            "value": "c",
+            "text": "To be in a high elevation"
+          },
+          {
+            "value": "d",
+            "text": "To be very disappointed"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How is the friend feeling after hearing this news from Mike?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Sad and depressed"
+          },
+          {
+            "value": "b",
+            "text": "Bitter and Jealous"
+          },
+          {
+            "value": "c",
+            "text": "Happy for his friend"
+          },
+          {
+            "value": "d",
+            "text": "Angry and surprised"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "He passed the bar exam",
+      "Hi parents",
+      "A state of extreme happiness",
+      "Happy for his friend"
+    ]
+  },
+  "transcript": "A: \"Mike, did you win the lottery or something? Why the big smile?\"\nB: \"I'm so relieved. I just passed the bar exam.\"\nA: \"You did? That's great! You must be very happy now?\"\nB: \"That's an understatement. I'm on cloud nine. I couldn't be any happier.\"\nA: \"Did you tell your parents yet?\"\nB: \"Not yet. I didn't get a hold of them. I'll try to call them again tonight.\"\nA: \"They're probably going to be so happy.\"\nB: \"I think so. It's turning out to be a great day.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=122",
+  "crawledAt": "2025-11-24T14:29:16.140Z"
+}

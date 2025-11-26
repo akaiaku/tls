@@ -1,0 +1,120 @@
+{
+  "id": 942,
+  "sectionId": 34,
+  "number": 12,
+  "title": "Advanced Listening Lesson #12",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=311",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L99/practice/L99P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What country is Cancun in?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Canada"
+          },
+          {
+            "value": "b",
+            "text": "Australia"
+          },
+          {
+            "value": "c",
+            "text": "United States"
+          },
+          {
+            "value": "d",
+            "text": "Mexico"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What type of place is Cancun considered from the dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A big tourist place"
+          },
+          {
+            "value": "b",
+            "text": "An adventurous place"
+          },
+          {
+            "value": "c",
+            "text": "A small local city"
+          },
+          {
+            "value": "d",
+            "text": "A dangerous place"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How many days are they going to Cancun for?",
+        "options": [
+          {
+            "value": "a",
+            "text": "3 days"
+          },
+          {
+            "value": "b",
+            "text": "5 days"
+          },
+          {
+            "value": "c",
+            "text": "6 days"
+          },
+          {
+            "value": "d",
+            "text": "7 days"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Where does the friend want to go for her honeymoon?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Canada"
+          },
+          {
+            "value": "b",
+            "text": "Australia"
+          },
+          {
+            "value": "c",
+            "text": "United States"
+          },
+          {
+            "value": "d",
+            "text": "Mexico"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Mexico",
+      "A big tourist place",
+      "6 days",
+      "Australia"
+    ]
+  },
+  "transcript": "A: \"Where are you guys going for your honeymoon?\"\nB: \"We decided on Cancun, Mexico.\"\nA: \"I've been there before. It's a great place.\"\nB: \"What did you do there?\"\nA: \"There is so much to do. It's a big tourist place so there is access to everything.\"\nB: \"That's good. I'm looking forward to our honeymoon. Especially after all the wedding plans I had to do.\"\nA: \"How long are you going for?\"\nB: \"We decided on 6 days. We are leaving on Sunday and returning on Saturday.\"\nA: \"That should give you plenty of time. Do you have all your travel plans in order?\"\nB: \"We just booked our flight and got our room. Everything is set.\"\nA: \"You're going to have so much fun. I'm so jealous.\"\nB: \"When you get married, you'll have your chance.\"\nA: \"I need to find a guy first.\"\nB: \"Where do you want to go for your honeymoon?\"\nA: \"Since I've been to Mexico and Hawaii before, I want to go to Australia.\"\nB: \"That sounds great. It's a little out of our budget so we didn't even consider Australia.\"\nA: \"For the price, Cancun is one of the best so don't have any regrets. It is a great place. So do you have a ride to the airport?\"\nB: \"My brother is going to drop us off.\"\nA: \"Looks like everything is set. Just make sure to take a camera. I know many people who forgot to take a camera on their honeymoon.\"\nB: \"Will do. Thanks.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=312",
+  "crawledAt": "2025-11-24T14:32:03.180Z"
+}

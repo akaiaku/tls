@@ -1,0 +1,119 @@
+{
+  "id": 952,
+  "sectionId": 34,
+  "number": 22,
+  "title": "Advanced Listening Lesson #22",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=321",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L137/practice/L137P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where did Cindy meet John?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At a manufacturing company"
+          },
+          {
+            "value": "b",
+            "text": "At school"
+          },
+          {
+            "value": "c",
+            "text": "At a coffee shop"
+          },
+          {
+            "value": "d",
+            "text": "At a restaurant"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What does John do for a living?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He works in the IT department"
+          },
+          {
+            "value": "b",
+            "text": "He works in the marketing department"
+          },
+          {
+            "value": "c",
+            "text": "He works in the Ops"
+          },
+          {
+            "value": "d",
+            "text": "He works in the finance department"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How old is John?",
+        "options": [
+          {
+            "value": "a",
+            "text": "23"
+          },
+          {
+            "value": "b",
+            "text": "25"
+          },
+          {
+            "value": "c",
+            "text": "27"
+          },
+          {
+            "value": "d",
+            "text": "29"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When will Cindy's friend meet John?",
+        "options": [
+          {
+            "value": "a",
+            "text": "When they get to know each other more"
+          },
+          {
+            "value": "b",
+            "text": "Maybe after a month"
+          },
+          {
+            "value": "c",
+            "text": "Next Saturday on a double date"
+          },
+          {
+            "value": "d",
+            "text": "On Friday night"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "At a coffee shop",
+      "He works in the finance department",
+      "Next Saturday on a double date"
+    ]
+  },
+  "transcript": "A: \"Hey Cindy. I heard you are seeing someone.\"\nB: \"Yeah. His name is John. I started dating him a week ago.\"\nA: \"That's so exciting. Tell me all about him. Is he good looking?\"\nB: \"I think he's cute, but not drop dead gorgeous.\"\nA: \"How did you meet him?\"\nB: \"I go to this coffee shop a lot and this guy is always there. We started talking a couple of times, and he finally asked me out.\"\nA: \"That's so cool. What does he do for a living?\"\nB: \"He works in the finance department in a manufacturing company.\"\nA: \"Do you know if he makes a lot of money?\"\nB: \"I don't know for sure, but he drives a nice car and I heard he has a house.\"\nA: \"How is his personality?\"\nB: \"He's very smart and a great person to talk to. In the beginning, we talked for about 30 minutes a day in the coffee shop before he asked me out. Besides that, he's very sweet and romantic.\"\nA: \"How old is he?\"\nB: \"That's the problem. He is 2 years younger than me. What do you think about that?\"\nA: \"What's the big deal? I don't see anything wrong with that. If you were 23, then I might be worried he was immature, but you're almost 30 now. 2 years is no big deal.\"\nB: \"Yeah. That's what I think.\"\nA: \"When do I get to meet him?\"\nB: \"How about a double date. The four of us can go out to dinner and a drink or something.\"\nA: \"That sounds great. How about next Saturday?\"\nB: \"I think Saturday will be good. Let's double check with the guys and get back to each other.\"\nA: \"Great. I'll call you later then.\"\nB: \"Ok. Talk to you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=322",
+  "crawledAt": "2025-11-24T14:32:55.196Z"
+}

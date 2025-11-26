@@ -1,0 +1,113 @@
+{
+  "id": 2,
+  "sectionId": 1,
+  "number": 2,
+  "title": "I'm in/at/on",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2002",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2002-long.mp3",
+  "content": "Describes an action you are doing.\nMost commonly, you would use the word 'in' when entering a physical location such as a room or a building.\nHere are some examples:\n\"I'm in the shower.\"\n\"I'm in the lobby.\"\n\"I'm in a car.\"\n\"I'm in a house.\"\n\"I'm in a school.\"\nUsing the word 'at' helps tell someone where you currently are. The difference between 'at' and 'in' is that the physical location is general.\nHere are some examples:\n\"I'm at the grocery.\"\n\"I'm at the mall.\"\n\"I'm at the doctor's office.\"\n\"I'm at the park.\"\n\"I'm at the airport.\"\nHowever, in some cases you can use 'at' and 'in' interchangeably.\nHere are some examples:\n\"I'm at the mall.\"\n\"I'm in the mall.\"\n\"I'm at the park.\"\n\"I'm in the park.\"\n\"I'm at the grocery.\"\n\"I'm in the grocery.\"\nUsing the word 'on' is referring to a non physical location such as your time being utilized by something else.\nHere are some examples:\n\"I'm on the phone.\"\n\"I'm on my computer.\"\n\"I'm on a bus.\"",
+  "examples": [
+    {
+      "sentence": "I'm in the shower.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S1.mp3"
+    },
+    {
+      "sentence": "I'm in the lobby.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S2.mp3"
+    },
+    {
+      "sentence": "I'm in a car.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S3.mp3"
+    },
+    {
+      "sentence": "I'm in a house.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S4.mp3"
+    },
+    {
+      "sentence": "I'm in a school.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S5.mp3"
+    },
+    {
+      "sentence": "I'm at the grocery.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S6.mp3"
+    },
+    {
+      "sentence": "I'm at the mall.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S7.mp3"
+    },
+    {
+      "sentence": "I'm at the doctor's office.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S8.mp3"
+    },
+    {
+      "sentence": "I'm at the park.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S9.mp3"
+    },
+    {
+      "sentence": "I'm at the airport.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S10.mp3"
+    },
+    {
+      "sentence": "I'm at the mall.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S11.mp3"
+    },
+    {
+      "sentence": "I'm in the mall.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S12.mp3"
+    },
+    {
+      "sentence": "I'm at the park.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S13.mp3"
+    },
+    {
+      "sentence": "I'm in the park.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S14.mp3"
+    },
+    {
+      "sentence": "I'm at the grocery.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S15.mp3"
+    },
+    {
+      "sentence": "I'm in the grocery.",
+      "audio": "example_16.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S16.mp3"
+    },
+    {
+      "sentence": "I'm on the phone.",
+      "audio": "example_17.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S17.mp3"
+    },
+    {
+      "sentence": "I'm on my computer.",
+      "audio": "example_18.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S18.mp3"
+    },
+    {
+      "sentence": "I'm on a bus.",
+      "audio": "example_19.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E02/sentence/E002S19.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2003",
+  "crawledAt": "2025-11-24T14:09:12.270Z"
+}

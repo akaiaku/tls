@@ -1,0 +1,120 @@
+{
+  "id": 875,
+  "sectionId": 32,
+  "number": 13,
+  "title": "Basic Listening Lesson #13",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=112",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L40/practice/L40P4.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What topic are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Weather and rain"
+          },
+          {
+            "value": "b",
+            "text": "Shopping at the mall"
+          },
+          {
+            "value": "c",
+            "text": "Comedy movies at the theater"
+          },
+          {
+            "value": "d",
+            "text": "Sports and activities"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "If they get bored at the mall, what will they do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Watch a movie"
+          },
+          {
+            "value": "b",
+            "text": "Buy a game to play"
+          },
+          {
+            "value": "c",
+            "text": "Go home and watch TV"
+          },
+          {
+            "value": "d",
+            "text": "Go to the gym"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What word is used to describe the weather?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Amazing"
+          },
+          {
+            "value": "b",
+            "text": "Depressing"
+          },
+          {
+            "value": "c",
+            "text": "Great"
+          },
+          {
+            "value": "d",
+            "text": "Terrible"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What was mentioned in the weather report?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It will stop raining in three days"
+          },
+          {
+            "value": "b",
+            "text": "It will stop raining in eight days"
+          },
+          {
+            "value": "c",
+            "text": "It will stop raining on Friday"
+          },
+          {
+            "value": "d",
+            "text": "I will be sunny over the weekend"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Weather and rain",
+      "Watch a movie",
+      "Terrible",
+      "It will stop raining in eight days"
+    ]
+  },
+  "transcript": "A: \"The weather is terrible.\"\nB: \"Yeah. It's been raining a lot these days.\"\nA: \"I have been watching a lot of videos at home because of the constant rain.\"\nB: \"Have you heard when it's supposed to get better?\"\nA: \"I saw the weather report, and it's going to rain for the next eight days.\"\nB: \"That sucks so much. What are we going to do?\"\nA: \"I'm getting pretty bored. We should do something despite the rain.\"\nB: \"I'm with you. What do you have in mind?\"\nA: \"I haven't been to the Mall in a long time. Let's go there.\"\nB: \"That sounds good. They have a movie theatre there, so if we get bored, we can watch a movie.\"\nA: \"Great. I'll stop by your place now.\"\nB: \"Ok. Don't forget to bring your umbrella. The rain can start up again anytime.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=113",
+  "crawledAt": "2025-11-24T14:28:50.657Z"
+}

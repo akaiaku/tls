@@ -1,0 +1,68 @@
+{
+  "id": 7,
+  "sectionId": 1,
+  "number": 7,
+  "title": "I'm gonna + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2008",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2008-long.mp3",
+  "content": "The word 'gonna' is incorrect grammatically. The equivalent in proper grammar would be 'going to.' When using the word 'gonna' you are telling someone what you are planning to do at that moment or in the near future.\nHere are some examples:\n\"I'm gonna have some coffee.\"\n\"I'm gonna go to work.\"\n\"I'm gonna eat some cake.\"\n\"I'm gonna send out my resume.\"\n\"I'm gonna run a marathon.\"\n\"I'm gonna ask her out for dinner.\"\n\"I'm gonna stop smoking.\"\n\"I'm gonna help my friends.\"\n\"I'm gonna take swim lessons.\"\n\"I'm gonna read a book.\"",
+  "examples": [
+    {
+      "sentence": "I'm gonna have some coffee.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S1.mp3"
+    },
+    {
+      "sentence": "I'm gonna go to work.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S2.mp3"
+    },
+    {
+      "sentence": "I'm gonna eat some cake.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S3.mp3"
+    },
+    {
+      "sentence": "I'm gonna send out my resume.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S4.mp3"
+    },
+    {
+      "sentence": "I'm gonna run a marathon.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S5.mp3"
+    },
+    {
+      "sentence": "I'm gonna ask her out for dinner.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S6.mp3"
+    },
+    {
+      "sentence": "I'm gonna stop smoking.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S7.mp3"
+    },
+    {
+      "sentence": "I'm gonna help my friends.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S8.mp3"
+    },
+    {
+      "sentence": "I'm gonna take swim lessons.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S9.mp3"
+    },
+    {
+      "sentence": "I'm gonna read a book.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E08/sentence/E008S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2009",
+  "crawledAt": "2025-11-24T14:09:18.627Z"
+}

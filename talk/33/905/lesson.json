@@ -1,0 +1,120 @@
+{
+  "id": 905,
+  "sectionId": 33,
+  "number": 9,
+  "title": "Intermediate Listening Lesson #09",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=208",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L51/practice/L51P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What school subject are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Physcial Education"
+          },
+          {
+            "value": "b",
+            "text": "Geography"
+          },
+          {
+            "value": "c",
+            "text": "History"
+          },
+          {
+            "value": "d",
+            "text": "Math"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the main purpose of this discussion?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get tips on the examination"
+          },
+          {
+            "value": "b",
+            "text": "To learn about how Martin Luther King Jr. had on American society"
+          },
+          {
+            "value": "c",
+            "text": "To talk about past presidents and leaders"
+          },
+          {
+            "value": "d",
+            "text": "To discuss the best method to study in general"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Where is one of the person going now?",
+        "options": [
+          {
+            "value": "a",
+            "text": "On his way home"
+          },
+          {
+            "value": "b",
+            "text": "To the book store"
+          },
+          {
+            "value": "c",
+            "text": "Going to eat lunch"
+          },
+          {
+            "value": "d",
+            "text": "Going to the library"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Why will he spend most of his time studying the civil war?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because the professor spent the most time lecturing on the civil war"
+          },
+          {
+            "value": "b",
+            "text": "Because he already studied the other sections"
+          },
+          {
+            "value": "c",
+            "text": "Because it is the most interesting"
+          },
+          {
+            "value": "d",
+            "text": "Because it is his area of weakness"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "History",
+      "To get tips on the examination",
+      "Going to the library",
+      "Because the professor spent the most time lecturing on the civil war"
+    ]
+  },
+  "transcript": "A: \"Did you already take the history exam?\"\nB: \"Yeah. It was hard. When do you take it?\"\nA: \"I take it tomorrow morning. There is so much material, that I don't know what to emphasize on. What types of questions did you get?\"\nB: \"Mostly on the civil war. You should also study the impact Martin Luther King Jr. had on American society.\"\nA: \"How about Abraham Lincoln? Did you get any questions about him?\"\nB: \"I only had 1 question about him. But you might get more. I don't know if he will have the same exam or not.\"\nA: \"Hopefully he will use the same exam, cause I'm going to spend most of my time studying the civil war. It is a huge section and that is what he lectured the most on in class.\"\nB: \"If you can't study everything, then that is probably the best way to go.\"\nA: \"Aright. Thanks for the info. I gotta go to the library now.\"\nB: \"Good luck.\"\nA: \"Thanks. See ya.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=209",
+  "crawledAt": "2025-11-24T14:30:14.025Z"
+}

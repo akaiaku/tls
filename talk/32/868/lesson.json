@@ -1,0 +1,120 @@
+{
+  "id": 868,
+  "sectionId": 32,
+  "number": 6,
+  "title": "Basic Listening Lesson #06",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=105",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L33/practice/L33P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where is Bob?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At school"
+          },
+          {
+            "value": "b",
+            "text": "At work"
+          },
+          {
+            "value": "c",
+            "text": "At home"
+          },
+          {
+            "value": "d",
+            "text": "In class"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is Bob doing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Running"
+          },
+          {
+            "value": "b",
+            "text": "Watching TV"
+          },
+          {
+            "value": "c",
+            "text": "Painting"
+          },
+          {
+            "value": "d",
+            "text": "Sleeping"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Where did Bob learn how to paint?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At the local community college"
+          },
+          {
+            "value": "b",
+            "text": "From his father"
+          },
+          {
+            "value": "c",
+            "text": "In high school painting class"
+          },
+          {
+            "value": "d",
+            "text": "He learned by himself"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What type of painging are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Abstract painting"
+          },
+          {
+            "value": "b",
+            "text": "Regular painting"
+          },
+          {
+            "value": "c",
+            "text": "House painting"
+          },
+          {
+            "value": "d",
+            "text": "Oil painting"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "At home",
+      "Painting",
+      "At the local community college",
+      "Oil painting"
+    ]
+  },
+  "transcript": "A: \"Hey Bob. Whatcha you doing?\"\nB: \"I'm at home painting.\"\nA: \"I didn't know you paint. What type of painting is it?\"\nB: \"I enjoy oil painting. I learned it in one of my extra classes in college.\"\nA: \"That sounds so interesting. I wish I learned a hobby.\"\nB: \"Hobbies are never too late to learn. They offer a variety of classes at the local community college. You should look into it.\"\nA: \"I think I will. Thanks for the info.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=106",
+  "crawledAt": "2025-11-24T14:28:30.033Z"
+}

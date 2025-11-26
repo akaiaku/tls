@@ -1,0 +1,120 @@
+{
+  "id": 928,
+  "sectionId": 33,
+  "number": 32,
+  "title": "Intermediate Listening Lesson #32",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=231",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L179/practice/L179P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "How does he feel after breaking up with his girlfriend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Depressed and sad"
+          },
+          {
+            "value": "b",
+            "text": "Relieved and glad"
+          },
+          {
+            "value": "c",
+            "text": "In extreme pain"
+          },
+          {
+            "value": "d",
+            "text": "Crying all day long"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "How long did the relationship last?",
+        "options": [
+          {
+            "value": "a",
+            "text": "1 month"
+          },
+          {
+            "value": "b",
+            "text": "2 months"
+          },
+          {
+            "value": "c",
+            "text": "1 year"
+          },
+          {
+            "value": "d",
+            "text": "2 years"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why did they break up?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She was too emotional"
+          },
+          {
+            "value": "b",
+            "text": "He didn't treat her well"
+          },
+          {
+            "value": "c",
+            "text": "She found another guy"
+          },
+          {
+            "value": "d",
+            "text": "He was going abroad to study"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What other term was used that is similar to being too emotional ?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A cry baby"
+          },
+          {
+            "value": "b",
+            "text": "A psycho"
+          },
+          {
+            "value": "c",
+            "text": "A mama's boy"
+          },
+          {
+            "value": "d",
+            "text": "A freak"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Relieved and glad",
+      "2 months",
+      "She was too emotional",
+      "A psycho"
+    ]
+  },
+  "transcript": "A: \"What happened to that girl you were seeing?\"\nB: \"Oh Jackie? We broke up last week.\"\nA: \"That was a short relationship. You only started dating 2 months ago.\"\nB: \"It was actually a long two months. She was a psycho.\"\nA: \"What do you mean?\"\nB: \"She would be laughing one moment, and if I said something insensitive, she would start crying. I didn't want to deal with that.\"\nA: \"She sounds very emotional.\"\nB: \"She was a psycho man. One time we were suppose to get together. I was waiting for her call, and when she finally called, she was screaming why I wasn't at her place.\"\nA: \"Were you suppose to be there?\"\nB: \"I thought she was going to call when she was done shopping. It was a misunderstanding. She was literally screaming on the phone over this.\"\nA: \"Ok. You're right. She's a psycho.\"\nB: \"I'm just glad it's over.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=232",
+  "crawledAt": "2025-11-24T14:31:20.461Z"
+}

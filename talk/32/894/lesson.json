@@ -1,0 +1,120 @@
+{
+  "id": 894,
+  "sectionId": 32,
+  "number": 32,
+  "title": "Basic Listening Lesson #32",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=131",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L174/practice/L174P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where is this dialog occurring?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At a restaurant"
+          },
+          {
+            "value": "b",
+            "text": "Over the phone"
+          },
+          {
+            "value": "c",
+            "text": "At the park"
+          },
+          {
+            "value": "d",
+            "text": "At a movie theater"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why is one of the person scared?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Boyfriend is bothering her"
+          },
+          {
+            "value": "b",
+            "text": "A stranger followed her into the store"
+          },
+          {
+            "value": "c",
+            "text": "A movie she just watched was scary"
+          },
+          {
+            "value": "d",
+            "text": "She had a nightmare"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is Tina going to do for her scared friend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go over to her house and watch a comedy together"
+          },
+          {
+            "value": "b",
+            "text": "Rent a DVD that is funny for Tina"
+          },
+          {
+            "value": "c",
+            "text": "Keep talking to her until she is not scared anymore"
+          },
+          {
+            "value": "d",
+            "text": "Have a party for her"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What time of day is this dialog taking place?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In the morning"
+          },
+          {
+            "value": "b",
+            "text": "At lunch time"
+          },
+          {
+            "value": "c",
+            "text": "In the afternoon"
+          },
+          {
+            "value": "d",
+            "text": "In the evening"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Over the phone",
+      "A movie she just watched was scary",
+      "Go over to her house and watch a comedy together",
+      "In the evening"
+    ]
+  },
+  "transcript": "A: \"Hello?\"\nB: \"Hey Tina. What are you doing?\"\nA: \"I was just watching TV. What's going on with you?\"\nB: \"I just watched a movie and I'm scared.\"\nA: \"What did you watch?\"\nB: \"I saw the Sixth Sense. I didn't know it was going to be so scary.\"\nA: \"I remember that. It was a great movie. But it was definitely scary.\"\nB: \"If you're not busy, do you want to come over? I'm afraid to be alone.\"\nA: \"Sure. I can come over. What should we do?\"\nB: \"How about if we watch a comedy. I need something to get my mind off the frightening images I have from the Sixth Sense.\"\nA: \"Ok. I'll get ready and leave. I'll see you in about 20 minutes.\"\nB: \"Hurry, ok. It's dark out.\"\nA: \"Don't worry, nothings going to happen. I'll be there real soon.\"\nB: \"Ok. See you soon.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=132",
+  "crawledAt": "2025-11-24T14:29:43.505Z"
+}

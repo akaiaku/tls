@@ -1,0 +1,120 @@
+{
+  "id": 959,
+  "sectionId": 34,
+  "number": 29,
+  "title": "Advanced Listening Lesson #29",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=328",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L174/practice/L174P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is this person afraid of bee's?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because they sting and it hurts"
+          },
+          {
+            "value": "b",
+            "text": "Because the person had a bad experience when that person was young"
+          },
+          {
+            "value": "c",
+            "text": "Because they are weird looking"
+          },
+          {
+            "value": "d",
+            "text": "Because they make a scary buzzing sound"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where do they usually tell horror stories?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In the movie theater"
+          },
+          {
+            "value": "b",
+            "text": "At a camp fire"
+          },
+          {
+            "value": "c",
+            "text": "In a funeral"
+          },
+          {
+            "value": "d",
+            "text": "Behind the bushes"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is one possible reason this person is afraid of many things?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Watched too many scary movies"
+          },
+          {
+            "value": "b",
+            "text": "Heard too many horror stories"
+          },
+          {
+            "value": "c",
+            "text": "Has too much imagination"
+          },
+          {
+            "value": "d",
+            "text": "Went outside in the dark alone too many times"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What recommendation is give to be less scared of things?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To be with many people"
+          },
+          {
+            "value": "b",
+            "text": "To leave the lights on at night"
+          },
+          {
+            "value": "c",
+            "text": "To not watch scary movies"
+          },
+          {
+            "value": "d",
+            "text": "To think more realistically"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Because the person had a bad experience when that person was young",
+      "At a camp fire",
+      "Has too much imagination",
+      "To think more realistically"
+    ]
+  },
+  "transcript": "A: \"What are you afraid of?\"\nB: \"I'm not sure. I used to be scared of a lot of things when I was young, but not anymore.\"\nA: \"Are you afraid of death?\"\nB: \"Only if I think about it so much. But death is inevitable, so there is no use thinking about it.\"\nA: \"How about horror movies?\"\nB: \"No. I know they're all fake so there is nothing to be afraid of. How about you?\"\nA: \"I get scared pretty easily. I'm actually frightened of bee's.\"\nB: \"Really? Why?\"\nA: \"I don't know. I got stung when I was young and ever since, I've always been afraid of them.\"\nB: \"What other things are you afraid of?\"\nA: \"Sitting by the camp fire and telling horror stories is very scary.\"\nB: \"Wow. You're afraid of many things huh?\"\nA: \"I guess so. Aren't you afraid of something coming out of the bushes?\"\nB: \"It's not going to happen. We probably went camping dozens of times and nothing ever came out of the bushes. What makes you think something will?\"\nA: \"I don't know. I guess I'm terrified at the possibility.\"\nB: \"If you were realistic, you probably wouldn't be scared of everything. Maybe you have too much imagination.\"\nA: \"I should try to think more realistically. I'll do that.\"\nB: \"Good. After awhile, you won't be afraid of so many things.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=329",
+  "crawledAt": "2025-11-24T14:33:13.779Z"
+}

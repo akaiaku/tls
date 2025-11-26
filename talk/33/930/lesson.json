@@ -1,0 +1,120 @@
+{
+  "id": 930,
+  "sectionId": 33,
+  "number": 34,
+  "title": "Intermediate Listening Lesson #34",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=233",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L180/practice/L180P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Martha crying?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Pat just broke up with her"
+          },
+          {
+            "value": "b",
+            "text": "Jake just broke up with her"
+          },
+          {
+            "value": "c",
+            "text": "She broke up with Pat"
+          },
+          {
+            "value": "d",
+            "text": "She broke up with Jake"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "When did the break up occur?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Earlier today"
+          },
+          {
+            "value": "b",
+            "text": "Yesterday"
+          },
+          {
+            "value": "c",
+            "text": "Last week"
+          },
+          {
+            "value": "d",
+            "text": "Last weekend"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What was the cause of the breakup?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The guy found another girl"
+          },
+          {
+            "value": "b",
+            "text": "Martha found another guy"
+          },
+          {
+            "value": "c",
+            "text": "They weren't good for each other"
+          },
+          {
+            "value": "d",
+            "text": "They had too many fights"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How is Martha taking this?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She doesn't know what to do because this is her first break up experience"
+          },
+          {
+            "value": "b",
+            "text": "She is very logical and knows the pain will go away because she experienced this before"
+          },
+          {
+            "value": "c",
+            "text": "She is very happy that she doesn't have to deal with her boyfriend anymore"
+          },
+          {
+            "value": "d",
+            "text": "She feels like going shopping and will meet her friend right now"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Jake just broke up with her",
+      "Yesterday",
+      "The guy found another girl",
+      "She is very logical and knows the pain will go away because she experienced this before"
+    ]
+  },
+  "transcript": "A: \"Martha. What's wrong? Why are you crying?\"\nB: \"Jake just broke up with me.\"\nA: \"I'm sorry. When did this happen?\"\nB: \"Yesterday. I didn't even know it was coming. He just told me he found someone else.\"\nA: \"What a jerk. He doesn't deserve you.\"\nB: \"But it still hurts. I thought I loved him.\"\nA: \"He didn't treat you that well either. Maybe you don't want to hear this, but I think you can do better.\"\nB: \"Better or worse, it doesn't matter. I had a lot of feelings for him. I really liked him\"\nA: \"It must be really painful. I remember when Josh and I broke up. I was crying for a week.\"\nB: \"I know I'll get over him. My first break up was painful because I was naive.\"\nA: \"Exactly. You'll find someone again. You should get your mind off of this. Let's go shopping.\"\nB: \"Maybe tomorrow. I don't feel like it tonight.\"\nA: \"How about coffee down the street?\"\nB: \"Sure.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=300",
+  "crawledAt": "2025-11-24T14:31:26.013Z"
+}

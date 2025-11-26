@@ -1,0 +1,120 @@
+{
+  "id": 931,
+  "sectionId": 34,
+  "number": 1,
+  "title": "Advanced Listening Lesson #01",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=300",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L43/practice/L43P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What two states are the guys from?",
+        "options": [
+          {
+            "value": "a",
+            "text": "New York and Oregon"
+          },
+          {
+            "value": "b",
+            "text": "California and New York"
+          },
+          {
+            "value": "c",
+            "text": "Texas and California"
+          },
+          {
+            "value": "d",
+            "text": "Texas and New York"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What year are the two students in?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Both are freshman"
+          },
+          {
+            "value": "b",
+            "text": "One is a freshman and the other is a sophomore"
+          },
+          {
+            "value": "c",
+            "text": "One is a sophomore and the other is a junior"
+          },
+          {
+            "value": "d",
+            "text": "Both are senior"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What university are they currently at?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Austin"
+          },
+          {
+            "value": "b",
+            "text": "Stanford"
+          },
+          {
+            "value": "c",
+            "text": "Berkeley"
+          },
+          {
+            "value": "d",
+            "text": "UCLA"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What are all the majors that were brought up?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Political Science, English Literature, and Electical Engineering"
+          },
+          {
+            "value": "b",
+            "text": "Science, English Literature, and Mechanical Engineering"
+          },
+          {
+            "value": "c",
+            "text": "Biology, English, and Chemical Engineering"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Texas and California",
+      "Both are freshman",
+      "Berkeley",
+      "Political Science, English Literature, and Electical Engineering"
+    ]
+  },
+  "transcript": "A: \"Hi. My name is Mark.\"\nB: \"Mark? I'm Bill. Glad to meet you.\"\nA: \"Yeah. So where are you from?\"\nB: \"I'm from Houston Texas.\"\nA: \"Oh... I'm from Southern California.\"\nB: \"There must be a lot of cute girls over there huh?\"\nA: \"Hell yeah. But most of them are hoochies.\"\nB: \"That sucks. So, what year are you?\"\nA: \"I'm a freshman.\"\nB: \"This is my first year too.\"\nA: \"So what made you decide to come to California for school? I hear Austin is a good school.\"\nB: \"It's aright, but I think Berkeley is better.\"\nA: \"So is this where you wanted to come?\"\nB: \"To tell you the truth, I wanted to go to Stanford. I made it on the waiting list, but ninety nine percent of the people accepted to Stanford go there. Like, who wouldn't right?\"\nA: \"Very true. But this is still a good school.\"\nB: \"I'm not complaining. I just know that I wanted to come to California. Texas is cool and all, but I wanted to experience different things.\"\nA: \"That's good. Do you know what you plan on majoring in?\"\nB: \"I was thinking about political science, but now I'm leaning towards English literature. How about you?\"\nA: \"I plan on majoring in double E.\"\nB: \"Do you know where the Smith building is? I have to pick up the syllabus for my psychology class. I missed the first day.\"\nA: \"That's a great start. It's over there by the library.\"\nB: \"It was nice meeting you.\"\nA: \"Yeah. We should hang out later.\"\nB: \"Cool. I'll see you tomorrow in class then.\"\nA: \"Aright. Later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=301",
+  "crawledAt": "2025-11-24T14:31:28.928Z"
+}

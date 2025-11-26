@@ -1,0 +1,58 @@
+{
+  "id": 507,
+  "sectionId": 18,
+  "number": 39,
+  "title": "Phone Call",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=478",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/478-long.mp3",
+  "content": "Talking on the phone is very common in the office. You will be in a situation where you have to call someone, receive a phone call, leave a message, return a call, and a variety of other tasks. We will use this lesson to cover all the details about making and receiving phone calls.\nReceiving a call is probably the easiest.\n\"Hello, this is Mike.\"\n\"Microsoft, this is Steve.\"\nCalling someone is a little more difficult. You should state your name, where you are from, what you are calling for, and the question. Let's give it a try through an example.\n\"Hi Mary, this is Michael Johnson from ABC Consulting. I am reviewing the financial data for the payroll project. I will need the 2002 fiscal report to complete this task. Do you know where I can get a copy?\"\nThis example is very clear, organized, and concise. It first explains who the person is, what they are doing, and what they need. If you need to call someone to obtain information, you can use this type of sentence.\nLet's try one more, but this time, you are asking for help.\n\"Hi Bob. This is Steven from ABC Company. I'm calling in regards to the data entry program you created. I'm having trouble locating where the connection is made to the server. Can you help me with this?\"\nSimilarly, this phone call starts with an introduction of the person, a quick sentence on what the call is regarding, and a short description on what this person needs. If you are in this situation, use this process and write it down so you can say what you need smoothly. After you become familiar with it, you will not need to write it down anymore and you should be able to say it fluently.\nIf you have questions and a consultant or another business employee is visiting your company, then asking a question to them is very similar to asking a question to anyone else.\n\"Hi Bob. I'm George. I'm the technical writer for this project. I had a question regarding the installation process. If you have a minute, can you show me the installation process? I'm having problems on the confirmation section.\"\nUsually, when a person is visiting your company, then it is polite to tell them your position so they can understand what type of help you will need. In the previous example, we used the same process of asking for help with an introduction, telling them what it is regarding, and what the problem or question is.\n<b>Verifying Information</b>\nSometimes you have to verify an order, or double check a figure. If you have the information and you just want to verify that it is accurate, then you can use these types of sentences.\n\"Hi Debra, I'm analyzing the log files and noticed entry 14 was negative 42. Can you confirm if this is accurate?\"\n\"I see that our April 2003 revenue was 1.2 million dollars. Can you double check that this figure is accurate?\"\n\"I am going to meet with the CFO in an hour. Can you look through this report and double check my findings? It should only take you 20 minutes or so.\"",
+  "examples": [
+    {
+      "sentence": "Hello, this is Mike.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S1.mp3"
+    },
+    {
+      "sentence": "Microsoft, this is Steve.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S2.mp3"
+    },
+    {
+      "sentence": "Hi Mary, this is Michael Johnson from ABC Consulting. I am reviewing the financial data for the payroll project. I will need the 2002 fiscal report to complete this task. Do you know where I can get a copy?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S3.mp3"
+    },
+    {
+      "sentence": "Hi Bob. This is Steven from ABC Company. I'm calling in regards to the data entry program you created. I'm having trouble locating where the connection is made to the server. Can you help me with this?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S4.mp3"
+    },
+    {
+      "sentence": "Hi Bob. I'm George. I'm the technical writer for this project. I had a question regarding the installation process. If you have a minute, can you show me the installation process? I'm having problems on the confirmation section.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S5.mp3"
+    },
+    {
+      "sentence": "Hi Debra, I'm analyzing the log files and noticed entry 14 was negative 42. Can you confirm if this is accurate?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S6.mp3"
+    },
+    {
+      "sentence": "I see that our April 2003 revenue was 1.2 million dollars. Can you double check that this figure is accurate?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S7.mp3"
+    },
+    {
+      "sentence": "I am going to meet with the CFO in an hour. Can you look through this report and double check my findings? It should only take you 20 minutes or so.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B35/sentence/B35S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=479",
+  "crawledAt": "2025-11-24T14:20:19.086Z"
+}

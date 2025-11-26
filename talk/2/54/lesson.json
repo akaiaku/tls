@@ -1,0 +1,68 @@
+{
+  "id": 54,
+  "sectionId": 2,
+  "number": 25,
+  "title": "You'd better + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2055",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2055-long.mp3",
+  "content": "'You'd' is a contraction of 'you had' or 'you would.' You are making a suggestion to someone for a particular action.\nHere are some examples:\n\"You'd better exercise.\"\n\"You'd better help out.\"\n\"You'd better invite your brother.\"\n\"You'd better impress the judges.\"\n\"You'd better listen to your parents.\"\n\"You had better not come home late.\"\n\"You had better hope for the best.\"\n\"You had better change your attitude.\"\n\"You would be good at teaching.\"\n\"You would do well at math.\"",
+  "examples": [
+    {
+      "sentence": "You'd better exercise.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S1.mp3"
+    },
+    {
+      "sentence": "You'd better help out.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S2.mp3"
+    },
+    {
+      "sentence": "You'd better invite your brother.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S3.mp3"
+    },
+    {
+      "sentence": "You'd better impress the judges.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S4.mp3"
+    },
+    {
+      "sentence": "You'd better listen to your parents.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S5.mp3"
+    },
+    {
+      "sentence": "You had better not come home late.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S6.mp3"
+    },
+    {
+      "sentence": "You had better hope for the best.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S7.mp3"
+    },
+    {
+      "sentence": "You had better change your attitude.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S8.mp3"
+    },
+    {
+      "sentence": "You would be good at teaching.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S9.mp3"
+    },
+    {
+      "sentence": "You would do well at math.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E55/sentence/E055S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2056",
+  "crawledAt": "2025-11-24T14:10:19.686Z"
+}

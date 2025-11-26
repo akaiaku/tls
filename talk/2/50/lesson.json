@@ -1,0 +1,68 @@
+{
+  "id": 50,
+  "sectionId": 2,
+  "number": 21,
+  "title": "I wish I could + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2051",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2051-long.mp3",
+  "content": "You are expressing a desire to do something.\nHere are some examples:\n\"I wish I could sing better.\"\n\"I wish I could settle the argument.\"\n\"I wish I could sail around the world.\"\n\"I wish I could remain calm during all of this.\"\n\"I wish I could remember his name.\"\n\"I wish I could replace my old car with a new one.\"\n\"I wish I could play outside.\"\n\"I wish I could go to the game with you.\"\n\"I wish I could write better.\"\n\"I wish I could own my own business.\"",
+  "examples": [
+    {
+      "sentence": "I wish I could sing better.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S1.mp3"
+    },
+    {
+      "sentence": "I wish I could settle the argument.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S2.mp3"
+    },
+    {
+      "sentence": "I wish I could sail around the world.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S3.mp3"
+    },
+    {
+      "sentence": "I wish I could remain calm during all of this.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S4.mp3"
+    },
+    {
+      "sentence": "I wish I could remember his name.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S5.mp3"
+    },
+    {
+      "sentence": "I wish I could replace my old car with a new one.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S6.mp3"
+    },
+    {
+      "sentence": "I wish I could play outside.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S7.mp3"
+    },
+    {
+      "sentence": "I wish I could go to the game with you.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S8.mp3"
+    },
+    {
+      "sentence": "I wish I could write better.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S9.mp3"
+    },
+    {
+      "sentence": "I wish I could own my own business.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E51/sentence/E051S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2052",
+  "crawledAt": "2025-11-24T14:10:14.484Z"
+}

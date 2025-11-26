@@ -1,0 +1,48 @@
+{
+  "id": 510,
+  "sectionId": 18,
+  "number": 42,
+  "title": "Leaving Messages",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=481",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/481-long.mp3",
+  "content": "When you call someone and they are not there, you have to leave a message on their voice mail. Remember to state your name, your company, and what the phone call is regarding. Then leave your phone number even though you think they have it.\n\"Hi Mary, this is Josh from ABC Company. I have some questions regarding the financial data you sent me yesterday. Can you give me a call back when you have time? My number is 555-123-4567. Thank you.\"\n\"Hi Jack, this is Julie from Consult R Us. I am missing a couple pages on the document you sent me. Can you call me when you are free? My number again is 555-321-7654. Thank you.\"\nIn some cases, you will receive a phone message like this. If you have to call them back and they are not there also, you can leave a message saying, you are returning their call. Here is an example.\n\"Hi Josh, this is Mary and I am returning your call. I'll be in the office for the next three hours, so feel free to call me back any time. Just in case, my number is 555-234-5678.\"\n\"Hi Julie, this is Jack. I double checked the documents I sent you and I am not sure what pages you are missing. I might not be at my desk, so feel free to call me on my cell phone. The number is 227-1000. Hope to hear from you soon so we can straighten this out.\"\nOn another occasion, you might call someone and they might not call you back. In this case, it is polite to call them again. This is how you can leave a second message.\n\"Hi Mary, this is Josh again from ABC Company. I'm not sure if you got my first message so I am leaving one more. I have some questions regarding the financial data you sent me several days ago. Can you call me at 555-123-4567 when you get a chance? Thank you.\"\nIf the company does not have voice mail, you can leave a message with the secretary. After asking for the person you are looking for, if they say they are not in, then leave a message with them.\n\"Can you have Julie return my call? This is Jack, and my number is 555-123-4567.\"",
+  "examples": [
+    {
+      "sentence": "Hi Mary, this is Josh from ABC Company. I have some questions regarding the financial data you sent me yesterday. Can you give me a call back when you have time? My number is 555-123-4567. Thank you.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S1.mp3"
+    },
+    {
+      "sentence": "Hi Jack, this is Julie from Consult R Us. I am missing a couple pages on the document you sent me. Can you call me when you are free? My number again is 555-321-7654. Thank you.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S2.mp3"
+    },
+    {
+      "sentence": "Hi Josh, this is Mary and I am returning your call. I'll be in the office for the next three hours, so feel free to call me back any time. Just in case, my number is 555-234-5678.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S3.mp3"
+    },
+    {
+      "sentence": "Hi Julie, this is Jack. I double checked the documents I sent you and I am not sure what pages you are missing. I might not be at my desk, so feel free to call me on my cell phone. The number is 227-1000. Hope to hear from you soon so we can straighten this out.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S4.mp3"
+    },
+    {
+      "sentence": "Hi Mary, this is Josh again from ABC Company. I'm not sure if you got my first message so I am leaving one more. I have some questions regarding the financial data you sent me several days ago. Can you call me at 555-123-4567 when you get a chance? Thank you.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S5.mp3"
+    },
+    {
+      "sentence": "Can you have Julie return my call? This is Jack, and my number is 555-123-4567.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B38/sentence/B38S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=482",
+  "crawledAt": "2025-11-24T14:20:23.043Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 199,
+  "sectionId": 6,
+  "number": 10,
+  "title": "How is your day - Example Conversation",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=529",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/529-long.mp3",
+  "content": "The present tense is more common in writing. As you can see by all the explanations I am giving, they are all written in the present tense. That is because it is instructional. Instructional writing is more commonly written in present tense. However, stories in novels are written in past tense.\nThe reason past and future tense is used more commonly than present tense when speaking is because usually you are telling someone what you have done or what you plan on doing. Speaking in the present tense is used primarily to tell someone what you are currently doing.\nAs in previous lessons in 'Bored and Greeting' it is very common to have a conversation using the present tense when you run into somebody or when you make or receive a phone call.\nLet's use this time now to incorporate what we have learned so far.\nPerson A: \"Hi Jack. What are you doing?\"\nPerson B: \"Hi Mary. I'm filling out a job application.\"\nPerson A: \"Are you finished with school already?\"\nPerson B: \"No. I have one more semester, but it would be great to have a job lined up.\"\nPerson A: \"How is your day going?\"\nPerson B: \"Quite busy. I'm preparing for my presentation tomorrow on our marketing strategy. I'm not even half done yet.\"\nPerson A: \"You must feel stressed out now.\"\nPerson B: \"That's an understatement.\"\nPerson A: \"What are you doing now?\"\nPerson B: \"I'm playing pool with my friends at a pool hall.\"\nPerson A: \"I didn't know you play pool. Are you having fun?\"\nPerson B: \"I'm having a great time. How about you? What are you doing?\"\nPerson A: \"I'm taking a break from my homework. There seems to be no end to the amount of work I have to do.\"\nPerson B: \"I'm glad I'm not in your shoes.\"",
+  "examples": [
+    {
+      "sentence": "Hi Jack. What are you doing?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S1.mp3"
+    },
+    {
+      "sentence": "Hi Mary. I'm filling out a job application.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S2.mp3"
+    },
+    {
+      "sentence": "Are you finished with school already?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S3.mp3"
+    },
+    {
+      "sentence": "No. I have one more semester, but it would be great to have a job lined up.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S4.mp3"
+    },
+    {
+      "sentence": "How is your day going?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S5.mp3"
+    },
+    {
+      "sentence": "Quite busy. I'm preparing for my presentation tomorrow on our marketing strategy. I'm not even half done yet.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S6.mp3"
+    },
+    {
+      "sentence": "You must feel stressed out now.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S7.mp3"
+    },
+    {
+      "sentence": "That's an understatement.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S8.mp3"
+    },
+    {
+      "sentence": "What are you doing now?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S9.mp3"
+    },
+    {
+      "sentence": "I'm playing pool with my friends at a pool hall.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S10.mp3"
+    },
+    {
+      "sentence": "I didn't know you play pool. Are you having fun?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S11.mp3"
+    },
+    {
+      "sentence": "I'm having a great time. How about you? What are you doing?",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S12.mp3"
+    },
+    {
+      "sentence": "I'm taking a break from my homework. There seems to be no end to the amount of work I have to do.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S13.mp3"
+    },
+    {
+      "sentence": "I'm glad I'm not in your shoes.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L8/sentence/L8S14.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=553",
+  "crawledAt": "2025-11-24T14:13:28.888Z"
+}

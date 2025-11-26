@@ -1,0 +1,120 @@
+{
+  "id": 872,
+  "sectionId": 32,
+  "number": 10,
+  "title": "Basic Listening Lesson #10",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=109",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L39/practice/L39P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the main topic of discussion?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Work"
+          },
+          {
+            "value": "b",
+            "text": "Television"
+          },
+          {
+            "value": "c",
+            "text": "Exercise"
+          },
+          {
+            "value": "d",
+            "text": "Restaurants"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How long ago did he join the health club?",
+        "options": [
+          {
+            "value": "a",
+            "text": "1 year ago"
+          },
+          {
+            "value": "b",
+            "text": "1 month ago"
+          },
+          {
+            "value": "c",
+            "text": "2 months ago"
+          },
+          {
+            "value": "d",
+            "text": "Last week"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How long does he lift weights for?",
+        "options": [
+          {
+            "value": "a",
+            "text": "30 minutes"
+          },
+          {
+            "value": "b",
+            "text": "45 minutes"
+          },
+          {
+            "value": "c",
+            "text": "1 hour"
+          },
+          {
+            "value": "d",
+            "text": "2 hours"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What does he usually do before lifting weights?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Stretch"
+          },
+          {
+            "value": "b",
+            "text": "Walk around"
+          },
+          {
+            "value": "c",
+            "text": "Jump rope for 15 minutes"
+          },
+          {
+            "value": "d",
+            "text": "Bicycle for 30 minutes"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Exercise",
+      "2 months ago",
+      "45 minutes",
+      "Bicycle for 30 minutes"
+    ]
+  },
+  "transcript": "A: \"What do you do besides work and watching TV?\"\nB: \"When I have some time, I like to exercise.\"\nA: \"Do you go jogging or do you go to a health club?\"\nB: \"I joined Samsung Health Club a couple of months ago.\"\nA: \"How do you exercise?\"\nB: \"I usually spend 30 minutes on the bicycle for the cardio, and then I lift weight for about 45 minutes.\"\nA: \"How often do you go?\"\nB: \"I want to go four times a week, but I'm too lazy. Last week, I only went to workout once.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=110",
+  "crawledAt": "2025-11-24T14:28:41.885Z"
+}

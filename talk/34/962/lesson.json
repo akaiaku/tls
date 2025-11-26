@@ -1,0 +1,120 @@
+{
+  "id": 962,
+  "sectionId": 34,
+  "number": 32,
+  "title": "Advanced Listening Lesson #32",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=331",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L181/practice/L181P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where do they know each other from?",
+        "options": [
+          {
+            "value": "a",
+            "text": "From a class they take together"
+          },
+          {
+            "value": "b",
+            "text": "From New York"
+          },
+          {
+            "value": "c",
+            "text": "From high school"
+          },
+          {
+            "value": "d",
+            "text": "From a party last week"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the probable age difference between the two?",
+        "options": [
+          {
+            "value": "a",
+            "text": "They are the same age"
+          },
+          {
+            "value": "b",
+            "text": "They are 1 year apart"
+          },
+          {
+            "value": "c",
+            "text": "They are 2 years apart"
+          },
+          {
+            "value": "d",
+            "text": "They are 3 years apart"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Who showed the first interest of seeing one another outside of class?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The girl"
+          },
+          {
+            "value": "b",
+            "text": "The boy"
+          },
+          {
+            "value": "c",
+            "text": "Neither of them"
+          },
+          {
+            "value": "d",
+            "text": "Both of them"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is the condition that the guy has set to go out together?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get a B or better on the midterm"
+          },
+          {
+            "value": "b",
+            "text": "To get at least an A on the midterm"
+          },
+          {
+            "value": "c",
+            "text": "To simply pass the midterm"
+          },
+          {
+            "value": "d",
+            "text": "No conditions were stated. They will go out after the midterm"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "From a class they take together",
+      "They are 1 year apart",
+      "The girl",
+      "To get a B or better on the midterm"
+    ]
+  },
+  "transcript": "A: \"Hi. Aren't you in my sociology class?\"\nB: \"I think so. With Professor Robinson right?\"\nA: \"Yeah. I'm Nicole.\"\nB: \"I'm George. It's nice to meet you.\"\nA: \"How are you liking the class so far?\"\nB: \"I like the subject. I think it's pretty interesting.\"\nA: \"Me too. But it's hard to sit in class when the weather is so nice.\"\nB: \"Tell me about it. The weather has been so great lately.\"\nA: \"So, what year are you?\"\nB: \"I'm a sophomore. How about you?\"\nA: \"I'm a freshman.\"\nB: \"Where are you from around here?\"\nA: \"No. I'm from the east. I grew up in New York.\"\nB: \"New York? That seems like a fun place.\"\nA: \"More like a busy place. Everyone is always on the run over there.\"\nB: \"I grew up in San Francisco.\"\nA: \"That's not too far from here. Do you like living on the west coast?\"\nB: \"I haven't been to many other places, but the west coast is a great place.\"\nA: \"Yeah. I like it too.\"\nB: \"Are you ready for the mid term next Friday?\"\nA: \"I'm so behind. I've been going out a lot. I'm having so much fun, but I really need to catch up on my school work.\"\nB: \"Where do you usually hang out?\"\nA: \"No where specific. We always do different things.\"\nB: \"Have you been to Alcatraz yet?\"\nA: \"Not yet. I want to go though.\"\nB: \"I highly recommend it. It's an interesting place to visit.\"\nA: \"Maybe you could take me there.\"\nB: \"If you get a B or better on your midterm, I'll take you there.\"\nA: \"Deal. It was great meeting you. I'll talk to you again tomorrow.\"\nB: \"Ok. See you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=332",
+  "crawledAt": "2025-11-24T14:33:29.482Z"
+}

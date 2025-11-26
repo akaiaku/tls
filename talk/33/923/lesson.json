@@ -1,0 +1,120 @@
+{
+  "id": 923,
+  "sectionId": 33,
+  "number": 27,
+  "title": "Intermediate Listening Lesson #27",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=226",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L157/practice/L157P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Who is in the hospital?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Jared is in the hospital"
+          },
+          {
+            "value": "b",
+            "text": "Jared's friend is in the hospital"
+          },
+          {
+            "value": "c",
+            "text": "Jared's father is in the hospital"
+          },
+          {
+            "value": "d",
+            "text": "Jared's wife is in the hospital"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who else is in the hospital right now?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Jared's wife is also in the hospital"
+          },
+          {
+            "value": "b",
+            "text": "Jared's cousin is also in the hospital"
+          },
+          {
+            "value": "c",
+            "text": "Jared's mother is also in the hospital"
+          },
+          {
+            "value": "d",
+            "text": "Jared's friend is also in the hospital"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why is that person in the hospital?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Had a stroke"
+          },
+          {
+            "value": "b",
+            "text": "Had a heart attack"
+          },
+          {
+            "value": "c",
+            "text": "Has a high fever"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "When will Jared go to the hospital?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Right away"
+          },
+          {
+            "value": "b",
+            "text": "Right after dinner"
+          },
+          {
+            "value": "c",
+            "text": "First thing in the morning"
+          },
+          {
+            "value": "d",
+            "text": "After class tomorrow"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Jared's father is in the hospital",
+      "Jared's mother is also in the hospital",
+      "None of the above",
+      "Right after dinner"
+    ]
+  },
+  "transcript": "A: \"Jared, I just heard about your father. How is he doing?\"\nB: \"He's in the hospital resting. The doctor's didn't give a clear answer yet.\"\nA: \"I'm so sorry to hear that. But this is a good hospital. I'm sure they will do whatever they can.\"\nB: \"I hope so.\"\nA: \"You must feel really worried right now. But you know your dad is a fighter.\"\nB: \"Yeah. I think my mom is the most worried. I'm basically worried about how she is doing.\"\nA: \"Where is she right now?\"\nB: \"She's in the hospital with my dad. I have to go back tonight.\"\nA: \"Hey, I'll go with you.\"\nB: \"You don't have to.\"\nA: \"It's really no problem.\"\nB: \"Ok. Let's go right after dinner.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=227",
+  "crawledAt": "2025-11-24T14:31:06.386Z"
+}

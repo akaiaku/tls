@@ -1,0 +1,63 @@
+{
+  "id": 31,
+  "sectionId": 2,
+  "number": 2,
+  "title": "I'm working on + (noun)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2032",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2032-long.mp3",
+  "content": "'I'm' is a contraction for the words 'I am.' The phrase 'working on' relays a physical or mental effort towards an accomplishment.\nHere are some examples:\n\"I'm working on a big project.\"\n\"I'm working on training my dog.\"\n\"I'm working on making new friends.\"\n\"I'm working on educating myself.\"\n\"I'm working on my homework.\"\n\"I am working on painting a house.\"\n\"I am working on a new idea.\"\n\"I am working on my computer.\"\n\"I'm working on my website.\"",
+  "examples": [
+    {
+      "sentence": "I'm working on a big project.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S1.mp3"
+    },
+    {
+      "sentence": "I'm working on training my dog.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S2.mp3"
+    },
+    {
+      "sentence": "I'm working on making new friends.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S3.mp3"
+    },
+    {
+      "sentence": "I'm working on educating myself.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S4.mp3"
+    },
+    {
+      "sentence": "I'm working on my homework.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S5.mp3"
+    },
+    {
+      "sentence": "I am working on painting a house.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S6.mp3"
+    },
+    {
+      "sentence": "I am working on a new idea.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S7.mp3"
+    },
+    {
+      "sentence": "I am working on my computer.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S8.mp3"
+    },
+    {
+      "sentence": "I'm working on my website.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E32/sentence/E032S9.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2033",
+  "crawledAt": "2025-11-24T14:09:49.664Z"
+}

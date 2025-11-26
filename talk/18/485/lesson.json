@@ -1,0 +1,53 @@
+{
+  "id": 485,
+  "sectionId": 18,
+  "number": 17,
+  "title": "Network share and public share",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=452",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/452-long.mp3",
+  "content": "Network share is a location on your network that you can access. The files are stored on a different computer. If you do not have a network set up in the office you work at, then you won't need this section.\nIn order for you to save data on a network share, you will need permission. The person in charge of the computer has the ability to add users. If you know of a public share and you cannot access it, then tell your administrator or the person in charge of that computer to give you permission.\n\"I have it saved on a network share. You can find it at computername public John data.doc.\"\nWhenever you tell someone a network location, you tell them the name by the path. I'll use the previous sentence as an example. Computername is the name of the computer, then the next word is a folder name. The next name is also a folder name. Finally, data.doc is the name of the file. So, the location of data.doc is in a folder named John that is under a folder called public under the computer computername. When you say a path verbally, you just leave a pause after each word or say slash between the words. In the written form, it looks like this, \\computernamepublicJohndata.doc.\nWhen people share documents, they save them on their own computer and put it in a folder that they made public. Or, a co-worker might have data saved on their computer. If you don't want to deal with the floppy disks, then you can retrieve the data from the network if they make the folder public.\n\"I have those files in my public folder. Just go to John01 public. You should see all the documents there.\"\n\"I saved it at John01 public. Go ahead and take what you need.\"\n\"I'll need all the information on ABC Company. Didn't you say you have the information? Can you put them on a public share?\"\n\"Hey John, I don't have permission to get into John01. Can you check the permissions on the folder?\"\n\"I don't have write access on the folder. Can you give me write permissions?\"\n\"I don't want anybody changing the data, so everyone only has read permissions.\"",
+  "examples": [
+    {
+      "sentence": "I have it saved on a network share. You can find it at computername public John data.doc.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S1.mp3"
+    },
+    {
+      "sentence": "I have those files in my public folder. Just go to John01 public. You should see all the documents there.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S2.mp3"
+    },
+    {
+      "sentence": "I saved it at John01 public. Go ahead and take what you need.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S3.mp3"
+    },
+    {
+      "sentence": "I'll need all the information on ABC Company. Didn't you say you have the information? Can you put them on a public share?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S4.mp3"
+    },
+    {
+      "sentence": "Hey John, I don't have permission to get into John01. Can you check the permissions on the folder?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S5.mp3"
+    },
+    {
+      "sentence": "I don't have write access on the folder. Can you give me write permissions?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S6.mp3"
+    },
+    {
+      "sentence": "I don't want anybody changing the data, so everyone only has read permissions.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B15/sentence/B15S7.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=453",
+  "crawledAt": "2025-11-24T14:19:50.161Z"
+}

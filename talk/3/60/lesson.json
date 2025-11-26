@@ -1,0 +1,68 @@
+{
+  "id": 60,
+  "sectionId": 3,
+  "number": 1,
+  "title": "How often do you",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2061",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2061-long.mp3",
+  "content": "When asking this question you are inquiring how often or how frequent someone does a particular thing.\nHere are some examples:\n\"How often do you exercise?\"\n\"How often do you change your password?\"\n\"How often do you help out at school?\"\n\"How often do you listen to your MP3 player?\"\n\"How often do you need to go to the dentist?\"\n\"How often do you receive your magazine in the mail?\"\n\"How often do you report to your supervisor?\"\n\"How often do you stretch before working out?\"\n\"How often do you talk to your parents?\"\n\"How often do you travel?\"",
+  "examples": [
+    {
+      "sentence": "How often do you exercise?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S1.mp3"
+    },
+    {
+      "sentence": "How often do you change your password?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S2.mp3"
+    },
+    {
+      "sentence": "How often do you help out at school?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S3.mp3"
+    },
+    {
+      "sentence": "How often do you listen to your MP3 player?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S4.mp3"
+    },
+    {
+      "sentence": "How often do you need to go to the dentist?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S5.mp3"
+    },
+    {
+      "sentence": "How often do you receive your magazine in the mail?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S6.mp3"
+    },
+    {
+      "sentence": "How often do you report to your supervisor?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S7.mp3"
+    },
+    {
+      "sentence": "How often do you stretch before working out?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S8.mp3"
+    },
+    {
+      "sentence": "How often do you talk to your parents?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S9.mp3"
+    },
+    {
+      "sentence": "How often do you travel?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E61/sentence/E061S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2062",
+  "crawledAt": "2025-11-24T14:10:27.501Z"
+}

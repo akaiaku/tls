@@ -1,0 +1,60 @@
+{
+  "id": 1001,
+  "sectionId": 38,
+  "number": 3,
+  "title": "Indicative, Imperative, Subjunctive Mood",
+  "url": "https://www.talkenglish.com/grammar/mood.aspx",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "A mood shows the writer’s attitude toward what he/she is saying.\n<b>Indicative Mood</b> states an actuality or fact.\n- We will go to see a movie this Sunday.\n- I’ll follow you.\n<b>Imperative Mood</b> makes a request.\n- Let’s go to see a movie this weekend!\n- Please stop bugging me!\n<b>Subjunctive Mood</b> expresses a doubtful condition (contrary to fact) and is often used with an \"if\" clause.\n- If I were you, I wouldn’t buy a house.\n- I wish I were more organized.\nThe following verbs often attract the subjunctive mood: ask, recommend, suggest, wish, insist, order, commend, request, and demand.A verb in the subjunctive mood may have a different form. The subjunctive for the present tense third-person singular drops the s or es so that it looks and sounds like the present tense for everything else. In the subjunctive mood, the verb to be is be in the present tense and were in the past tense, <b>regardless of what the subject is</b>.\n- Incorrect: If I was you, I would take any offer.\n- Correct: If I were you, I would take any offer.\n(The verb follows ‘if’ and expresses a non-factual condition.)\n- Incorrect: I wish I was able to speak English fluently.\n- Correct: I wish I were able to speak English fluently.\n(The second verb is in a clause following a verb expressing a wish. It suggests a non-factual or doubtful condition.)\n- Incorrect: Our suggestion is that everyone on the team does the survey.\n- Correct: Our suggestion is that everyone on the team do the survey.\n- Incorrect: She recommended that each student takes a note.\n- Correct: She recommended that each student take a note.\n<b>[Quiz 18.1]</b>\nWrite the correct form of the verb given.\n1)I insist that Jennifer ______ (finish) her meal.\n2)She suggests that the office ______(be) closed today.\n3)If I ______ (be) you, I would win the game.\n4)I wish I ______ (can) fly.\n<b>[Quiz 18.2]</b>\nChoose the correct sentence from the following.\n1)I wish I was able to buy this car.\n2)It were recommended that the company closes its foreign offices.\n3)If Jack were 17 years old, he would apply for the university.\n4)Our manager insists that the group is reorganized.\n<b>View Answers</b>[18.1]\n1) finish\n2) be\n3) were\n4) could\n[18.2]\n3\nCorrect sentences for 1, 2, and 4:\n1) I wish I would be able to buy this car\n2) It was recommended that the company closed its foreign offices.\n4) Our manager insists that the group be reorganized.",
+  "examples": [],
+  "quiz": {
+    "questions": [
+      {
+        "question": "I insist that Jennifer ______ (finish) her meal.",
+        "type": "fill-in-blank",
+        "answer": "finish"
+      },
+      {
+        "question": "She suggests that the office ______(be) closed today.",
+        "type": "fill-in-blank",
+        "answer": "be"
+      },
+      {
+        "question": "If I ______ (be) you, I would win the game.",
+        "type": "fill-in-blank",
+        "answer": "were"
+      },
+      {
+        "question": "I wish I ______ (can) fly.",
+        "type": "fill-in-blank",
+        "answer": "could"
+      },
+      {
+        "question": "I wish I was able to buy this car.",
+        "type": "fill-in-blank",
+        "answer": "I wish I would be able to buy this car"
+      },
+      {
+        "question": "It were recommended that the company closes its foreign offices.",
+        "type": "fill-in-blank",
+        "answer": "It was recommended that the company closed its foreign offices."
+      },
+      {
+        "question": "If Jack were 17 years old, he would apply for the university.",
+        "type": "fill-in-blank",
+        "answer": "Our manager insists that the group be reorganized."
+      },
+      {
+        "question": "Our manager insists that the group is reorganized.",
+        "type": "fill-in-blank"
+      }
+    ],
+    "answers": []
+  },
+  "transcript": null,
+  "nextLesson": "",
+  "crawledAt": "2025-11-24T14:51:33.520Z"
+}

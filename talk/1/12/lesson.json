@@ -1,0 +1,68 @@
+{
+  "id": 12,
+  "sectionId": 1,
+  "number": 12,
+  "title": "I wanna + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2013",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2013-long.mp3",
+  "content": "The word 'wanna' is incorrect grammatically. It is equivalent to 'want to.' When combined with the word 'I' it helps communicate something you want to do.\nHere are some examples:\n\"I wanna talk.\"\n\"I wanna search for a job.\"\n\"I wanna order some food.\"\n\"I wanna marry her.\"\n\"I wanna listen to that song.\"\nBy adding the word 'don't' you can change the meaning of what you are saying to something you 'want' to do to something you 'do not' want to do.\nHere are some examples:\n\"I don't wanna talk.\"\n\"I don't wanna search for a job.\"\n\"I don't wanna marry her.\"\n\"I don't wanna listen to that song.\"\n\"I don't wanna order some food.\"",
+  "examples": [
+    {
+      "sentence": "I wanna talk.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S1.mp3"
+    },
+    {
+      "sentence": "I wanna search for a job.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S2.mp3"
+    },
+    {
+      "sentence": "I wanna order some food.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S3.mp3"
+    },
+    {
+      "sentence": "I wanna marry her.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S4.mp3"
+    },
+    {
+      "sentence": "I wanna listen to that song.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S5.mp3"
+    },
+    {
+      "sentence": "I don't wanna talk.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S6.mp3"
+    },
+    {
+      "sentence": "I don't wanna search for a job.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S7.mp3"
+    },
+    {
+      "sentence": "I don't wanna marry her.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S8.mp3"
+    },
+    {
+      "sentence": "I don't wanna listen to that song.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S9.mp3"
+    },
+    {
+      "sentence": "I don't wanna order some food.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E13/sentence/E013S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2014",
+  "crawledAt": "2025-11-24T14:09:24.974Z"
+}

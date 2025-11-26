@@ -1,0 +1,68 @@
+{
+  "id": 30,
+  "sectionId": 2,
+  "number": 1,
+  "title": "I'm calling to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2031",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2031-long.mp3",
+  "content": "When using the words 'I'm calling' you are stating that you are actually using the phone to call and relay information.\nHere are some examples:\n\"I'm calling to tell you about my day.\"\n\"I'm calling to accept your invitation.\"\n\"I'm calling to answer your question.\"\n\"I'm calling to book a reservation at your restaurant.\"\n\"I'm calling to complain about something.\"\n\"I'm calling to thank you.\"\n\"I'm calling to support your decision.\"\n\"I'm calling to remind you of our dinner plans.\"\n\"I'm calling to report a lost wallet.\"\n\"I'm calling to receive my prize.\"",
+  "examples": [
+    {
+      "sentence": "I'm calling to tell you about my day.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S1.mp3"
+    },
+    {
+      "sentence": "I'm calling to accept your invitation.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S2.mp3"
+    },
+    {
+      "sentence": "I'm calling to answer your question.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S3.mp3"
+    },
+    {
+      "sentence": "I'm calling to book a reservation at your restaurant.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S4.mp3"
+    },
+    {
+      "sentence": "I'm calling to complain about something.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S5.mp3"
+    },
+    {
+      "sentence": "I'm calling to thank you.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S6.mp3"
+    },
+    {
+      "sentence": "I'm calling to support your decision.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S7.mp3"
+    },
+    {
+      "sentence": "I'm calling to remind you of our dinner plans.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S8.mp3"
+    },
+    {
+      "sentence": "I'm calling to report a lost wallet.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S9.mp3"
+    },
+    {
+      "sentence": "I'm calling to receive my prize.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E31/sentence/E031S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2032",
+  "crawledAt": "2025-11-24T14:09:48.363Z"
+}

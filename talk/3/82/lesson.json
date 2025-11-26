@@ -1,0 +1,58 @@
+{
+  "id": 82,
+  "sectionId": 3,
+  "number": 23,
+  "title": "It takes + (time) + to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2083",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2083-long.mp3",
+  "content": "You are letting someone know how long it will take to do a particular thing.\nHere are some examples:\n\"It takes one hour to get there.\"\n\"It takes forty-five minutes for me to get ready.\"\n\"It takes four quarters to complete a football game.\"\n\"It takes 7 seconds for my car to go 60 miles per hour.\"\n\"It takes all day for us to finish golfing.\"\n\"It takes years to learn to play guitar.\"\n\"It takes 15 minutes to get to downtown.\"\n\"It takes me one hour to cook.\"",
+  "examples": [
+    {
+      "sentence": "It takes one hour to get there.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S1.mp3"
+    },
+    {
+      "sentence": "It takes forty-five minutes for me to get ready.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S2.mp3"
+    },
+    {
+      "sentence": "It takes four quarters to complete a football game.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S3.mp3"
+    },
+    {
+      "sentence": "It takes 7 seconds for my car to go 60 miles per hour.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S4.mp3"
+    },
+    {
+      "sentence": "It takes all day for us to finish golfing.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S5.mp3"
+    },
+    {
+      "sentence": "It takes years to learn to play guitar.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S6.mp3"
+    },
+    {
+      "sentence": "It takes 15 minutes to get to downtown.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S7.mp3"
+    },
+    {
+      "sentence": "It takes me one hour to cook.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E83/sentence/E083S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2084",
+  "crawledAt": "2025-11-24T14:10:56.070Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 15,
+  "sectionId": 1,
+  "number": 15,
+  "title": "I plan to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2016",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2016-long.mp3",
+  "content": "'Plan to' describes something that you would like to do in the near future.\nHere are some examples:\n\"I plan to find a new apartment.\"\n\"I plan to relax on vacation.\"\n\"I plan to surprise my parents.\"\n\"I plan to wash my car.\"\n\"I plan to adopt a child.\"\n\"I plan to impress my boss.\"\n\"I plan to watch a movie.\"\n\"I plan to save more money.\"\n\"I plan to read a book.\"\n\"I plan to learn new things.\"",
+  "examples": [
+    {
+      "sentence": "I plan to find a new apartment.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S1.mp3"
+    },
+    {
+      "sentence": "I plan to relax on vacation.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S2.mp3"
+    },
+    {
+      "sentence": "I plan to surprise my parents.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S3.mp3"
+    },
+    {
+      "sentence": "I plan to wash my car.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S4.mp3"
+    },
+    {
+      "sentence": "I plan to adopt a child.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S5.mp3"
+    },
+    {
+      "sentence": "I plan to impress my boss.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S6.mp3"
+    },
+    {
+      "sentence": "I plan to watch a movie.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S7.mp3"
+    },
+    {
+      "sentence": "I plan to save more money.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S8.mp3"
+    },
+    {
+      "sentence": "I plan to read a book.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S9.mp3"
+    },
+    {
+      "sentence": "I plan to learn new things.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E16/sentence/E016S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2017",
+  "crawledAt": "2025-11-24T14:09:28.772Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 509,
+  "sectionId": 18,
+  "number": 41,
+  "title": "Redirecting",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=480",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/480-long.mp3",
+  "content": "<b>Receiving a Call</b>\n\"I believe Joe Carry in marketing can help you with that. Do you have his contact information?\"\n\"I'm not sure about that. I'm pretty sure Mitch Smith will be able to answer this and other questions. Let me give you his number.\"\n<b>Making a Call</b>\n\"Can you redirect me to that person?\"\n\"Can I get his contact information?\"\n\"Can I get his phone number?\"\n\"What is the best way to contact her?\"\n\"Can you direct me to someone who can help?\"\n\"Hi, this is Matt from ABC Company. I have some questions on your Platinum level business package. Can you redirect me to someone who can help?\"",
+  "examples": [
+    {
+      "sentence": "I believe Joe Carry in marketing can help you with that. Do you have his contact information?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S1.mp3"
+    },
+    {
+      "sentence": "I'm not sure about that. I'm pretty sure Mitch Smith will be able to answer this and other questions. Let me give you his number.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S2.mp3"
+    },
+    {
+      "sentence": "Can you redirect me to that person?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S3.mp3"
+    },
+    {
+      "sentence": "Can I get his contact information?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S4.mp3"
+    },
+    {
+      "sentence": "Can I get his phone number?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S5.mp3"
+    },
+    {
+      "sentence": "What is the best way to contact her?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S6.mp3"
+    },
+    {
+      "sentence": "Can you direct me to someone who can help?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S7.mp3"
+    },
+    {
+      "sentence": "Hi, this is Matt from ABC Company. I have some questions on your Platinum level business package. Can you redirect me to someone who can help?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B37/sentence/B37S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=481",
+  "crawledAt": "2025-11-24T14:20:21.710Z"
+}

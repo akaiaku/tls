@@ -1,0 +1,120 @@
+{
+  "id": 865,
+  "sectionId": 32,
+  "number": 3,
+  "title": "Basic Listening Lesson #03",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=102",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L26/practice/L26P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What types of movies does this person like?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Action and drama"
+          },
+          {
+            "value": "b",
+            "text": "Drama and science fiction"
+          },
+          {
+            "value": "c",
+            "text": "Suspense and horror"
+          },
+          {
+            "value": "d",
+            "text": "Western and horror"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Choose one type of movie this person dislikes?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Suspense"
+          },
+          {
+            "value": "b",
+            "text": "Comedy"
+          },
+          {
+            "value": "c",
+            "text": "Western"
+          },
+          {
+            "value": "d",
+            "text": "Action"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does this person not like horror movies?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Too scary"
+          },
+          {
+            "value": "b",
+            "text": "Too boring"
+          },
+          {
+            "value": "c",
+            "text": "Stupid and childish"
+          },
+          {
+            "value": "d",
+            "text": "Predictable and obvious"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How does the person asking the questions think about horror movies?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Entertaining"
+          },
+          {
+            "value": "b",
+            "text": "Funny"
+          },
+          {
+            "value": "c",
+            "text": "Scary"
+          },
+          {
+            "value": "d",
+            "text": "Suspenseful"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Drama and science fiction",
+      "Western",
+      "Stupid and childish",
+      "Entertaining"
+    ]
+  },
+  "transcript": "A: \"What type of movies do you like?\"\nB: \"I like all sorts of movies, primarily drama and science fiction.\"\nA: \"That's an interesting combination. How about western movies?\"\nB: \"Western and horror are the two types of movies I don't care for.\"\nA: \"Why don't you like horror? They're entertaining.\"\nB: \"Some are entertaining, but I find most of them stupid and childish. For example, I don't understand why a person always goes into the house alone when something is suspicious.\"\nA: \"Ha ha. I know what you mean. But it's just a movie. They need for the characters to do that.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=103",
+  "crawledAt": "2025-11-24T14:28:20.966Z"
+}

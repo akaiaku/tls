@@ -1,0 +1,48 @@
+{
+  "id": 488,
+  "sectionId": 18,
+  "number": 20,
+  "title": "Intranet",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=459",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/459-long.mp3",
+  "content": "A lot of companies have an intranet site. This is basically web pages that can be viewed by employees connected to the network in the office. The address does not use the standard .net or .com address. It will simply be http://companysite.\n\"Do we have an intranet site that explains our benefits?\"\n\"What was the site where we log our travel expenses?\"\n\"If you want to use a sick day, you can go to http://timereport.\"\nIf you have an intranet site for your company, then when you talk to other workers, you don't need to say http:// everytime. You can simply say the name, for example, 'If you want to use a sick day, you can go to time report.' The other person listening should understand that you mean http://timereport.\n\"Is there an intranet site detailing each project our company is doing?\"\n\"Is our company going to put an intranet site for employees?\"\n\"I think it will help a lot if we had an intranet site with general questions and answers from all the employees.\"",
+  "examples": [
+    {
+      "sentence": "Do we have an intranet site that explains our benefits?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S1.mp3"
+    },
+    {
+      "sentence": "What was the site where we log our travel expenses?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S2.mp3"
+    },
+    {
+      "sentence": "If you want to use a sick day, you can go to http://timereport.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S3.mp3"
+    },
+    {
+      "sentence": "Is there an intranet site detailing each project our company is doing?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S4.mp3"
+    },
+    {
+      "sentence": "Is our company going to put an intranet site for employees?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S5.mp3"
+    },
+    {
+      "sentence": "I think it will help a lot if we had an intranet site with general questions and answers from all the employees.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B18/sentence/B18S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=460",
+  "crawledAt": "2025-11-24T14:19:54.080Z"
+}

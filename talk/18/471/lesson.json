@@ -1,0 +1,53 @@
+{
+  "id": 471,
+  "sectionId": 18,
+  "number": 3,
+  "title": "Requesting Equipment",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=438",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/438-long.mp3",
+  "content": "\"I'm out of staples. Do we have any more in the supply room?\"\n\"The supply room is running low on pens. I think we should get more.\"\n\"My monitor is very old. It's a little blurry and it gives me a headache when I look at it for a long duration. Could I get a new monitor?\"\n\"My computer is too slow. It slows down my work. I would like a faster computer. It will increase my efficiency on many of my tasks.\"\n\"I would like an ergonomic keyboard. I can type much faster with those.\"\n\"Can I get a new chair? This one is so uncomfortable.\"\n\"Can you get me a headset for the telephone? I'm on the phone most of the day and I would like to free up my hands.\"",
+  "examples": [
+    {
+      "sentence": "I'm out of staples. Do we have any more in the supply room?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S1.mp3"
+    },
+    {
+      "sentence": "The supply room is running low on pens. I think we should get more.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S2.mp3"
+    },
+    {
+      "sentence": "My monitor is very old. It's a little blurry and it gives me a headache when I look at it for a long duration. Could I get a new monitor?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S3.mp3"
+    },
+    {
+      "sentence": "My computer is too slow. It slows down my work. I would like a faster computer. It will increase my efficiency on many of my tasks.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S4.mp3"
+    },
+    {
+      "sentence": "I would like an ergonomic keyboard. I can type much faster with those.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S5.mp3"
+    },
+    {
+      "sentence": "Can I get a new chair? This one is so uncomfortable.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S6.mp3"
+    },
+    {
+      "sentence": "Can you get me a headset for the telephone? I'm on the phone most of the day and I would like to free up my hands.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B3/sentence/B3S7.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=439",
+  "crawledAt": "2025-11-24T14:19:31.790Z"
+}

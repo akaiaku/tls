@@ -1,0 +1,120 @@
+{
+  "id": 960,
+  "sectionId": 34,
+  "number": 30,
+  "title": "Advanced Listening Lesson #30",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=329",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L179/practice/L179P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What are all the feelings the bored guy is feelings?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Restless and anxious"
+          },
+          {
+            "value": "b",
+            "text": "Tired and restless"
+          },
+          {
+            "value": "c",
+            "text": "Anxious and tired"
+          },
+          {
+            "value": "d",
+            "text": "Tired and bored"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What recommendation is given to solve this problem?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Meditate for 30 minutes a day"
+          },
+          {
+            "value": "b",
+            "text": "Watch more movies"
+          },
+          {
+            "value": "c",
+            "text": "Rent more DVD's"
+          },
+          {
+            "value": "d",
+            "text": "Read a book"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Is the other guy bored at all?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He is too busy with his son to be bored"
+          },
+          {
+            "value": "b",
+            "text": "He also gets bored frequently"
+          },
+          {
+            "value": "c",
+            "text": "He watches a lot of TV so he isn't bored"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How old do you think the son is?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Around 3"
+          },
+          {
+            "value": "b",
+            "text": "Around 5"
+          },
+          {
+            "value": "c",
+            "text": "Around 7"
+          },
+          {
+            "value": "d",
+            "text": "Around 8"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Restless and anxious",
+      "Read a book",
+      "He is too busy with his son to be bored",
+      "Around 5"
+    ]
+  },
+  "transcript": "A: \"How are you feeling these days?\"\nB: \"I don't know. A little bored and restless I guess.\"\nA: \"Why is that?\"\nB: \"I have so much time on my hands and I have nothing to do.\"\nA: \"Why don't you go out and have fun?\"\nB: \"I would like to, but I have to save some money so I can't go out all the time.\"\nA: \"That sucks.\"\nB: \"After awhile, I start to feel anxious.\"\nA: \"Try relaxing and reading a good book. That's always a good way to kill time.\"\nB: \"That's true. How about you? How are you these days?\"\nA: \"I'm doing pretty good these days. My kid just finished kindergarten. I'm so proud of him.\"\nB: \"That's great to hear. He must be big now. It's been a year since I saw your son.\"\nA: \"Yeah. He grew a lot in the last year.\"\nB: \"I bet you're very proud of your son.\"\nA: \"Yes I am. Thanks.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=330",
+  "crawledAt": "2025-11-24T14:33:21.606Z"
+}

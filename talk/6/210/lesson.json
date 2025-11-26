@@ -1,0 +1,58 @@
+{
+  "id": 210,
+  "sectionId": 6,
+  "number": 21,
+  "title": "Weather - Winter",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=541",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/541-long.mp3",
+  "content": "Winter has many differences between locations. Some places might be extremely cold like Korea, New York, Alaska, Greenland, etc, and some places might be perfect like Hawaii, Los Angeles, Mexico and other hot places.\n<b>Hot places that enjoy pleasant summer warmth:</b>\n\"I don't think we have a winter here. During the winter months, it's still 80 degrees. So everyone loves the winter months because it's not too hot.\"\n\"Winter time is the best time to visit because the temperature is the best during January.\"\n\"I like to go to Hawaii for my winter vacations because it's so cold in my home city.\"\n<b>Cold places:</b>\n\"It's freezing out.\"\n\"It doesn't snow often, but when it does, it stays around for several weeks because it stays cold.\"\n\"For 3 months, this city will be covered with a layer of snow because it will never melt.\"\n\"It doesn't get too cold here, but it's always raining and very gloomy.\"\n\"The winter here is cold and dry. We hardly get any precipitation.\"",
+  "examples": [
+    {
+      "sentence": "I don't think we have a winter here. During the winter months, it's still 80 degrees. So everyone loves the winter months because it's not too hot.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S1.mp3"
+    },
+    {
+      "sentence": "Winter time is the best time to visit because the temperature is the best during January.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S2.mp3"
+    },
+    {
+      "sentence": "I like to go to Hawaii for my winter vacations because it's so cold in my home city.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S3.mp3"
+    },
+    {
+      "sentence": "It's freezing out.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S4.mp3"
+    },
+    {
+      "sentence": "It doesn't snow often, but when it does, it stays around for several weeks because it stays cold.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S5.mp3"
+    },
+    {
+      "sentence": "For 3 months, this city will be covered with a layer of snow because it will never melt.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S6.mp3"
+    },
+    {
+      "sentence": "It doesn't get too cold here, but it's always raining and very gloomy.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S7.mp3"
+    },
+    {
+      "sentence": "The winter here is cold and dry. We hardly get any precipitation.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L16/sentence/L16S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=542",
+  "crawledAt": "2025-11-24T14:13:43.259Z"
+}

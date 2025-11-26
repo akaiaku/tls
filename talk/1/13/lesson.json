@@ -1,0 +1,68 @@
+{
+  "id": 13,
+  "sectionId": 1,
+  "number": 13,
+  "title": "I gotta + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2014",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2014-long.mp3",
+  "content": "'I gotta' is grammatically incorrect. It is more of a spoken form. If you want to say this with proper grammar, the equivalent would be, 'I have got to' or 'I've got to'. In the spoken form, 'got to' is shortened to 'gotta' and the word 'have' is dropped.\nHere are some examples:\n\"I gotta manage my money.\"\n\"I gotta obey the laws.\"\n\"I gotta move to a bigger house.\"\n\"I gotta impress my boss.\"\n\"I gotta brush my teeth.\"\nBy adding the word 'have' you can change what you are saying to express something that needs to be done in the near future.\nHere are some examples:\n\"I have got to be on time to work.\"\n\"I've gotta try harder at school.\"\n\"I've gotta tell my wife I'll be late.\"\n\"I've gotta learn more about the laws.\"\n\"I've gotta clean my house today.\"",
+  "examples": [
+    {
+      "sentence": "I gotta manage my money.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S1.mp3"
+    },
+    {
+      "sentence": "I gotta obey the laws.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S2.mp3"
+    },
+    {
+      "sentence": "I gotta move to a bigger house.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S3.mp3"
+    },
+    {
+      "sentence": "I gotta impress my boss.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S4.mp3"
+    },
+    {
+      "sentence": "I gotta brush my teeth.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S5.mp3"
+    },
+    {
+      "sentence": "I have got to be on time to work.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S6.mp3"
+    },
+    {
+      "sentence": "I've gotta try harder at school.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S7.mp3"
+    },
+    {
+      "sentence": "I've gotta tell my wife I'll be late.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S8.mp3"
+    },
+    {
+      "sentence": "I've gotta learn more about the laws.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S9.mp3"
+    },
+    {
+      "sentence": "I've gotta clean my house today.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E14/sentence/E014S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2015",
+  "crawledAt": "2025-11-24T14:09:26.252Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 222,
+  "sectionId": 7,
+  "number": 8,
+  "title": "Movie Types - Comedy and Horror",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=561",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/561-long.mp3",
+  "content": "<b>Comedy:</b> Funny movies with many jokes or actors acting in a funny way.\n\"I love all types of comedy because I love to laugh.\"\n\"Comedy is my favorite because it is very entertaining to me.\"\n\"I like comedy that makes fun of political things.\"\n\"Comedy is so hilarious that I always enjoy watching them.\"\n<b>Romantic Comedy:</b> Funny movies with a strong romantic theme. Opposite to action because usually guys like action and the ladies like Romantic comedies.\n\"Many people view romantic comedy movies as chick-flicks.\"\nChick = girl\nFlick = movie\nChick-Flick = a girly type of movie; a movie a girl will like; 'take your girlfriend to' type of movie... or something like that.\n\"Romantic comedy is funny movies that involve a lot of romance.\"\n\"I love all the story lines of romantic comedy movies.\"\n<b>Horror:</b> Scary movies that will give you nightmares for 3 months.\n\"When I was a little kid, I couldn't sleep because of horror movies.\"\n\"Horror movies are not scary anymore.\"\n\"I have yet to see a movie that really scares me.\"\n\"I hate horror movies because I cannot sleep.\"\n\"I always have nightmares after watching horror movies so I try to avoid them.\"",
+  "examples": [
+    {
+      "sentence": "I love all types of comedy because I love to laugh.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S1.mp3"
+    },
+    {
+      "sentence": "Comedy is my favorite because it is very entertaining to me.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S2.mp3"
+    },
+    {
+      "sentence": "I like comedy that makes fun of political things.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S3.mp3"
+    },
+    {
+      "sentence": "Comedy is so hilarious that I always enjoy watching them.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S4.mp3"
+    },
+    {
+      "sentence": "Many people view romantic comedy movies as chick-flicks.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S5.mp3"
+    },
+    {
+      "sentence": "Romantic comedy is funny movies that involve a lot of romance.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S6.mp3"
+    },
+    {
+      "sentence": "I love all the story lines of romantic comedy movies.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S7.mp3"
+    },
+    {
+      "sentence": "When I was a little kid, I couldn't sleep because of horror movies.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S8.mp3"
+    },
+    {
+      "sentence": "Horror movies are not scary anymore.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S9.mp3"
+    },
+    {
+      "sentence": "I have yet to see a movie that really scares me.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S10.mp3"
+    },
+    {
+      "sentence": "I hate horror movies because I cannot sleep.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S11.mp3"
+    },
+    {
+      "sentence": "I always have nightmares after watching horror movies so I try to avoid them.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L25/sentence/L25S12.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=562",
+  "crawledAt": "2025-11-24T14:13:58.928Z"
+}

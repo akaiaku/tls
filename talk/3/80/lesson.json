@@ -1,0 +1,63 @@
+{
+  "id": 80,
+  "sectionId": 3,
+  "number": 21,
+  "title": "Let's say that + (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2081",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2081-long.mp3",
+  "content": "'Let's' is a contraction for 'let us.' You are suggesting to someone that you should both agree on what you will communicate to someone else.\nHere are some examples:\n\"Let's say that you love to fish.\"\n\"Let's say we found it.\"\n\"Let's say that we enjoy being with them.\"\n\"Let's say that we had a good time.\"\n\"Let's say that it's hard to decide.\"\n\"Let's say that we have to go.\"\n\"Let's say that we can host.\"\n\"Let's say that I have to work.\"\n\"Let's say that the movie was really good.\"",
+  "examples": [
+    {
+      "sentence": "Let's say that you love to fish.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S1.mp3"
+    },
+    {
+      "sentence": "Let's say we found it.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S2.mp3"
+    },
+    {
+      "sentence": "Let's say that we enjoy being with them.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S3.mp3"
+    },
+    {
+      "sentence": "Let's say that we had a good time.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S4.mp3"
+    },
+    {
+      "sentence": "Let's say that it's hard to decide.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S5.mp3"
+    },
+    {
+      "sentence": "Let's say that we have to go.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S6.mp3"
+    },
+    {
+      "sentence": "Let's say that we can host.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S7.mp3"
+    },
+    {
+      "sentence": "Let's say that I have to work.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S8.mp3"
+    },
+    {
+      "sentence": "Let's say that the movie was really good.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E81/sentence/E081S9.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2082",
+  "crawledAt": "2025-11-24T14:10:53.466Z"
+}

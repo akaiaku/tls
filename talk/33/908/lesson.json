@@ -1,0 +1,120 @@
+{
+  "id": 908,
+  "sectionId": 33,
+  "number": 12,
+  "title": "Intermediate Listening Lesson #12",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=211",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L71/practice/L71P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What gender is the new baby?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A boy"
+          },
+          {
+            "value": "b",
+            "text": "A girl"
+          },
+          {
+            "value": "c",
+            "text": "Twin boys"
+          },
+          {
+            "value": "d",
+            "text": "Twin girls"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What were the complications mentioned during birth?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Had to do emergency C-Section"
+          },
+          {
+            "value": "b",
+            "text": "Baby was inverted"
+          },
+          {
+            "value": "c",
+            "text": "Baby was stuck"
+          },
+          {
+            "value": "d",
+            "text": "No complications"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the guy complaining about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "That the baby was not a boy"
+          },
+          {
+            "value": "b",
+            "text": "That the baby is too expensive"
+          },
+          {
+            "value": "c",
+            "text": "That the baby is sick all the time"
+          },
+          {
+            "value": "d",
+            "text": "That he doesn't get enough sleep"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "After the conversation, what will the guy do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Get some sleep"
+          },
+          {
+            "value": "b",
+            "text": "Make sure wife and baby are healthy"
+          },
+          {
+            "value": "c",
+            "text": "Take the baby to the hosptial"
+          },
+          {
+            "value": "d",
+            "text": "Go to work to make more money"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "A girl",
+      "No complications",
+      "That he doesn't get enough sleep",
+      "Make sure wife and baby are healthy"
+    ]
+  },
+  "transcript": "A: \"Did your wife give birth yet?\"\nB: \"Yeah. She's a healthy beautiful girl.\"\nA: \"Congratulations. How is your wife doing?\"\nB: \"She is tired, but getting a lot of rest now.\"\nA: \"That's good to hear.\"\nB: \"I'm just glad there were no complications.\"\nA: \"If your wife and baby are both happy, what more can you ask for?\"\nB: \"It's been a week, and I haven't slept that well.\"\nA: \"That's normal for anyone with a newborn.\"\nB: \"Yeah, but it's so hard. I have to work, and then go home and take care of my wife and the baby. I'm going to get sick at this rate.\"\nA: \"You'll get used to it. After everything stabilizes, you can regain your health.\"\nB: \"That's true. I should make sure my wife and baby stay healthy during this time.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=212",
+  "crawledAt": "2025-11-24T14:30:22.475Z"
+}

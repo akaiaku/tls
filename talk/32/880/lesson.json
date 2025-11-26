@@ -1,0 +1,120 @@
+{
+  "id": 880,
+  "sectionId": 32,
+  "number": 18,
+  "title": "Basic Listening Lesson #18",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=117",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L103/practice/L103P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the general mood of the ladies?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Happy"
+          },
+          {
+            "value": "b",
+            "text": "Sad"
+          },
+          {
+            "value": "c",
+            "text": "Lonely"
+          },
+          {
+            "value": "d",
+            "text": "Angry"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why is Jane enjoying married life?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Husband makes a lot of money"
+          },
+          {
+            "value": "b",
+            "text": "Husband is loving and caring"
+          },
+          {
+            "value": "c",
+            "text": "Husband is supportive and helpful"
+          },
+          {
+            "value": "d",
+            "text": "Husband is smart and handsome"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What do Jane and her husband do in the evenings?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go bowling for fun"
+          },
+          {
+            "value": "b",
+            "text": "Take walks around the neighborhood"
+          },
+          {
+            "value": "c",
+            "text": "Have a nice dinner together"
+          },
+          {
+            "value": "d",
+            "text": "Watch TV together"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is one thing that Jane and her husband do NOT do together on the weekend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go out to the beach"
+          },
+          {
+            "value": "b",
+            "text": "Go to a nice restaurant"
+          },
+          {
+            "value": "c",
+            "text": "Go to watch a movie"
+          },
+          {
+            "value": "d",
+            "text": "Go to a nice cafe"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Happy",
+      "Husband is supportive and helpful",
+      "Have a nice dinner together",
+      "Go to watch a movie"
+    ]
+  },
+  "transcript": "A: \"Hey Jane. How are you doing these days?\"\nB: \"Hi Martha. Everything is perfect.\"\nA: \"Are you enjoying married life?\"\nB: \"It couldn't be better. My husband is so supportive with my work and he helps around the house so much.\"\nA: \"You're so lucky. I hope to get married to a guy like that.\"\nB: \"I'm so happy. Even though we are both working, we get to spend a lot of time with each other in the evening and on the weekends.\"\nA: \"Do you guys do anything special?\"\nB: \"In the evening, we just sit and talk over dinner. But on the weekend, we try to go out to the beach or hit a nice restaurant, or go to a nice cafe.\"\nA: \"Sound like everything is great.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=118",
+  "crawledAt": "2025-11-24T14:29:04.840Z"
+}

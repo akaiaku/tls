@@ -1,0 +1,38 @@
+{
+  "id": 495,
+  "sectionId": 18,
+  "number": 27,
+  "title": "Reply and Reply All",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=466",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/466-long.mp3",
+  "content": "When you reply all, it goes out to everyone on the To line and the CC line. Reply only goes to the sender. When we send out a mail to many people, you might see a sentence that says 'little 'r' me'. This means to use the small R instead of the Big R. That basically means to reply only to me instead of replying to everyone on the mail thread.\nA mail is also referred to as a thread. That is because in the office, a mail can go on back and forth among many people so it becomes a chain of mail that started from one email. I'll use these terminologies in the next several example sentences.\n\"I sent out a mail to the whole group. I requested that they little 'r' me with their ideas.\"\n\"When I receive a mail sent out to multiple people, I keep forgetting to send to all.\"\nThis next sentence is not a spoken sentence. It's a common sentence used in email when someone forgets to send to everyone.\n'Resending to include everyone.'\nIf you see this, that means the person sent a reply to the sender instead of replying all.\n\"Start a mail thread on your idea. I think everyone should get in on this discussion.\"\n\"Do you want me to start a mail thread for this?\"",
+  "examples": [
+    {
+      "sentence": "I sent out a mail to the whole group. I requested that they little 'r' me with their ideas.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B24/sentence/B24S1.mp3"
+    },
+    {
+      "sentence": "When I receive a mail sent out to multiple people, I keep forgetting to send to all.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B24/sentence/B24S2.mp3"
+    },
+    {
+      "sentence": "Start a mail thread on your idea. I think everyone should get in on this discussion.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B24/sentence/B24S3.mp3"
+    },
+    {
+      "sentence": "Do you want me to start a mail thread for this?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B24/sentence/B24S4.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=467",
+  "crawledAt": "2025-11-24T14:20:03.260Z"
+}

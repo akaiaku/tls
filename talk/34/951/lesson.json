@@ -1,0 +1,120 @@
+{
+  "id": 951,
+  "sectionId": 34,
+  "number": 21,
+  "title": "Advanced Listening Lesson #21",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=320",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L133/practice/L133P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What did Jack do last weekend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Talked on the phone with his girlfriend"
+          },
+          {
+            "value": "b",
+            "text": "Had a drinking party with his friend Josh"
+          },
+          {
+            "value": "c",
+            "text": "Played poker with a bunch of guys"
+          },
+          {
+            "value": "d",
+            "text": "Went to the casino"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why didn't Jack include his friend that he is talking to?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He forgot to call him"
+          },
+          {
+            "value": "b",
+            "text": "They already had too many people"
+          },
+          {
+            "value": "c",
+            "text": "He knew his friend didn't have any money for gambling"
+          },
+          {
+            "value": "d",
+            "text": "He tried calling, but he wasn't home"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What does Jack's friend have to do to get included into the games?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Get more money"
+          },
+          {
+            "value": "b",
+            "text": "Get a cell phone"
+          },
+          {
+            "value": "c",
+            "text": "Stop being so boring"
+          },
+          {
+            "value": "d",
+            "text": "Stop playing so much video games"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What happens if you lose all your chips early in the game?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Pay more money to buy more chips"
+          },
+          {
+            "value": "b",
+            "text": "Do a dare that makes people laugh to get more chips"
+          },
+          {
+            "value": "c",
+            "text": "Bring more beer"
+          },
+          {
+            "value": "d",
+            "text": "Sit out until the next game starts"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Played poker with a bunch of guys",
+      "He tried calling, but he wasn't home",
+      "Get a cell phone",
+      "Sit out until the next game starts"
+    ]
+  },
+  "transcript": "A: \"Hey Jack. What did you do last weekend?\"\nB: \"Josh had a bunch of guys over at his house and we played poker.\"\nA: \"Why didn't you guys call me?\"\nB: \"We did. But you weren't home. If you had a cell phone, maybe you wouldn't be left out.\"\nA: \"Yeah. I need to get a cell phone. So, what games did you play?\"\nB: \"We only play Texas Hold 'em.\"\nA: \"That's all good. What was the bid amount?\"\nB: \"We started playing no limit. It's so much fun.\"\nA: \"That sounds awesome. Let me join you next time.\"\nB: \"No problem. Just get a cell phone so we can contact you.\"\nA: \"Aright. Who won though?\"\nB: \"John. He always wins. He's damn good.\"\nA: \"You only played one game?\"\nB: \"We played 2 games and he won both of them.\"\nA: \"What is the buy in?\"\nB: \"Only 10 bucks.\"\nA: \"That sounds fun. Ten bucks isn't that much money to have fun while chilling with your friends.\"\nB: \"Exactly.\"\nA: \"But what happens if you get out in the first ten minutes?\"\nB: \"Then you're screwed. You can watch tv or play the XBOX.\"\nA: \"Better not die soon then. So, when is the next time you guys are playing?\"\nB: \"Probably this Friday. Give me a call Friday morning and I'll let you know the exact time.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=321",
+  "crawledAt": "2025-11-24T14:32:52.520Z"
+}

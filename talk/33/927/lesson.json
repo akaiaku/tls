@@ -1,0 +1,120 @@
+{
+  "id": 927,
+  "sectionId": 33,
+  "number": 31,
+  "title": "Intermediate Listening Lesson #31",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=230",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L169/practice/L169P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What feeling are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "True love"
+          },
+          {
+            "value": "b",
+            "text": "Blind love"
+          },
+          {
+            "value": "c",
+            "text": "Mother's love"
+          },
+          {
+            "value": "d",
+            "text": "Real love"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why does Jack like this girl?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because the girl is very sweet"
+          },
+          {
+            "value": "b",
+            "text": "Because the girl is very nice"
+          },
+          {
+            "value": "c",
+            "text": "Because the girl has a nice personality"
+          },
+          {
+            "value": "d",
+            "text": "Because the girl is hot"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Where does Jack plan on talking to this girl?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In the hallway before class"
+          },
+          {
+            "value": "b",
+            "text": "In front of the library"
+          },
+          {
+            "value": "c",
+            "text": "In the cafeteria when she is alone"
+          },
+          {
+            "value": "d",
+            "text": "At the bus stop"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How does Jack know she doesn't have a boyfriend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Jack followed her around campus"
+          },
+          {
+            "value": "b",
+            "text": "Jack asked her directly"
+          },
+          {
+            "value": "c",
+            "text": "Jack asked one of her friends"
+          },
+          {
+            "value": "d",
+            "text": "Jack read her profile on the Internet"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Blind love",
+      "Because the girl is hot",
+      "In the cafeteria when she is alone",
+      "Jack followed her around campus"
+    ]
+  },
+  "transcript": "A: \"Hey Jack. How's it going?\"\nB: \"I'm falling in love.\"\nA: \"What! With who?\"\nB: \"That girl in my econ class. She is so hot.\"\nA: \"Did you guys go on a date already?\"\nB: \"No. I didn't even talk to her yet. But I think I'm in love.\"\nA: \"Does she have a boyfriend?\"\nB: \"I don't think so. I've been following her around campus and I haven't seen another guy.\"\nA: \"Dude, you're a stalker man. Just ask her on a date.\"\nB: \"I plan on running into her in the cafeteria when she's alone. I think I'll ask her then.\"\nA: \"So why do you think you're in love?\"\nB: \"She's the only thing I can think of all day long.\"\nA: \"That's called blind love. Well, I gotta run. Tell me how it goes next week.\"\nB: \"Aright. I'll talk to you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=231",
+  "crawledAt": "2025-11-24T14:31:17.750Z"
+}

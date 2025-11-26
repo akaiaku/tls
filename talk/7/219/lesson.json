@@ -1,0 +1,93 @@
+{
+  "id": 219,
+  "sectionId": 7,
+  "number": 5,
+  "title": "Movies - Example Conversation",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=558",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/558-long.mp3",
+  "content": "Let's look at a couple of example conversations before going to the practice section.\nPerson A: \"Hey John, I'm going to see The Matrix with Peter and Brad. Do you wanna come?\"\nPerson B: \"When are you guys going?\"\nPerson A: \"We're going to see the eight O'clock showing.\"\nPerson B: \"That would be great. Where are you guys meeting?\"\nPerson A: \"We're meeting at the theater at seven thirty.\"\nPerson B: \"Great. I'll meet you guys there.\"\nPerson A: \"Hey Jill.\"\nPerson B: \"What's up Mike?\"\nPerson A: \"I was wondering if you have any plans for tomorrow night.\"\nPerson B: \"Umm... I don't think I have anything special for tomorrow. Why?\"\nPerson A: \"Do you want to see The Titanic with me?\"\nPerson B: \"I wanted to see that. Yeah. Let's go.\"\nPerson A: \"What time is good for you?\"\nPerson B: \"How about seven thirty.\"\nPerson A: \"Sure. I'll meet you at the theater at seven.",
+  "examples": [
+    {
+      "sentence": "Hey John, I'm going to see The Matrix with Peter and Brad. Do you wanna come?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S1.mp3"
+    },
+    {
+      "sentence": "When are you guys going?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S2.mp3"
+    },
+    {
+      "sentence": "We're going to see the eight O'clock showing.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S3.mp3"
+    },
+    {
+      "sentence": "That would be great. Where are you guys meeting?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S4.mp3"
+    },
+    {
+      "sentence": "We're meeting at the theater at seven thirty.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S5.mp3"
+    },
+    {
+      "sentence": "Great. I'll meet you guys there.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S6.mp3"
+    },
+    {
+      "sentence": "Hey Jill.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S7.mp3"
+    },
+    {
+      "sentence": "What's up Mike?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S8.mp3"
+    },
+    {
+      "sentence": "I was wondering if you have any plans for tomorrow night.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S9.mp3"
+    },
+    {
+      "sentence": "Umm... I don't think I have anything special for tomorrow. Why?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S10.mp3"
+    },
+    {
+      "sentence": "Do you want to see The Titanic with me?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S11.mp3"
+    },
+    {
+      "sentence": "I wanted to see that. Yeah. Let's go.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S12.mp3"
+    },
+    {
+      "sentence": "What time is good for you?",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S13.mp3"
+    },
+    {
+      "sentence": "How about seven thirty.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S14.mp3"
+    },
+    {
+      "sentence": "Sure. I'll meet you at the theater at seven.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/sentence/L23S15.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=559",
+  "crawledAt": "2025-11-24T14:13:55.007Z"
+}

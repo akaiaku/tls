@@ -1,0 +1,38 @@
+{
+  "id": 605,
+  "sectionId": 23,
+  "number": 5,
+  "title": "Tell me about a time you made a good decision.",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=279",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "<b>\"Tell me about a time you made a good decision.\"\n\"Tell me about a time you found a solution to a problem.\"</b>\nThis is a little easier than thinking about a mistake. You should make sure to include why it was a good decision and the result should be obviously meaningful. I also want to use this as an example of answering multiple questions. I would use this same answer for either of the two questions above. It was a good decision, and I fond a solution to a problem. Preparing for every interview question in the world will be too much work. Think of key experiences and apply them to multiple answers. In the case where it is the same interviewer, then you might be forced to think of a new answer. So it might be good to think of couple of answers.\n<b>Short Answer</b>\n\"During my last project, we ran into a difficult problem. This was high priority so everyone was instructed to find a solution. I started looking for more information on the Internet, I even talked to a different manager on a different team. This helped tremendously and our problem was solved. I made a decision to use every resource I could find, and in the end, it solved the problem.\"\n<b>Long Answer</b>\n\"In my last position at Microsoft, there was a time period where our group was going to slip reaching our milestone by one day. This was because the day before exiting the third milestone, we found a problem in the program. Since we created a new build with all bug fixes each morning, we had two choices. We could either fix the problem and verify the program the next day after we build again, or we could postpone the problem and fix it in the next milestone. Both options didn't sound very appealing. I suggested fixing the program now, and perform another build to verify the fix instead of waiting for tomorrow. Many times people are used to following a process, but in this case, I challenged the process of building in the morning and requested another build to verify the last bug fix. In the end, we were able to complete milestone 3 on time and fixed the important problem. This was significant because if we didn't exit milestone 3, then everyone waiting to start work on the next milestone would have to wait another day. In essence, this saved a days work for more than 30 people.\"\nFor this example, I was careful not to use too many technical jargons that might not be understood. I also explained the situation carefully and explained why the decision was a good one. Remember that some of these answers will not work for you. In this case, if you never worked at Microsoft and never experienced this, just follow the steps of stating the problem, explaining the choices, why you made the decision, and finally why it was a good decision.",
+  "examples": [
+    {
+      "sentence": "Tell me about a time you made a good decision.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I20/sentence/I20S1.mp3"
+    },
+    {
+      "sentence": "Tell me about a time you found a solution to a problem.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I20/sentence/I20S2.mp3"
+    },
+    {
+      "sentence": "During my last project, we ran into a difficult problem. This was high priority so everyone was instructed to find a solution. I started looking for more information on the Internet, I even talked to a different manager on a different team. This helped tremendously and our problem was solved. I made a decision to use every resource I could find, and in the end, it solved the problem.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I20/sentence/I20S3.mp3"
+    },
+    {
+      "sentence": "In my last position at Microsoft, there was a time period where our group was going to slip reaching our milestone by one day. This was because the day before exiting the third milestone, we found a problem in the program. Since we created a new build with all bug fixes each morning, we had two choices. We could either fix the problem and verify the program the next day after we build again, or we could postpone the problem and fix it in the next milestone. Both options didn't sound very appealing. I suggested fixing the program now, and perform another build to verify the fix instead of waiting for tomorrow. Many times people are used to following a process, but in this case, I challenged the process of building in the morning and requested another build to verify the last bug fix. In the end, we were able to complete milestone 3 on time and fixed the important problem. This was significant because if we didn't exit milestone 3, then everyone waiting to start work on the next milestone would have to wait another day. In essence, this saved a days work for more than 30 people.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I20/sentence/I20S4.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=280",
+  "crawledAt": "2025-11-24T14:22:28.768Z"
+}

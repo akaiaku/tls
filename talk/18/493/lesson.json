@@ -1,0 +1,83 @@
+{
+  "id": 493,
+  "sectionId": 18,
+  "number": 25,
+  "title": "Sending attachments through email",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=464",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/464-long.mp3",
+  "content": "Some companies have security in place such as firewalls that prevents sending certain types of attachments. For example, sending a .js file is potentially dangerous because it can run scripts. Also, some documents can carry viruses through macros or other methods. Sending attachments to some email addresses are not possible. However, text files are usually permitted. Here are some sentences that you might find useful.\n\"I can send you the document through email.\"\n\"I'll send you the images to your email account.\"\n\"Can I send the documents to your email?\"\n\"Can I email you the files?\"\n\"Can I email the files to you?\"\n\"I received your email, but I didn't receive the attachments.\"\n\"My company prevents many types of attachments. Can you send a text file instead?\"\n\"Before you send the document, change the extension .doc to .txt and then send it. When I receive it, I will change it back to .doc before I open it.\"\n\"Hi Mary, I sent you an email with my proposal as an attachment. Did you receive it?\"\n\"Hey Jack, did you receive my attachments?\"\n\"The file is too large to send through email.\"\n\"My email account will only allow sending attachments that are 1 MB or smaller.\"\n\"My email account will only allow me to receive attachments that are 2 MB or smaller.\"",
+  "examples": [
+    {
+      "sentence": "I can send you the document through email.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S1.mp3"
+    },
+    {
+      "sentence": "I'll send you the images to your email account.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S2.mp3"
+    },
+    {
+      "sentence": "Can I send the documents to your email?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S3.mp3"
+    },
+    {
+      "sentence": "Can I email you the files?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S4.mp3"
+    },
+    {
+      "sentence": "Can I email the files to you?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S5.mp3"
+    },
+    {
+      "sentence": "I received your email, but I didn't receive the attachments.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S6.mp3"
+    },
+    {
+      "sentence": "My company prevents many types of attachments. Can you send a text file instead?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S7.mp3"
+    },
+    {
+      "sentence": "Before you send the document, change the extension .doc to .txt and then send it. When I receive it, I will change it back to .doc before I open it.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S8.mp3"
+    },
+    {
+      "sentence": "Hi Mary, I sent you an email with my proposal as an attachment. Did you receive it?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S9.mp3"
+    },
+    {
+      "sentence": "Hey Jack, did you receive my attachments?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S10.mp3"
+    },
+    {
+      "sentence": "The file is too large to send through email.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S11.mp3"
+    },
+    {
+      "sentence": "My email account will only allow sending attachments that are 1 MB or smaller.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S12.mp3"
+    },
+    {
+      "sentence": "My email account will only allow me to receive attachments that are 2 MB or smaller.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B22/sentence/B22S13.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=465",
+  "crawledAt": "2025-11-24T14:20:00.650Z"
+}

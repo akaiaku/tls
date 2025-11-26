@@ -1,0 +1,68 @@
+{
+  "id": 6,
+  "sectionId": 1,
+  "number": 6,
+  "title": "I'm trying + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2007",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2007-long.mp3",
+  "content": "'I am trying' informs someone that you are attempting to accomplish something using bodily, mental, or spiritual strength. By adding a verb to 'I'm trying' you are pointing out exactly what it is you are attempting to do.\nHere are some examples:\n\"I'm trying to get a job.\"\n\"I'm trying to call my family.\"\n\"I'm trying to enjoy my dinner.\"\n\"I'm trying to educate myself.\"\n\"I'm trying to explain myself.\"\n\"I'm trying new food.\"\n\"I'm trying to eat healthy.\"\n\"I'm trying to understand.\"\nYou may also hear the word 'trying' used to express a way someone is feeling. In this manner, it expresses strain or distress.\nHere are some examples:\n\"Learning new things can be trying on you.\"\n\"That marathon was very trying on me.\"",
+  "examples": [
+    {
+      "sentence": "I'm trying to get a job.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S1.mp3"
+    },
+    {
+      "sentence": "I'm trying to call my family.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S2.mp3"
+    },
+    {
+      "sentence": "I'm trying to enjoy my dinner.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S3.mp3"
+    },
+    {
+      "sentence": "I'm trying to educate myself.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S4.mp3"
+    },
+    {
+      "sentence": "I'm trying to explain myself.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S5.mp3"
+    },
+    {
+      "sentence": "I'm trying new food.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S6.mp3"
+    },
+    {
+      "sentence": "I'm trying to eat healthy.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S7.mp3"
+    },
+    {
+      "sentence": "I'm trying to understand.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S8.mp3"
+    },
+    {
+      "sentence": "Learning new things can be trying on you.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S9.mp3"
+    },
+    {
+      "sentence": "That marathon was very trying on me.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E07/sentence/E007S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2008",
+  "crawledAt": "2025-11-24T14:09:17.335Z"
+}

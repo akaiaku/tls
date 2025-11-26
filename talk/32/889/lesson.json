@@ -1,0 +1,120 @@
+{
+  "id": 889,
+  "sectionId": 32,
+  "number": 27,
+  "title": "Basic Listening Lesson #27",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=126",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L153/practice/L153P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is Jack excited about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Going on a vacation"
+          },
+          {
+            "value": "b",
+            "text": "Starting school"
+          },
+          {
+            "value": "c",
+            "text": "Finishing school"
+          },
+          {
+            "value": "d",
+            "text": "Starting work"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What does Jack think is more exciting between starting school or work?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Neither is exciting"
+          },
+          {
+            "value": "b",
+            "text": "Both are similar"
+          },
+          {
+            "value": "c",
+            "text": "Work is more exciting"
+          },
+          {
+            "value": "d",
+            "text": "School is more exciting"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is the best description about Jack's attitude toward work?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He is depressed because he will have to work for 30 years"
+          },
+          {
+            "value": "b",
+            "text": "He is sad that he can't have fun at school anymore"
+          },
+          {
+            "value": "c",
+            "text": "He is looking forward to making work fun"
+          },
+          {
+            "value": "d",
+            "text": "He doesn't care one way or another"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who started work first between Jack and his friend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Jack"
+          },
+          {
+            "value": "b",
+            "text": "His friend"
+          },
+          {
+            "value": "c",
+            "text": "Neither of them are working yet"
+          },
+          {
+            "value": "d",
+            "text": "Both started at the same time"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Starting work",
+      "Both are similar",
+      "He is looking forward to making work fun",
+      "His friend"
+    ]
+  },
+  "transcript": "A: \"Hey Jack. Are you excited about starting work?\"\nB: \"Yeah. I'm really looking forward to it.\"\nA: \"What was more exciting, starting college or starting work?\"\nB: \"They're pretty similar, but in different ways. I really can't decide. How about you?\"\nA: \"For me, I think starting school was more exciting.\"\nB: \"Does that mean work isn't that great?\"\nA: \"It's different for everyone, but because I knew school was going to be so much fun, I really got excited about it.\"\nB: \"But work is a huge portion of our lives. I'm looking forward to making it fun.\"\nA: \"That's a great attitude to have. I don't think you'll have any problems in the workforce.\"\nB: \"I hope you're right.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=127",
+  "crawledAt": "2025-11-24T14:29:29.979Z"
+}

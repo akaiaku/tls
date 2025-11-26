@@ -1,0 +1,120 @@
+{
+  "id": 878,
+  "sectionId": 32,
+  "number": 16,
+  "title": "Basic Listening Lesson #16",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=115",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L71/practice/L71P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Who are these two people talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A mutual friend"
+          },
+          {
+            "value": "b",
+            "text": "Person A"
+          },
+          {
+            "value": "c",
+            "text": "One person's father"
+          },
+          {
+            "value": "d",
+            "text": "One person's brother"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why is that person always feeling weak?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He is sick with a virus"
+          },
+          {
+            "value": "b",
+            "text": "He didn't take care of himself when he was young"
+          },
+          {
+            "value": "c",
+            "text": "He got food poisoning"
+          },
+          {
+            "value": "d",
+            "text": "He never exercised"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "How long has it been since one person met his friend's father?",
+        "options": [
+          {
+            "value": "a",
+            "text": "3 months"
+          },
+          {
+            "value": "b",
+            "text": "9 months"
+          },
+          {
+            "value": "c",
+            "text": "2 years"
+          },
+          {
+            "value": "d",
+            "text": "5 years"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What did the doctor say about the father's condition?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He has cancer"
+          },
+          {
+            "value": "b",
+            "text": "He has a fever but will get better"
+          },
+          {
+            "value": "c",
+            "text": "His depression is making him tired"
+          },
+          {
+            "value": "d",
+            "text": "Couldn't find anything specific"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "One person's father",
+      "He didn't take care of himself when he was young",
+      "5 years",
+      "Couldn't find anything specific"
+    ]
+  },
+  "transcript": "A: \"I haven't seen your father in like 5 years. How is he doing?\"\nB: \"He's not doing too well.\"\nA: \"Why? What's wrong?\"\nB: \"About a year ago, he started feeling weak all the time.\"\nA: \"Is it due to old age or is he sick.\"\nB: \"Maybe a little of both. The doctor's can't point out anything specifically. I think it is because he didn't take care of himself during his youth.\"\nA: \"That makes sense. It's important to take care of your health early in life.\"\nB: \"That's what my father tells me almost everyday.\"\nA: \"Well, I hope he starts feeling better. Say hi to him for me.\"\nB: \"Thanks. I'll let him know.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=116",
+  "crawledAt": "2025-11-24T14:28:59.191Z"
+}

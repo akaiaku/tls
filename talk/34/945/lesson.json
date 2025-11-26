@@ -1,0 +1,119 @@
+{
+  "id": 945,
+  "sectionId": 34,
+  "number": 15,
+  "title": "Advanced Listening Lesson #15",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=314",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L104/practice/L104P4.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "How did Robert propose?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Took her to the restaurant and had the ring in the food"
+          },
+          {
+            "value": "b",
+            "text": "Took her to a baseball game and the announcer displayed the words on the big screen"
+          },
+          {
+            "value": "c",
+            "text": "Had a ring inside a Valentines day present"
+          },
+          {
+            "value": "d",
+            "text": "Ask her in front of her father"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How many people are mentioned as a either maid of honor, brides maid, or candle lighter?",
+        "options": [
+          {
+            "value": "a",
+            "text": "3"
+          },
+          {
+            "value": "b",
+            "text": "4"
+          },
+          {
+            "value": "c",
+            "text": "5"
+          },
+          {
+            "value": "d",
+            "text": "6"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When do they plan on getting married?",
+        "options": [
+          {
+            "value": "a",
+            "text": "On July 4th - Independence Day"
+          },
+          {
+            "value": "b",
+            "text": "On July 7th - A special 7/7 day"
+          },
+          {
+            "value": "c",
+            "text": "Sometime in July"
+          },
+          {
+            "value": "d",
+            "text": "On September 7th"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How does the lady getting married know Lydia?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A friend from elementary"
+          },
+          {
+            "value": "b",
+            "text": "A friend from church"
+          },
+          {
+            "value": "c",
+            "text": "A friend from work"
+          },
+          {
+            "value": "d",
+            "text": "A friend from the dormitory"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Had a ring inside a Valentines day present",
+      "Sometime in July",
+      "A friend from church"
+    ]
+  },
+  "transcript": "A: \"Hey Stephanie. Guess what?\"\nB: \"What?\"\nA: \"Robert asked me to marry him. We're getting married.\"\nB: \"Congratulations. I'm so happy for you. So when is the big day?\"\nA: \"We haven't set the date exactly, but it looks like it will be sometime in July.\"\nB: \"How did he propose to you?\"\nA: \"On Valentines day, he got me a present. I thought it was an ordinary Valentines day present, but when I opened it, it was this big diamond ring. Right then, he got on his knees and proposed.\"\nB: \"That's so neat. So you really got surprised?\"\nA: \"We talked about marriage a little, but I never knew he was serious.\"\nB: \"You are going to be busy with wedding plans. But you have several months to prepare for it.\"\nA: \"It's going to be pretty hectic for me. So I'm going to need some help. First of all, I was wondering if you would like to be my Maid of Honor.\"\nB: \"I would be honored.\"\nA: \"So you're going to help me with the planning right?\"\nB: \"Of course. How many brides maids are you going to have?\"\nA: \"Three. So we will have a total of four.\"\nB: \"Let me guess. Susan, Tina, and Cindy.\"\nA: \"Close. I'm going to have Cindy as the candle lighter. The third brides maid is going to be Lydia. She is a good friend from church.\"\nB: \"I know her. She's sweet. I'll make sure we have the best wedding for you.\"\nA: \"I hope so. I appreciate your help.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=315",
+  "crawledAt": "2025-11-24T14:32:36.210Z"
+}

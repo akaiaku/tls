@@ -1,0 +1,83 @@
+{
+  "id": 561,
+  "sectionId": 20,
+  "number": 13,
+  "title": "Making a Reservation II",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=403",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/403-long.mp3",
+  "content": "The next series of questions covers how many people and how many rooms. Some hotels charge by number of rooms and number of adults, and some hotels charge by number of rooms only.\n\"How many rooms will you need?\"\n\"Is this for only one room?\"\n\"How many rooms would you like to reserve?\"\n\"How many rooms should I reserve for you?\"\n\"I will only need one room.\"\n\"I am going to need two rooms.\"\n\"How many adults will be in your party?\"\n\"How many total children will be with you?\"\n\"Just two adults.\"\n\"A total of four adults.\"\n\"I will be alone.\"\n\"A total of 2 adults and 2 children.\"\n\"One adult and 2 children.\"",
+  "examples": [
+    {
+      "sentence": "How many rooms will you need?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S1.mp3"
+    },
+    {
+      "sentence": "Is this for only one room?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S2.mp3"
+    },
+    {
+      "sentence": "How many rooms would you like to reserve?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S3.mp3"
+    },
+    {
+      "sentence": "How many rooms should I reserve for you?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S4.mp3"
+    },
+    {
+      "sentence": "I will only need one room.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S5.mp3"
+    },
+    {
+      "sentence": "I am going to need two rooms.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S6.mp3"
+    },
+    {
+      "sentence": "How many adults will be in your party?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S7.mp3"
+    },
+    {
+      "sentence": "How many total children will be with you?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S8.mp3"
+    },
+    {
+      "sentence": "Just two adults.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S9.mp3"
+    },
+    {
+      "sentence": "A total of four adults.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S10.mp3"
+    },
+    {
+      "sentence": "I will be alone.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S11.mp3"
+    },
+    {
+      "sentence": "A total of 2 adults and 2 children.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S12.mp3"
+    },
+    {
+      "sentence": "One adult and 2 children.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T11/sentence/T11S13.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=404",
+  "crawledAt": "2025-11-24T14:21:30.049Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 903,
+  "sectionId": 33,
+  "number": 7,
+  "title": "Intermediate Listening Lesson #07",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=206",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L47/practice/L47P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the main topic in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "University classes"
+          },
+          {
+            "value": "b",
+            "text": "University professors"
+          },
+          {
+            "value": "c",
+            "text": "University registration"
+          },
+          {
+            "value": "d",
+            "text": "University grades"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What class was mentioned where the student received a 1.7?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Psychology"
+          },
+          {
+            "value": "b",
+            "text": "History"
+          },
+          {
+            "value": "c",
+            "text": "Economics"
+          },
+          {
+            "value": "d",
+            "text": "Calculus"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who does he blame for doing so terrible this semester?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He blames his brother"
+          },
+          {
+            "value": "b",
+            "text": "He blames his friend"
+          },
+          {
+            "value": "c",
+            "text": "He blames himself"
+          },
+          {
+            "value": "d",
+            "text": "He blames the professor"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What was the cause for his GPA to go down so much?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He spent too much time with his new girlfriend"
+          },
+          {
+            "value": "b",
+            "text": "He started playing StarCraft"
+          },
+          {
+            "value": "c",
+            "text": "He burned himself out from working too much and didn't study"
+          },
+          {
+            "value": "d",
+            "text": "He had difficult classes this semester"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "University grades",
+      "Economics",
+      "He blames himself",
+      "He started playing StarCraft"
+    ]
+  },
+  "transcript": "A: \"Did you get your grades yet?\"\nB: \"Yeah. My whole GPA is screwed up now.\"\nA: \"Why? What happened?\"\nB: \"Well, I bombed my econ final and ended up with a 1.7.\"\nA: \"Ouch. You must be very disappointed.\"\nB: \"Well, it's my fault because I didn't study as much as I should have.\"\nA: \"Why don't you re-take the class next year?\"\nB: \"That's what I plan on doing unless I keep screwing up. How did you do this semester?\"\nA: \"I didn't do that well either. I ended up with a 3.2 this semester. That drops my total GPA to 3.45.\"\nB: \"My GPA is pretty similar to yours. I have a 3.1 now because of the stupid econ class.\"\nA: \"What was your GPA before this semester?\"\nB: \"I was sitting happy with a 3.4.\"\nA: \"Why did it go down so much?\"\nB: \"Let's just say I screwed up more than my econ class.\"\nA: \"What happened to you?\"\nB: \"I started playing StarCraft and ended up wasting a lot of time.\"\nA: \"You better stop slacking off.\"\nB: \"You're right. I'm not going to play games during school anymore.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=207",
+  "crawledAt": "2025-11-24T14:30:08.441Z"
+}

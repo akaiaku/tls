@@ -1,0 +1,48 @@
+{
+  "id": 558,
+  "sectionId": 20,
+  "number": 10,
+  "title": "Making a Reservation",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=399",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/399-long.mp3",
+  "content": "You will be calling the company you are renting from. When you call, you should verify if the rental car company has a location at the airport you are flying into.\n\"I need one at Los Angeles Airport.\"\n\"I am flying into Los Angeles Airport.\"\nIf they have one, they will say they do and start asking you similar questions we already covered. We will not repeat them here, but I will have a practice session giving an example dialog on making a reservation below.\nThey might ask you for a credit card number on the phone. If you don't call and cancel, you might be charged. So if you need to cancel, remember to call and cancel at least 24 hours before the date. I am not sure if it is 24 hours. You should ask and verify.\n\"If I need to cancel, when should I do that by?\"\n\"As soon as possible, but in order to avoid a charge you should call 24 hours before the date.\"\nWhen you arrive at the counter, you will tell the person that you have a reservation.\n\"Hi, I have a reservation under last name Lee.\"\n\"Hi, I have a reservation for a midsize car.\"\nAfter that, they will confirm your information. They might ask you some duplicate questions, but we should have covered most of it already.",
+  "examples": [
+    {
+      "sentence": "I need one at Los Angeles Airport.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S1.mp3"
+    },
+    {
+      "sentence": "I am flying into Los Angeles Airport.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S2.mp3"
+    },
+    {
+      "sentence": "If I need to cancel, when should I do that by?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S3.mp3"
+    },
+    {
+      "sentence": "As soon as possible, but in order to avoid a charge you should call 24 hours before the date.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S4.mp3"
+    },
+    {
+      "sentence": "Hi, I have a reservation under last name Lee.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S5.mp3"
+    },
+    {
+      "sentence": "Hi, I have a reservation for a midsize car.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T9/sentence/T9S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=401",
+  "crawledAt": "2025-11-24T14:21:26.099Z"
+}

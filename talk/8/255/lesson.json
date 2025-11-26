@@ -1,0 +1,73 @@
+{
+  "id": 255,
+  "sectionId": 8,
+  "number": 12,
+  "title": "Examinations - General Information",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=595",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/595-long.mp3",
+  "content": "The hardest types of questions to answer are the, 'What was it like' types, and the 'how was' types. The reason it is hard is because you have to explain in your own words the answer. It's not as simple as a number or a 'yes' or 'no.'\n\"How much percentage is the mid-term towards the final grade?\"\n\"The instructor said it was twenty percent of our final grade.\"\n\"Do you have to write any papers in that class?\"\n\"No. We only had one mid-term and one final.\"\n\"Yes. We had to write 2 essays for that class.\"\n\"How many pages did you have to write for your essays?\"\n\"We had to write 5 pages for both essays.\"\n\"Was the open-book exam hard?\"\n\"Most of the time, open-book exams are harder, but this one was really easy. All the questions were in the glossary so I found the answers quickly.\"\n\"How difficult was the take-home final?\"\n\"It is easy that we have the material to look through, but it is very time consuming. I had to do an all-nighter just to finish.\"\nAll-nighter means to stay up all night.",
+  "examples": [
+    {
+      "sentence": "How much percentage is the mid-term towards the final grade?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S1.mp3"
+    },
+    {
+      "sentence": "The instructor said it was twenty percent of our final grade.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S2.mp3"
+    },
+    {
+      "sentence": "Do you have to write any papers in that class?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S3.mp3"
+    },
+    {
+      "sentence": "No. We only had one mid-term and one final.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S4.mp3"
+    },
+    {
+      "sentence": "Yes. We had to write 2 essays for that class.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S5.mp3"
+    },
+    {
+      "sentence": "How many pages did you have to write for your essays?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S6.mp3"
+    },
+    {
+      "sentence": "We had to write 5 pages for both essays.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S7.mp3"
+    },
+    {
+      "sentence": "Was the open-book exam hard?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S8.mp3"
+    },
+    {
+      "sentence": "Most of the time, open-book exams are harder, but this one was really easy. All the questions were in the glossary so I found the answers quickly.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S9.mp3"
+    },
+    {
+      "sentence": "How difficult was the take-home final?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S10.mp3"
+    },
+    {
+      "sentence": "It is easy that we have the material to look through, but it is very time consuming. I had to do an all-nighter just to finish.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L50/sentence/L50S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=596",
+  "crawledAt": "2025-11-24T14:14:43.091Z"
+}

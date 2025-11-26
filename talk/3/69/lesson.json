@@ -1,0 +1,68 @@
+{
+  "id": 69,
+  "sectionId": 3,
+  "number": 10,
+  "title": "That's why + (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2070",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2070-long.mp3",
+  "content": "'That's' is short for 'that is.' Here you are telling someone 'because of this' or 'therefore.'\nHere are some examples:\n\"That's why people admire you.\"\n\"That's why she appears so happy.\"\n\"That's why babies crawl before they can walk.\"\n\"That's why Pam cries at sad movies.\"\n\"That's why you fail to understand.\"\n\"That is why you help out people in need.\"\n\"That is why you try and include everyone.\"\n\"That is why you lock your doors when you leave home.\"\n\"That is why she smiles when you walk by.\"\n\"That is why you use it for emergencies.\"",
+  "examples": [
+    {
+      "sentence": "That's why people admire you.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S1.mp3"
+    },
+    {
+      "sentence": "That's why she appears so happy.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S2.mp3"
+    },
+    {
+      "sentence": "That's why babies crawl before they can walk.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S3.mp3"
+    },
+    {
+      "sentence": "That's why Pam cries at sad movies.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S4.mp3"
+    },
+    {
+      "sentence": "That's why you fail to understand.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S5.mp3"
+    },
+    {
+      "sentence": "That is why you help out people in need.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S6.mp3"
+    },
+    {
+      "sentence": "That is why you try and include everyone.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S7.mp3"
+    },
+    {
+      "sentence": "That is why you lock your doors when you leave home.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S8.mp3"
+    },
+    {
+      "sentence": "That is why she smiles when you walk by.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S9.mp3"
+    },
+    {
+      "sentence": "That is why you use it for emergencies.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E70/sentence/E070S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2071",
+  "crawledAt": "2025-11-24T14:10:39.190Z"
+}

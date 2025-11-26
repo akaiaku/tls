@@ -1,0 +1,120 @@
+{
+  "id": 900,
+  "sectionId": 33,
+  "number": 4,
+  "title": "Intermediate Listening Lesson #04",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=203",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L43/practice/L43P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where is the conversation taking place?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In a high school cafeteria"
+          },
+          {
+            "value": "b",
+            "text": "In a university classroom"
+          },
+          {
+            "value": "c",
+            "text": "In front of a building"
+          },
+          {
+            "value": "d",
+            "text": "In a department store"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What grade is Jessica in?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Freshman"
+          },
+          {
+            "value": "b",
+            "text": "Sophomore"
+          },
+          {
+            "value": "c",
+            "text": "Junior"
+          },
+          {
+            "value": "d",
+            "text": "Senior"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where is the new student from?",
+        "options": [
+          {
+            "value": "a",
+            "text": "From Japan"
+          },
+          {
+            "value": "b",
+            "text": "From China"
+          },
+          {
+            "value": "c",
+            "text": "From Korea"
+          },
+          {
+            "value": "d",
+            "text": "From Hong Kong"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why did Jessica go to Japan?",
+        "options": [
+          {
+            "value": "a",
+            "text": "For a school exchange program"
+          },
+          {
+            "value": "b",
+            "text": "For a family vacation"
+          },
+          {
+            "value": "c",
+            "text": "To learn Japanese"
+          },
+          {
+            "value": "d",
+            "text": "For her father's business trip"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "In a university classroom",
+      "Sophomore",
+      "From Korea",
+      "For a family vacation"
+    ]
+  },
+  "transcript": "A: \"Hi. What's your name?\"\nB: \"My name is Jung Min. What's your name?\"\nA: \"My name is Jessica. It's nice to meet you.\"\nB: \"Yes. It's nice to meet you too. Are you a new student too?\"\nA: \"No. I'm a sophomore. I take it you are a new student?\"\nB: \"Yeah. It's pretty exciting to be here.\"\nA: \"Have fun while it lasts. The excitement wears off real quick. Especially after you see how much homework you get. Where are you from?\"\nB: \"I'm from Korea. My parents wanted me to go to an American university, so I came here.\"\nA: \"I have never been to Korea. I've been to Japan before, but never Korea.\"\nB: \"Why were you in Japan?\"\nA: \"My father thought it would be a good experience to take a vacation to a different country. He's so into learning about different cultures.\"\nB: \"That's pretty cool.\"\nA: \"I thought it would have been more fun if I went without my parents.\"\nB: \"Well, if you ever want to visit Korea, I would be happy to show you around.\"\nA: \"Thanks for the offer. I'll keep that in mind. Oh, the professor is coming. We'll talk more after class.\"\nB: \"Ok.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=204",
+  "crawledAt": "2025-11-24T14:30:00.004Z"
+}

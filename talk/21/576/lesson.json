@@ -1,0 +1,93 @@
+{
+  "id": 576,
+  "sectionId": 21,
+  "number": 11,
+  "title": "Fine Dining",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=418",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/418-long.mp3",
+  "content": "The process of fine dining is very similar to the previous example. I'll list a couple of additions for fine dining that I didn't include above.\nIf you order wine, they will pour a tiny bit into your glass. You should immediately take a drink of it and shake your head yes. After you approve, they will pour your glass and other glasses full of the wine.\nSome restaurants need to prepare dessert 20 minutes in advance. That means they will ask you if you are going to have dessert while you are eating instead of waiting for you to complete.\nFinally, these types of restaurants take reservations. Here is an example of making a reservation through the phone.\n\"Hello, McCormick's. How may I help you today?\"\n\"I would like to make a reservation.\"\n\"What day did you want to come in?\"\n\"This Friday at 7:00pm.\"\n\"We have a table at 7:15. Will that be acceptable?\"\n\"Yes.\"\n\"May I have your name?\"\n\"Rich Yu. That's Y U.\"\n\"I have reserved a table for Mr. Yu on Friday at 7:15. Is there anything else I can do for you?\"\n\"That will be all.\"\n\"Thank you for calling.\"\n\"Thank you. Good Bye.\"\n\"Good Bye.\"\nWhen you come in, you can tell them that you have a reservation.\n\"Hi, I have a reservation at 7:15 for Rich Yu.\"\n\"Oh, yes. Mr. Yu, your table will be ready in just a moment. You can wait right over there.\"",
+  "examples": [
+    {
+      "sentence": "Hello, McCormick's. How may I help you today?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S1.mp3"
+    },
+    {
+      "sentence": "I would like to make a reservation.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S2.mp3"
+    },
+    {
+      "sentence": "What day did you want to come in?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S3.mp3"
+    },
+    {
+      "sentence": "This Friday at 7:00pm.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S4.mp3"
+    },
+    {
+      "sentence": "We have a table at 7:15. Will that be acceptable?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S5.mp3"
+    },
+    {
+      "sentence": "Yes.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S6.mp3"
+    },
+    {
+      "sentence": "May I have your name?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S7.mp3"
+    },
+    {
+      "sentence": "Rich Yu. That's Y U.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S8.mp3"
+    },
+    {
+      "sentence": "I have reserved a table for Mr. Yu on Friday at 7:15. Is there anything else I can do for you?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S9.mp3"
+    },
+    {
+      "sentence": "That will be all.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S10.mp3"
+    },
+    {
+      "sentence": "Thank you for calling.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S11.mp3"
+    },
+    {
+      "sentence": "Thank you. Good Bye.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S12.mp3"
+    },
+    {
+      "sentence": "Good Bye.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S13.mp3"
+    },
+    {
+      "sentence": "Hi, I have a reservation at 7:15 for Rich Yu.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S14.mp3"
+    },
+    {
+      "sentence": "Oh, yes. Mr. Yu, your table will be ready in just a moment. You can wait right over there.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T25/sentence/T25S15.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=421",
+  "crawledAt": "2025-11-24T14:21:50.379Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 949,
+  "sectionId": 34,
+  "number": 19,
+  "title": "Advanced Listening Lesson #19",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=318",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L127/practice/L127P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the sport they are talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Basketball"
+          },
+          {
+            "value": "c",
+            "text": "Football"
+          },
+          {
+            "value": "d",
+            "text": "Soccer"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Comparing baseball and football, which one is more fun?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Football"
+          },
+          {
+            "value": "c",
+            "text": "Both are equally fun"
+          },
+          {
+            "value": "d",
+            "text": "Too different to compare"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What does the corner back do?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Main guy in offense"
+          },
+          {
+            "value": "b",
+            "text": "The guy next to second base"
+          },
+          {
+            "value": "c",
+            "text": "Defensive player covering passing plays and outside running plays"
+          },
+          {
+            "value": "d",
+            "text": "The guy who shoots the ball"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does one guy not follow football at all?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Has no interest in the game"
+          },
+          {
+            "value": "b",
+            "text": "Never understood the game"
+          },
+          {
+            "value": "c",
+            "text": "Got hurt in high school and avoided it since"
+          },
+          {
+            "value": "d",
+            "text": "Boring to watch"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Football",
+      "Too different to compare",
+      "Defensive player covering passing plays and outside running plays",
+      "Never understood the game"
+    ]
+  },
+  "transcript": "A: \"What are you watching?\"\nB: \"A football game. Packers are playing the Chiefs.\"\nA: \"I never understood this game.\"\nB: \"It's not that hard. If you watch a couple of games, you'll start to understand it.\"\nA: \"Do you watch a lot of football?\"\nB: \"I like the Packers, so I watch all their games.\"\nA: \"Did you play football before?\"\nB: \"Only in high school. I was too small to play for college.\"\nA: \"What position did you play?\"\nB: \"I was the corner back.\"\nA: \"Is that the main guy in offense?\"\nB: \"No. That's the quarterback. The corner back is a defensive player covering passing plays and outside running plays.\"\nA: \"I see. Do you think it is more fun than baseball?\"\nB: \"It's hard to compare the two because they're so different. I like both baseball and football. How about you? You like baseball a lot?\"\nA: \"Yeah. I'm a big baseball fan.\"\nB: \"Baseball is fun, but you should also learn football. I'll explain as we watch.\"\nA: \"Cool.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=319",
+  "crawledAt": "2025-11-24T14:32:46.875Z"
+}

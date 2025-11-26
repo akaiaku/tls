@@ -1,0 +1,120 @@
+{
+  "id": 954,
+  "sectionId": 34,
+  "number": 24,
+  "title": "Advanced Listening Lesson #24",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=323",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L144/practice/L144P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Jason's friend surprised that Jason is going golfing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because they were supposed to go hiking that day"
+          },
+          {
+            "value": "b",
+            "text": "Because he wasn't invited"
+          },
+          {
+            "value": "c",
+            "text": "Because Jason never golfed before"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What was Jason's friend going to ask Jason if he wasn't busy that day?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To come out to a party"
+          },
+          {
+            "value": "b",
+            "text": "To help him move out of his apartment"
+          },
+          {
+            "value": "c",
+            "text": "To drive him to school"
+          },
+          {
+            "value": "d",
+            "text": "To play basketball with him"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What does the word \"hovering\" mean in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It means \"to fly\""
+          },
+          {
+            "value": "b",
+            "text": "It means \"to ride in a car\""
+          },
+          {
+            "value": "c",
+            "text": "It means \"to be right around\""
+          },
+          {
+            "value": "d",
+            "text": "It means \"to hit the ball\""
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When are they going to meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Friday night"
+          },
+          {
+            "value": "b",
+            "text": "Saturday for golf"
+          },
+          {
+            "value": "c",
+            "text": "Sunday for brunch"
+          },
+          {
+            "value": "d",
+            "text": "No current plans to meet"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Because he wasn't invited",
+      "To play basketball with him",
+      "It means \"to be right around\"",
+      "No current plans to meet"
+    ]
+  },
+  "transcript": "A: \"Hey Jason. What are you doing this Friday?\"\nB: \"I'm going to go to the driving range cause I'm playing golf on Saturday.\"\nA: \"You're golfing without me? What's up with that?\"\nB: \"Sorry man, but we already have a foursome. I'm going with a couple of guys from work.\"\nA: \"Where are you playing?\"\nB: \"Washington National. Have you been there yet?\"\nA: \"I've been there a couple of times. It's a great course. You know the Huskies play there right?\"\nB: \"I didn't know that. Is it a hard course?\"\nA: \"It's pretty challenging. But it all depends on which tee you play from.\"\nB: \"What are you shooting these days?\"\nA: \"I'm still hovering around a bogey game.\"\nB: \"Still better than me. I'm still trying to hit a bogey game. Do you want to hit the driving range with me?\"\nA: \"I can't this Friday. I'm playing basketball with the guys that night.\"\nB: \"At night?\"\nA: \"Yeah. We're playing indoors at a school gymnasium.\"\nB: \"What's the occasion?\"\nA: \"Just a small league I play on. Nothing special.\"\nB: \"I'm too short to play basketball.\"\nA: \"You're not that short. Plus, we have a couple of guys who are the same height as you. They're awesome players.\"\nB: \"I never got into basketball. It's fun and all, but maybe I'm just not good at it.\"\nA: \"It's still great exercise. I get a better workout from basketball than I do from the treadmill.\"\nB: \"That's true.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=324",
+  "crawledAt": "2025-11-24T14:33:00.510Z"
+}

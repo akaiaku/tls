@@ -1,0 +1,103 @@
+{
+  "id": 323,
+  "sectionId": 12,
+  "number": 3,
+  "title": "Sports in General - Soccer",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=674",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/674-long.mp3",
+  "content": "<b>Soccer</b>\n\"Soccer is my favorite sport.\"\n\"I love soccer.\"\n\"I play soccer whenever I can.\"\n\"I used to play a lot of soccer when I was in school.\"\n\"I'm usually the forward on our team.\"\n\"I play midfielder on our team.\"\n\"I'm the fullback.\"\n\"My favorite position is the midfielder.\"\n\"I like to be the goalie.\"\n\"I've been a goalie ever since I was in Junior high.\"\n\"I am always the goal keeper.\"\n\"He was off sides, but the officials didn't see it. That's how he got the goal.\"\n\"He's a very rowdy player. He gets a yellow card each game. I can't believe he hasn't been given a red card yet.\"\n\"He clipped him from behind. Why didn't he get a red card? The other guy could have broken his ankle with that tackle.\"\n\"I like to play soccer because of all the running. It keeps me in shape and I have fun while playing.\"\n\"I don't know why soccer is not so popular in America. Soccer is a very popular sport in most other countries.\"\n\"Watching the world cup is so fun.\"",
+  "examples": [
+    {
+      "sentence": "Soccer is my favorite sport.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S1.mp3"
+    },
+    {
+      "sentence": "I love soccer.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S2.mp3"
+    },
+    {
+      "sentence": "I play soccer whenever I can.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S3.mp3"
+    },
+    {
+      "sentence": "I used to play a lot of soccer when I was in school.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S4.mp3"
+    },
+    {
+      "sentence": "I'm usually the forward on our team.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S5.mp3"
+    },
+    {
+      "sentence": "I play midfielder on our team.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S6.mp3"
+    },
+    {
+      "sentence": "I'm the fullback.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S7.mp3"
+    },
+    {
+      "sentence": "My favorite position is the midfielder.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S8.mp3"
+    },
+    {
+      "sentence": "I like to be the goalie.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S9.mp3"
+    },
+    {
+      "sentence": "I've been a goalie ever since I was in Junior high.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S10.mp3"
+    },
+    {
+      "sentence": "I am always the goal keeper.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S11.mp3"
+    },
+    {
+      "sentence": "He was off sides, but the officials didn't see it. That's how he got the goal.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S12.mp3"
+    },
+    {
+      "sentence": "He's a very rowdy player. He gets a yellow card each game. I can't believe he hasn't been given a red card yet.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S13.mp3"
+    },
+    {
+      "sentence": "He clipped him from behind. Why didn't he get a red card? The other guy could have broken his ankle with that tackle.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S14.mp3"
+    },
+    {
+      "sentence": "I like to play soccer because of all the running. It keeps me in shape and I have fun while playing.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S15.mp3"
+    },
+    {
+      "sentence": "I don't know why soccer is not so popular in America. Soccer is a very popular sport in most other countries.",
+      "audio": "example_16.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S16.mp3"
+    },
+    {
+      "sentence": "Watching the world cup is so fun.",
+      "audio": "example_17.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L110/sentence/L110S17.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=675",
+  "crawledAt": "2025-11-24T14:16:14.442Z"
+}

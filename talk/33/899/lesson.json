@@ -1,0 +1,120 @@
+{
+  "id": 899,
+  "sectionId": 33,
+  "number": 3,
+  "title": "Intermediate Listening Lesson #03",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=202",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L40/practice/L40P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What type of exercising are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Sporting activities"
+          },
+          {
+            "value": "b",
+            "text": "Working out"
+          },
+          {
+            "value": "c",
+            "text": "Running and jogging"
+          },
+          {
+            "value": "d",
+            "text": "Golfing"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What was the reaction of one person seeing his friend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Embarrased"
+          },
+          {
+            "value": "b",
+            "text": "Excited"
+          },
+          {
+            "value": "c",
+            "text": "Surprised"
+          },
+          {
+            "value": "d",
+            "text": "Sad"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How long has it been since they have seen each other?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A month"
+          },
+          {
+            "value": "b",
+            "text": "A couple of months"
+          },
+          {
+            "value": "c",
+            "text": "Six months"
+          },
+          {
+            "value": "d",
+            "text": "One year"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "When will they see each other again?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A month later"
+          },
+          {
+            "value": "b",
+            "text": "In a couple of days"
+          },
+          {
+            "value": "c",
+            "text": "Not planned"
+          },
+          {
+            "value": "d",
+            "text": "Next time they run into each other like this time"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Working out",
+      "Surprised",
+      "A couple of months",
+      "In a couple of days"
+    ]
+  },
+  "transcript": "A: \"Steve. Is that you?\"\nB: \"Yeah. What's going on?\"\nA: \"Not much. What a surprise to see you here.\"\nB: \"Yeah. It's been a couple of months since I saw you.\"\nA: \"What have you been up to?\"\nB: \"I just started working out.\"\nA: \"Really? Where do you work out at?\"\nB: \"I joined the Samsung Health Club last month.\"\nA: \"What do you mostly do during your workout?\"\nB: \"I concentrate mostly on my legs, chest, arms and stomach.\"\nA: \"I should start exercising more.\"\nB: \"It's hard work while exercising, but it is a great feeling when I get done.\"\nA: \"I have a running machine at home. I used to use it, but I already got sick of it.\"\nB: \"Exercising at home is hard. The environment is not suited for exercising.\"\nA: \"If I want to exercise, I will need to join a gym.\"\nB: \"I have a couple of guest passes. You want to check out my health club.\"\nA: \"That's a good idea. Let's go over the weekend.\"\nB: \"Great. I'll call you Saturday morning.\"\nA: \"Aright. I'll talk to you later.\"\nB: \"Ok. Bye.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=203",
+  "crawledAt": "2025-11-24T14:29:57.235Z"
+}

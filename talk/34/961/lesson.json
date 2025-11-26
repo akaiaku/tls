@@ -1,0 +1,120 @@
+{
+  "id": 961,
+  "sectionId": 34,
+  "number": 31,
+  "title": "Advanced Listening Lesson #31",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=330",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L180/practice/L180P4.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "How does the friend know how long he has been sitting on the bench?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He told him"
+          },
+          {
+            "value": "b",
+            "text": "He probably saw him earlier in the same spot"
+          },
+          {
+            "value": "c",
+            "text": "He does that regularly so he made an assumption"
+          },
+          {
+            "value": "d",
+            "text": "He asked his friend how long he's been there"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What has he been doing on the bench for an hour?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Reading a book"
+          },
+          {
+            "value": "b",
+            "text": "Texting a bunch of friends on his phone"
+          },
+          {
+            "value": "c",
+            "text": "Talking to Lucy on the phone"
+          },
+          {
+            "value": "d",
+            "text": "Thinking about Lucy"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the relationship between the guy on the bench and Lucy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "They are a couple"
+          },
+          {
+            "value": "b",
+            "text": "They are close friends"
+          },
+          {
+            "value": "c",
+            "text": "They are classmates"
+          },
+          {
+            "value": "d",
+            "text": "They don't know each other"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What are his feelings toward Lucy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "True love"
+          },
+          {
+            "value": "b",
+            "text": "Likes her as a friend"
+          },
+          {
+            "value": "c",
+            "text": "Infatuation"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "He probably saw him earlier in the same spot",
+      "Thinking about Lucy",
+      "They are classmates",
+      "Infatuation"
+    ]
+  },
+  "transcript": "A: \"What are you doing here on the bench? You've been here for an hour.\"\nB: \"I'm just thinking about Lucy. I can't get her out of my mind. I think I'm falling in love.\"\nA: \"Crazy boy. You barely know her.\"\nB: \"It doesn't matter. I like everything about her. I like the way she talks, the way she walks, her hair and her lips. I would give anything to kiss her.\"\nA: \"Did you tell her how you feel?\"\nB: \"No way. I'll scare her away.\"\nA: \"You won't know until you tell her.\"\nB: \"Maybe later. But right now, all I can think about is her legs and her face. She is so beautiful.\"\nA: \"You're wasting your time. At least talk to her. You don't have to tell her how you feel.\"\nB: \"Yeah. I started talking to her in my Poly Sci class. I try to sit next to her as much as I can.\"\nA: \"That's a start. After awhile, you'll find out if she is everything you make her out to be.\"\nB: \"It won't matter because I love everything she does.\"\nA: \"Dude, you're blind as a bat. You're just infatuated with her.\"\nB: \"These feelings are too strong to be infatuation.\"\nA: \"We'll see in a couple of weeks. Let's go grab something to eat. You're human aren't you?\"\nB: \"To think of it, I am a little hungry. Ok. Let's go.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=331",
+  "crawledAt": "2025-11-24T14:33:26.520Z"
+}

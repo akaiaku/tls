@@ -1,0 +1,73 @@
+{
+  "id": 563,
+  "sectionId": 20,
+  "number": 15,
+  "title": "Checking In and Checking Out",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=405",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/405-long.mp3",
+  "content": "Checking in is pretty simple, you just need to go to the counter and say that you are checking in.\n\"Hi, I am checking in.\"\n\"Hi, I have a reservation and I am checking in.\"\nThey will ask you for your credit card and a photo ID. They might confirm your information and you should receive your keys. Here are some questions to ask during this time.\n\"Where is the elevator?\"\n\"Do you have concierge service here?\"\n\"Do you have a map of the city?\"\n\"What time should I check out by?\"\n\"What time is check out?\"\nChecking out is just as simple. You go to the counter and say, \"I am checking out.\" At this time, you should return the keys. They might ask you to sign something or ask you if the credit card on file is ok to charge.\n\"Should we charge the credit card on file or did you want to use a different card?\"\n\"Your credit card will be charged a total of $256.78. Can you sign on the bottom?\"\n\"Thank you for staying with us. We look forward to seeing you again.\"",
+  "examples": [
+    {
+      "sentence": "Hi, I am checking in.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S1.mp3"
+    },
+    {
+      "sentence": "Hi, I have a reservation and I am checking in.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S2.mp3"
+    },
+    {
+      "sentence": "Where is the elevator?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S3.mp3"
+    },
+    {
+      "sentence": "Do you have concierge service here?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S4.mp3"
+    },
+    {
+      "sentence": "Do you have a map of the city?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S5.mp3"
+    },
+    {
+      "sentence": "What time should I check out by?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S6.mp3"
+    },
+    {
+      "sentence": "What time is check out?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S7.mp3"
+    },
+    {
+      "sentence": "I am checking out.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S8.mp3"
+    },
+    {
+      "sentence": "Should we charge the credit card on file or did you want to use a different card?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S9.mp3"
+    },
+    {
+      "sentence": "Your credit card will be charged a total of $256.78. Can you sign on the bottom?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S10.mp3"
+    },
+    {
+      "sentence": "Thank you for staying with us. We look forward to seeing you again.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T13/sentence/T13S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=406",
+  "crawledAt": "2025-11-24T14:21:32.673Z"
+}

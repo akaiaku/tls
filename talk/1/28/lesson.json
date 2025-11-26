@@ -1,0 +1,73 @@
+{
+  "id": 28,
+  "sectionId": 1,
+  "number": 28,
+  "title": "I have something + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2029",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2029-long.mp3",
+  "content": "When using the expression 'I have something' you are communicating that you possess something or need to do something that is unspecified or undetermined.\nHere are some examples:\n\"I have something to complete.\"\n\"I have something to share with you.\"\n\"I have something important to tell you.\"\n\"I have something to encourage you.\"\n\"I have something to explain to you.\"\n\"I have something special planned for your birthday.\"\n\"I have something else to consider.\"\n\"I have something to apologize about.\"\n\"I have something to attend tonight.\"\n\"I have something to ask you.\"\n\"I have something fun for us to do.\"",
+  "examples": [
+    {
+      "sentence": "I have something to complete.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S1.mp3"
+    },
+    {
+      "sentence": "I have something to share with you.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S2.mp3"
+    },
+    {
+      "sentence": "I have something important to tell you.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S3.mp3"
+    },
+    {
+      "sentence": "I have something to encourage you.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S4.mp3"
+    },
+    {
+      "sentence": "I have something to explain to you.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S5.mp3"
+    },
+    {
+      "sentence": "I have something special planned for your birthday.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S6.mp3"
+    },
+    {
+      "sentence": "I have something else to consider.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S7.mp3"
+    },
+    {
+      "sentence": "I have something to apologize about.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S8.mp3"
+    },
+    {
+      "sentence": "I have something to attend tonight.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S9.mp3"
+    },
+    {
+      "sentence": "I have something to ask you.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S10.mp3"
+    },
+    {
+      "sentence": "I have something fun for us to do.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E29/sentence/E029S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2030",
+  "crawledAt": "2025-11-24T14:09:45.742Z"
+}

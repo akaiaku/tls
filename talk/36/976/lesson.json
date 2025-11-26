@@ -1,0 +1,43 @@
+{
+  "id": 976,
+  "sectionId": 36,
+  "number": 2,
+  "title": "Pronouncing the letter Y",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=012",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Listen to the lesson\nThe Y sound is easy to pronounce. Just like the letter W, it is also very close to a vowel sound.\nInstruction: Elevate the middle portion of your tongue without touching the roof of the mouth. Basically, you are making the shape of your tongue into a small rainbow shape. As you make the sound, move the tongue away from the roof of the mouth.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nYellow\nCanyon\n\"You need to get yellow onions\"\n\"The Grand Canyon is a magnificent place\"",
+  "examples": [
+    {
+      "sentence": "Listen to the lesson",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S12S1.mp3"
+    },
+    {
+      "sentence": "Yellow",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S12S2.mp3"
+    },
+    {
+      "sentence": "Canyon",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S12S3.mp3"
+    },
+    {
+      "sentence": "You need to get yellow onions",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S12S4.mp3"
+    },
+    {
+      "sentence": "The Grand Canyon is a magnificent place",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S12S5.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=13",
+  "crawledAt": "2025-11-24T14:33:50.351Z"
+}

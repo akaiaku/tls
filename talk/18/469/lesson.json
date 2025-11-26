@@ -1,0 +1,68 @@
+{
+  "id": 469,
+  "sectionId": 18,
+  "number": 1,
+  "title": "Machine Problems",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=436",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/436-long.mp3",
+  "content": "There are many things to say while in the office. Something can go wrong with the printer, or you could be wondering why a package didn't arrive. The next several short lessons will be about Basic Office scenarios.\n\"Do you know what's wrong with the printer?\"\n\"Who do we call to report a problem with the printer?\"\n\"When is the printer going to be fixed?\"\n\"The printer next to the break room is broken. Where is the other printer?\"\n\"The copy machine is jammed again.\"\n\"The copy machine is broken.\"\n\"We need to get the copy machine fixed.\"\n\"A technician is coming this afternoon to fix the copy machine.\"\n\"Where is the paper for the copy machine?\"\n\"We need to order more paper. We're running low.\"",
+  "examples": [
+    {
+      "sentence": "Do you know what's wrong with the printer?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S1.mp3"
+    },
+    {
+      "sentence": "Who do we call to report a problem with the printer?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S2.mp3"
+    },
+    {
+      "sentence": "When is the printer going to be fixed?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S3.mp3"
+    },
+    {
+      "sentence": "The printer next to the break room is broken. Where is the other printer?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S4.mp3"
+    },
+    {
+      "sentence": "The copy machine is jammed again.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S5.mp3"
+    },
+    {
+      "sentence": "The copy machine is broken.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S6.mp3"
+    },
+    {
+      "sentence": "We need to get the copy machine fixed.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S7.mp3"
+    },
+    {
+      "sentence": "A technician is coming this afternoon to fix the copy machine.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S8.mp3"
+    },
+    {
+      "sentence": "Where is the paper for the copy machine?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S9.mp3"
+    },
+    {
+      "sentence": "We need to order more paper. We're running low.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B1/sentence/B1S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=437",
+  "crawledAt": "2025-11-24T14:19:29.195Z"
+}

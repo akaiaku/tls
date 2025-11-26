@@ -1,0 +1,68 @@
+{
+  "id": 9,
+  "sectionId": 1,
+  "number": 9,
+  "title": "I have + (past participle)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2010",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2010-long.mp3",
+  "content": "Again, 'I have' shows possession or something acquired. By adding a past participle you are informing someone of a past or completed action done by you.\nHere are some examples:\n\"I have done it.\"\n\"I have heard that before.\"\n\"I have driven a car.\"\n\"I have forgotten the words.\"\n\"I have read that book.\"\n\"I have eaten at that restaurant before.\"\n\"I have flown in an airplane.\"\n\"I have forgiven you.\"\n\"I have seen you before.\"\n\"I have written a letter.\"",
+  "examples": [
+    {
+      "sentence": "I have done it.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S1.mp3"
+    },
+    {
+      "sentence": "I have heard that before.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S2.mp3"
+    },
+    {
+      "sentence": "I have driven a car.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S3.mp3"
+    },
+    {
+      "sentence": "I have forgotten the words.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S4.mp3"
+    },
+    {
+      "sentence": "I have read that book.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S5.mp3"
+    },
+    {
+      "sentence": "I have eaten at that restaurant before.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S6.mp3"
+    },
+    {
+      "sentence": "I have flown in an airplane.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S7.mp3"
+    },
+    {
+      "sentence": "I have forgiven you.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S8.mp3"
+    },
+    {
+      "sentence": "I have seen you before.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S9.mp3"
+    },
+    {
+      "sentence": "I have written a letter.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E10/sentence/E010S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2011",
+  "crawledAt": "2025-11-24T14:09:21.180Z"
+}

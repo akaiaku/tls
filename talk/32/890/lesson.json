@@ -1,0 +1,120 @@
+{
+  "id": 890,
+  "sectionId": 32,
+  "number": 28,
+  "title": "Basic Listening Lesson #28",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=127",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L157/practice/L157P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the good news in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He just got a job"
+          },
+          {
+            "value": "b",
+            "text": "He is going on a vacation"
+          },
+          {
+            "value": "c",
+            "text": "He found a pretty girlfriend"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the bad news in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "His wife is worried about their finances"
+          },
+          {
+            "value": "b",
+            "text": "The job market is bad right now"
+          },
+          {
+            "value": "c",
+            "text": "He lost his job"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the friend doing about the situation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Nothing he can do about it"
+          },
+          {
+            "value": "b",
+            "text": "Contact other friends who might be able to help find a job"
+          },
+          {
+            "value": "c",
+            "text": "Talk to his manager about openings in their company"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What advice is the friend giving?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To not worry as he will get through this"
+          },
+          {
+            "value": "b",
+            "text": "To start saving money for the hard times"
+          },
+          {
+            "value": "c",
+            "text": "To start working at a gas station temporarily"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "None of the above",
+      "All of the above",
+      "Contact other friends who might be able to help find a job",
+      "To not worry as he will get through this"
+    ]
+  },
+  "transcript": "A: \"You don't look too well. What's going on?\"\nB: \"I just lost my job. I'm just worried about how I'm going to pay the bills.\"\nA: \"I'm sorry to hear that. Have you been looking for another job?\"\nB: \"I just started, but the job market is very bad right now. I'm not optimistic about it.\"\nA: \"That's tough. What does your wife think about this?\"\nB: \"She's trying to be supportive, but I can tell she is very worried about our financial situation as well.\"\nA: \"I have some friends who might be able to help you find a job. I'll see what they can do.\"\nB: \"I really appreciate your help.\"\nA: \"No problem. In the meantime, don't try to worry so much. You'll get through this.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=128",
+  "crawledAt": "2025-11-24T14:29:32.673Z"
+}

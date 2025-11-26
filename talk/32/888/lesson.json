@@ -1,0 +1,120 @@
+{
+  "id": 888,
+  "sectionId": 32,
+  "number": 26,
+  "title": "Basic Listening Lesson #26",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=125",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L153/practice/L153P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the exciting event that is causing this excitement?",
+        "options": [
+          {
+            "value": "a",
+            "text": "They are going skiing tomorrow"
+          },
+          {
+            "value": "b",
+            "text": "They are going to Las Vegas tomorrow"
+          },
+          {
+            "value": "c",
+            "text": "They are going to have a big party over the weekend"
+          },
+          {
+            "value": "d",
+            "text": "They just graduated from college"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why does he get so excited?",
+        "options": [
+          {
+            "value": "a",
+            "text": "This is his first time going to Las Vegas"
+          },
+          {
+            "value": "b",
+            "text": "The party over the weekend is a special event"
+          },
+          {
+            "value": "c",
+            "text": "He only gets to go skiing twice a year"
+          },
+          {
+            "value": "d",
+            "text": "He doesn't have to go to school anymore"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What event makes them both get excited?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A ski trip"
+          },
+          {
+            "value": "b",
+            "text": "Las Vegas vacation"
+          },
+          {
+            "value": "c",
+            "text": "Big parties"
+          },
+          {
+            "value": "d",
+            "text": "Any weekends"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why does one person not get excited from skiing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He doesn't enjoy skiing that much"
+          },
+          {
+            "value": "b",
+            "text": "He has never gone skiing so he doesn't know"
+          },
+          {
+            "value": "c",
+            "text": "He is too tired to be excited"
+          },
+          {
+            "value": "d",
+            "text": "He goes skiing often so he is used to it"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "They are going skiing tomorrow",
+      "He only gets to go skiing twice a year",
+      "Las Vegas vacation",
+      "He goes skiing often so he is used to it"
+    ]
+  },
+  "transcript": "A: \"I can't wait to go skiing tomorrow.\"\nB: \"I know. It's going to be so much fun.\"\nA: \"I always get excited the day before.\"\nB: \"I used to be like that. But I go skiing so often that I don't get excited anymore.\"\nA: \"I only go skiing twice a year, so it's a real treat for me.\"\nB: \"That makes sense.\"\nA: \"What things make you excited?\"\nB: \"Whenever I go to Vegas, I get really excited.\"\nA: \"Oh... that makes me excited too!\"\nB: \"Looks like anything fun makes you excited.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=126",
+  "crawledAt": "2025-11-24T14:29:27.177Z"
+}

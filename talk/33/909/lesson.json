@@ -1,0 +1,120 @@
+{
+  "id": 909,
+  "sectionId": 33,
+  "number": 13,
+  "title": "Intermediate Listening Lesson #13",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=212",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L74/practice/L74P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is one person sneezy?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Seasonal allergies"
+          },
+          {
+            "value": "b",
+            "text": "Got the flu"
+          },
+          {
+            "value": "c",
+            "text": "Got a cold"
+          },
+          {
+            "value": "d",
+            "text": "Ate something and went down the wind pipe"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What other symptoms are mentioned with allergies?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Runny nose"
+          },
+          {
+            "value": "b",
+            "text": "Itchy throat"
+          },
+          {
+            "value": "c",
+            "text": "Watery eyes"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is the other guy allergic to?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Cat"
+          },
+          {
+            "value": "b",
+            "text": "Dust"
+          },
+          {
+            "value": "c",
+            "text": "Alcohol"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What symptoms does he get from cats?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Eyes become bloodshot"
+          },
+          {
+            "value": "b",
+            "text": "Ears become red"
+          },
+          {
+            "value": "c",
+            "text": "Body starts to itch all over"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Seasonal allergies",
+      "All of the above",
+      "Alcohol",
+      "None of the above"
+    ]
+  },
+  "transcript": "A: \"Ahhchooo!\"\nB: \"You've been sneezing a lot lately. Are you sick or something?\"\nA: \"No. Every spring time around April, I'm stricken with allergies.\"\nB: \"I never have seasonal allergies.\"\nA: \"Consider yourself lucky.\"\nB: \"What are all the symptoms?\"\nA: \"Well, as you just saw, I sneeze a lot. Also, my nose becomes very runny, my throat sometimes itches, and my eyes start to water.\"\nB: \"That doesn't sound good.\"\nA: \"No it's not. So you don't have any type of allergies?\"\nB: \"Well, I have a severe allergic reaction to alcohol. It runs in the family.\"\nA: \"Everyone to some extent is allergic to alcohol.\"\nB: \"I get it pretty bad. My whole face turns red, including my ears. My eyes become bloodshot, and I start to itch all over my body.\"\nA: \"That's pretty bad.\"\nB: \"But that doesn't stop me from drinking. Hahaha.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=213",
+  "crawledAt": "2025-11-24T14:30:25.451Z"
+}

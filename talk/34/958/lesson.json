@@ -1,0 +1,120 @@
+{
+  "id": 958,
+  "sectionId": 34,
+  "number": 28,
+  "title": "Advanced Listening Lesson #28",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=327",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L172/practice/L172P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Mike is feeling pretty bad right now. What conclusion can we draw from this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He hasn't experienced many break ups"
+          },
+          {
+            "value": "b",
+            "text": "He is down to earth"
+          },
+          {
+            "value": "c",
+            "text": "He is going to win her back"
+          },
+          {
+            "value": "d",
+            "text": "He is going to take a quarter off from school"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is a true statement from this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The girl broke up with Mike"
+          },
+          {
+            "value": "b",
+            "text": "Mike broke up with the girl"
+          },
+          {
+            "value": "c",
+            "text": "It was a mutual break up"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why did they end up breaking up?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She found a different guy"
+          },
+          {
+            "value": "b",
+            "text": "He found a different girl"
+          },
+          {
+            "value": "c",
+            "text": "They didn't break up"
+          },
+          {
+            "value": "d",
+            "text": "He was probably over bearing and suffocated her"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How many months does Mike have to go through this pain?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Forever"
+          },
+          {
+            "value": "b",
+            "text": "1 month"
+          },
+          {
+            "value": "c",
+            "text": "2 months"
+          },
+          {
+            "value": "d",
+            "text": "4 months"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "He hasn't experienced many break ups",
+      "The girl broke up with Mike",
+      "He was probably over bearing and suffocated her",
+      "4 months"
+    ]
+  },
+  "transcript": "A: \"Hey Mike. I heard about your break up. You must be devastated.\"\nB: \"It's more than I can bear. I don't think I can go on.\"\nA: \"Come on Mike. It's not the end of the world.\"\nB: \"It's the end of my world. She was everything to me. I loved her so much.\"\nA: \"I remember my first break up. I remember it was the hardest thing I ever went through. So I know it must be really tough right now.\"\nB: \"Every night, I cry myself to sleep. Can you believe that I actually cry everyday?\"\nA: \"It's normal to cry. You shouldn't feel bad about it. It's the only way to let it out.\"\nB: \"How long will I feel like this? How long is the pain going to last?\"\nA: \"It's different for everyone, but it took me four months to get over Jessica.\"\nB: \"Four months... I have to live in hell for four months...\"\nA: \"But I'm ok now. I moved on and I'm dating other great people. I know you will be better.\"\nB: \"Why do you think she left me?\"\nA: \"I really don't know. Some people change and they want to go in different directions.\"\nB: \"But I loved her so much. I loved her more than anything in this world. She was my world.\"\nA: \"I know you love her.\"\nB: \"I don't think I'll be able to love anyone again.\"\nA: \"I thought that too. I thought Jessica was the only person I would ever love. But it changes. It really does. You'll get better and become a stronger person.\"\nB: \"I hope so.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=328",
+  "crawledAt": "2025-11-24T14:33:11.132Z"
+}

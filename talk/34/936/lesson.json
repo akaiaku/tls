@@ -1,0 +1,120 @@
+{
+  "id": 936,
+  "sectionId": 34,
+  "number": 6,
+  "title": "Advanced Listening Lesson #06",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=305",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L64/practice/L64P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What question did Jack ask Jane?",
+        "options": [
+          {
+            "value": "a",
+            "text": "If she wanted to smoke with him"
+          },
+          {
+            "value": "b",
+            "text": "If she has an extra cigarette"
+          },
+          {
+            "value": "c",
+            "text": "If smoking is allowed here"
+          },
+          {
+            "value": "d",
+            "text": "If they sell cigarettes here"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does Jack smoke?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because all his friends smoke and they spend a lot of time together"
+          },
+          {
+            "value": "b",
+            "text": "Because he started smoking in the Army and couldn't quit"
+          },
+          {
+            "value": "c",
+            "text": "Because his friends pressured him into smoking"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How many cigarettes does Jack smoke in a day?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Half a pack a day"
+          },
+          {
+            "value": "b",
+            "text": "One pack a day"
+          },
+          {
+            "value": "c",
+            "text": "One and a half packs a day"
+          },
+          {
+            "value": "d",
+            "text": "Two packs a day"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is Jane trying to do in this conversation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get a cigarette from Jack"
+          },
+          {
+            "value": "b",
+            "text": "To learn more about Jack"
+          },
+          {
+            "value": "c",
+            "text": "To convince Jack to quit smoking"
+          },
+          {
+            "value": "d",
+            "text": "To have small talk to kill time"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "If smoking is allowed here",
+      "Because all his friends smoke and they spend a lot of time together",
+      "Half a pack a day",
+      "To convince Jack to quit smoking"
+    ]
+  },
+  "transcript": "A: \"Hey Jane. How are you doing?\"\nB: \"Hi Jack. I'm doing great.\"\nA: \"I hope you haven't been waiting too long.\"\nB: \"No. I just got here a few minutes ago.\"\nA: \"Do you know if smoking is allowed here?\"\nB: \"I think this is a no-smoking place. Do you want to go somewhere else?\"\nA: \"That's alright. I don't need to smoke.\"\nB: \"Why don't you quit?\"\nA: \"I never thought about it. All my friends smoke, and we hang out a lot.\"\nB: \"So do you smoke by yourself?\"\nA: \"When I started I didn't, but after a few months I started smoking at home. Usually when I'm bored.\"\nB: \"Do you smoke cause you're bored?\"\nA: \"Yeah. It helps to kill the time. I also think it's out of habit. I'm so used to having a cigarette every now and then.\"\nB: \"How much do you smoke in a day?\"\nA: \"I smoke about a half pack a day.\"\nB: \"Well, I think you should quit. You know it's bad for you?\"\nA: \"I always knew it was bad, but I never thought about it.\"\nB: \"You better start thinking about it now. You might not feel the difference now, but after 10 years of smoking, you might feel it and then it will be too late.\"\nA: \"That's a good point. I'll try to quit.\"\nB: \"Good. And if you need any support, I'll always be here for you.\"\nA: \"Thanks.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=306",
+  "crawledAt": "2025-11-24T14:31:42.869Z"
+}

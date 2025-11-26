@@ -1,0 +1,93 @@
+{
+  "id": 211,
+  "sectionId": 6,
+  "number": 22,
+  "title": "Weather - Fahrenheit and Celsius",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=542",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/542-long.mp3",
+  "content": "It's unfortunate that some countries still use the Fahrenheit system. It would be so much easier if everything was in Celsius. But because the United States still uses the Fahrenheit system, knowing the conversion of Celsius to Fahrenheit will help when speaking to Americans.\n\"How do you convert Fahrenheit to Celsius?\"\n\"Well, you subtract 32 from Fahrenheit, multiply by 5 and then divide by 9.\"\n\"How do you convert Celsius to Fahrenheit?\"\n\"You multiply Celsius by 9, divide by 5, then add 32.\"\nHere is an example dialog.\nPerson A: \"What is the average temperature in Seoul during June?\"\nPerson B: \"It is usually about 26 degrees Celsius during June.\"\nPerson A: \"What is that in Fahrenheit?\"\nPerson B: \"That would be about 80 degrees Fahrenheit.\"\nUsually, it takes some time to convert degrees using the conversion method. So it's easier to have general temperatures already memorized. Here is a small table so you can quickly respond when talking with a foreigner about the temperature.\nYou don't need to remember everything. But if you know a couple of numbers you can just change the other number slightly. For example, if you know that 80 degrees is about 27 degrees Celsius, then if the temperature is 77 degrees, you can figure that it will be about 25 degrees Celsius. Also, you don't have to be very accurate. In conversation, many people just want general numbers and being off by a half a degree will not do any harm.\nFinally, during the winter months, it gets so cold that the temperature goes below 0 degrees Celsius. Let's practice a few sentences using negative numbers.\n\"How cold does it usually get in Korea?\"\n\"Usually around minus 5 degrees Celsius, but sometimes it gets as cold as minus 12 degrees.\"\n\"How cold does it get in Alaska?\"\n\"Depending on the area, but it's common for the temperature to be below 0.\"\n\"Is that in Fahrenheit or Celsius?\"\n\"Fahrenheit.\"\n\"That means it's 20 below zero!\"\nRemember, although numbers below zero are negative numbers, it's not common to say, 'Negative 2 degrees.' It's not wrong to say it and everyone will understand, however, when speaking to many people, almost everyone says 'minus 2 degrees.' Another common way to say it is below zero is to say, '2 below' as in the example above.",
+  "examples": [
+    {
+      "sentence": "How do you convert Fahrenheit to Celsius?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S1.mp3"
+    },
+    {
+      "sentence": "Well, you subtract 32 from Fahrenheit, multiply by 5 and then divide by 9.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S2.mp3"
+    },
+    {
+      "sentence": "How do you convert Celsius to Fahrenheit?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S3.mp3"
+    },
+    {
+      "sentence": "You multiply Celsius by 9, divide by 5, then add 32.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S4.mp3"
+    },
+    {
+      "sentence": "What is the average temperature in Seoul during June?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S5.mp3"
+    },
+    {
+      "sentence": "It is usually about 26 degrees Celsius during June.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S6.mp3"
+    },
+    {
+      "sentence": "What is that in Fahrenheit?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S7.mp3"
+    },
+    {
+      "sentence": "That would be about 80 degrees Fahrenheit.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S8.mp3"
+    },
+    {
+      "sentence": "How cold does it usually get in Korea?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S9.mp3"
+    },
+    {
+      "sentence": "Usually around minus 5 degrees Celsius, but sometimes it gets as cold as minus 12 degrees.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S10.mp3"
+    },
+    {
+      "sentence": "How cold does it get in Alaska?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S11.mp3"
+    },
+    {
+      "sentence": "Depending on the area, but it's common for the temperature to be below 0.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S12.mp3"
+    },
+    {
+      "sentence": "Is that in Fahrenheit or Celsius?",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S13.mp3"
+    },
+    {
+      "sentence": "Fahrenheit.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S14.mp3"
+    },
+    {
+      "sentence": "That means it's 20 below zero!",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L17/sentence/L17S15.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=543",
+  "crawledAt": "2025-11-24T14:13:44.564Z"
+}

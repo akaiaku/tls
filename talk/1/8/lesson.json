@@ -1,0 +1,63 @@
+{
+  "id": 8,
+  "sectionId": 1,
+  "number": 8,
+  "title": "I have + (noun)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2009",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2009-long.mp3",
+  "content": "By using the words 'I have' you are informing someone of something you have possession of or have acquired.\nHere are some examples:\n\"I have a cat.\"\n\"I have a nice car.\"\n\"I have a house.\"\n\"I have a computer.\"\n\"I have a headache.\"\nYou may hear the words 'cannot' and 'won't' used with 'I have.' By adding these you can express what you will not put up with or allow.\nHere are some examples:\n\"I cannot have that behavior in my house.\"\n\"I cannot have you over tonight.\"\n\"I won't have anything to do with that.\"\n\"I won't have it any other way.\"",
+  "examples": [
+    {
+      "sentence": "I have a cat.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S1.mp3"
+    },
+    {
+      "sentence": "I have a nice car.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S2.mp3"
+    },
+    {
+      "sentence": "I have a house.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S3.mp3"
+    },
+    {
+      "sentence": "I have a computer.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S4.mp3"
+    },
+    {
+      "sentence": "I have a headache.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S5.mp3"
+    },
+    {
+      "sentence": "I cannot have that behavior in my house.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S6.mp3"
+    },
+    {
+      "sentence": "I cannot have you over tonight.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S7.mp3"
+    },
+    {
+      "sentence": "I won't have anything to do with that.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S8.mp3"
+    },
+    {
+      "sentence": "I won't have it any other way.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E09/sentence/E009S9.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2010",
+  "crawledAt": "2025-11-24T14:09:19.905Z"
+}

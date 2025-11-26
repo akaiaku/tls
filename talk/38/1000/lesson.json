@@ -1,0 +1,56 @@
+{
+  "id": 1000,
+  "sectionId": 38,
+  "number": 2,
+  "title": "Active Voice and Passive Voice",
+  "url": "https://www.talkenglish.com/grammar/active-passive-voice.aspx",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Verbs are either active or passive in voice. In the active voice, the subject and verb relationship is straightforward: the subject is a do-er. In the passive voice, the subject of the sentence is not a do-er. It is shown with by + do-er or is not shown in the sentence.\nPassive voice is used when the action is the focus, not the subject. It is not important (or not known) who does the action.\n- The window is broken. (It is not known who broke the window, or it is not important to know who broke the window.)\n- The class has been canceled. (The focus is on the class being canceled. It is not important to know who canceled it.)\n- The passive voice is often used. (The focus is on the passive voice. It is not important to explain who the writer is.)\nPassive voice should be avoided when you want more clarity in writing. However, in some cases, you need to use passive voice to stress the action, not the actor. Also, passive voice can be considered more polite, as it sounds less aggressive or dramatic.\n- That building was built in 1990.\n- The car was invented about a hundred years ago.\n- I was told that Mary moved to a different country.\n- Your business is appreciated.\n- She was elected to city council.\n- It was rumored that the company would lay off a few people soon.\n- It is recommended that the billing process be shortened.\nYou can easily rewrite an active sentence to a passive sentence. The object in the active sentence becomes a subject in the passive sentence. The verb is changed to a “be” verb + past participle. The subject of the active sentence follows by or is omitted.\n- Sam wrote a letter to Jamie.\n- A letter was written to Jamie by Sam.\n- The government built a new bridge.\n- A new bridge was built by the government.\n- I recommend that you apply for this position.\n- It is recommended that you apply for this position.\n<b>[Quiz 17.1]</b>\nRewrite the following sentence in passive voice.\nJohn gave me a bunch of flowers on my birthday.\n<b>[Quiz 17.2]</b>\nChoose the sentences written incorrectly in the passive voice.\n1)I was eaten an ice cream.\n2)The song was sung by a singer.\n3)I was deceived by the TV program.\n4)The concert was finished at 12 p.m.\n5)He was written a novel.\n6)The tennis match was aired on TV.\n7)He was treated kindly.\n8)I have been managed a company since 2004.\n<b>View Answers</b>[17.1]\nI was given a bunch of flowers on my birthday by John.\nOR\nA bunch of flowers was given to me on my birthday by John.\n[17.2]\n1) I ate an ice cream.\n5) He wrote a novel.\n8) I have managed a company since 2004.",
+  "examples": [],
+  "quiz": {
+    "questions": [
+      {
+        "question": "I was eaten an ice cream.",
+        "type": "fill-in-blank",
+        "answer": "I ate an ice cream."
+      },
+      {
+        "question": "The song was sung by a singer.",
+        "type": "fill-in-blank",
+        "answer": "He wrote a novel."
+      },
+      {
+        "question": "I was deceived by the TV program.",
+        "type": "fill-in-blank",
+        "answer": "I have managed a company since 2004."
+      },
+      {
+        "question": "The concert was finished at 12 p.m.",
+        "type": "fill-in-blank"
+      },
+      {
+        "question": "He was written a novel.",
+        "type": "fill-in-blank"
+      },
+      {
+        "question": "The tennis match was aired on TV.",
+        "type": "fill-in-blank"
+      },
+      {
+        "question": "He was treated kindly.",
+        "type": "fill-in-blank"
+      },
+      {
+        "question": "I have been managed a company since 2004.",
+        "type": "fill-in-blank"
+      }
+    ],
+    "answers": []
+  },
+  "transcript": null,
+  "nextLesson": "",
+  "crawledAt": "2025-11-24T14:51:32.247Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 572,
+  "sectionId": 21,
+  "number": 7,
+  "title": "Regular Practice",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=414",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/414-long.mp3",
+  "content": "For this practice session, there will be one question with a long direction. You shouldn't read the text while listening. Instead, listen to the audio, and then without looking, try to write them down. See if you can understand on the first attempt. Here are several questions and answers for practice.\nQuestion: \"Excuse me. I'm looking for a supermarket. Do you know where the closest one is?\"\nAnswer: \"Yes. It is a couple miles away. What you want to do is go down this street for about a mile. At 112th street, turn left. Stay on 112th until you pass three lights. You should see 56th street. Turn right and you will see the supermarket just around the corner.\"\nQuestion: \"Excuse me. Do you know where Starbucks is located?\"\nAnswer: \"Yes. Go down this street. When you reach a 'T', turn right. At the next stop sign, turn left. You'll see a gas station on your left. Starbucks is directly across the street.\"\nQuestion: \"Excuse me. I'm looking for Best Western. Wasn't there one around here?\"\nAnswer: \"Yeah. Let me think... the best way to get there is by turning right at the next street. Immediately take another right on the next street. Go for about 2 miles. When you see Greenwood Avenue, turn left. Head down Greenwood for about 3 miles. I believe it will be on your left hand side. If you pass a school, that means you went too far.\"\nQuestion: \"Excuse me. How do I get to the airport from here?\"\nAnswer: \"Turn around and you'll see an entrance to the freeway. Go south. You'll have to go for about 15 miles. You should see airport signs, but just in case, it is exit number 154. Turn right off the ramp and it will be straight ahead.\"",
+  "examples": [
+    {
+      "sentence": "Excuse me. I'm looking for a supermarket. Do you know where the closest one is?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S1.mp3"
+    },
+    {
+      "sentence": "Yes. It is a couple miles away. What you want to do is go down this street for about a mile. At 112th street, turn left. Stay on 112th until you pass three lights. You should see 56th street. Turn right and you will see the supermarket just around the corner.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S2.mp3"
+    },
+    {
+      "sentence": "Excuse me. Do you know where Starbucks is located?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S3.mp3"
+    },
+    {
+      "sentence": "Yes. Go down this street. When you reach a 'T', turn right. At the next stop sign, turn left. You'll see a gas station on your left. Starbucks is directly across the street.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S4.mp3"
+    },
+    {
+      "sentence": "Excuse me. I'm looking for Best Western. Wasn't there one around here?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S5.mp3"
+    },
+    {
+      "sentence": "Yeah. Let me think... the best way to get there is by turning right at the next street. Immediately take another right on the next street. Go for about 2 miles. When you see Greenwood Avenue, turn left. Head down Greenwood for about 3 miles. I believe it will be on your left hand side. If you pass a school, that means you went too far.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S6.mp3"
+    },
+    {
+      "sentence": "Excuse me. How do I get to the airport from here?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S7.mp3"
+    },
+    {
+      "sentence": "Turn around and you'll see an entrance to the freeway. Go south. You'll have to go for about 15 miles. You should see airport signs, but just in case, it is exit number 154. Turn right off the ramp and it will be straight ahead.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T21/sentence/T21S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=415",
+  "crawledAt": "2025-11-24T14:21:44.554Z"
+}

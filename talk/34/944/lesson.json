@@ -1,0 +1,120 @@
+{
+  "id": 944,
+  "sectionId": 34,
+  "number": 14,
+  "title": "Advanced Listening Lesson #14",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=313",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L104/practice/L104P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Billy on a diet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Wants to be mentally and physically healthy prior to proposing"
+          },
+          {
+            "value": "b",
+            "text": "Wants to look sexy for her girlfriend"
+          },
+          {
+            "value": "c",
+            "text": "Feels sick all the time and wants to improve his health"
+          },
+          {
+            "value": "d",
+            "text": "Because he has diabetes and the doctor told him to lose weight"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What is a six pack in this conversation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "6 cans of cold beer"
+          },
+          {
+            "value": "b",
+            "text": "6 bottles of coke"
+          },
+          {
+            "value": "c",
+            "text": "6 packs of cigarettes"
+          },
+          {
+            "value": "d",
+            "text": "6 muscles in the stomach showing up"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What type of special is available at the gym?",
+        "options": [
+          {
+            "value": "a",
+            "text": "No specials right now, but will have one in the winter"
+          },
+          {
+            "value": "b",
+            "text": "Free for the first three months"
+          },
+          {
+            "value": "c",
+            "text": "Free enrollment and first month free"
+          },
+          {
+            "value": "d",
+            "text": "Free enrollment and half price on the first month"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What time are they going to meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In the morning"
+          },
+          {
+            "value": "b",
+            "text": "In the afternoon"
+          },
+          {
+            "value": "c",
+            "text": "At 3pm"
+          },
+          {
+            "value": "d",
+            "text": "Undecided. He will call in the morning"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Wants to be mentally and physically healthy prior to proposing",
+      "6 muscles in the stomach showing up",
+      "Free enrollment and first month free",
+      "Undecided. He will call in the morning"
+    ]
+  },
+  "transcript": "A: \"Wow Billy. Looks like you lost a lot of weight. I could hardly recognize you.\"\nB: \"Thanks. I've been on a diet for about 6 months. I'm going to ask Rachel to marry me soon and I want to be mentally and physically healthy.\"\nA: \"What does being overweight have anything to do with marriage? If you love each other, that's enough right?\"\nB: \"Yeah, but I want to show her how much she means to me, and this is one way of proving it. I am changing for the better.\"\nA: \"Good for you. Hey, when do you plan on proposing to her?\"\nB: \"I think I am going to propose to her on our 2 year anniversary.\"\nA: \"Is she expecting it, or will it be a surprise?\"\nB: \"I think she expects me to ask her one of these days, but not anytime soon.\"\nA: \"You sure you want to settle down already? You're only 25 years old?\"\nB: \"Yeah, I didn't think I would get married until I was 30, but when you know she is the one, why wait.\"\nA: \"That's true. Hey, I hope everything works out. You're going to invite me to your wedding right?\"\nB: \"Of course man.\"\nA: \"Gosh, I'm still shocked how much weight you lost. You're getting real skinny now.\"\nB: \"I am working on a six pack now. I have two lines starting to show up. I've been spending a lot of time at the gym. It is hard work, but I feel so good after working out.\"\nA: \"Where do you work out?\"\nB: \"I have a membership at Bally's. It's not too expensive and I like all the equipment they have.\"\nA: \"I've been thinking about joining a gym. Are they having any specials right now?\"\nB: \"Yeah, they do. They have free enrollment and first month free. You should come by. I'll show you around. I can take in a guest so you can try it out before signing up.\"\nA: \"That sounds good. Let's go this Saturday.\"\nB: \"Cool. I'll call you in the morning.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=314",
+  "crawledAt": "2025-11-24T14:32:09.120Z"
+}

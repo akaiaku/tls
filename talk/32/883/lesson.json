@@ -1,0 +1,120 @@
+{
+  "id": 883,
+  "sectionId": 32,
+  "number": 21,
+  "title": "Basic Listening Lesson #21",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=120",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L147/practice/L147P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the great news in the dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He received a job offer"
+          },
+          {
+            "value": "b",
+            "text": "He got a promotion at work"
+          },
+          {
+            "value": "c",
+            "text": "He gave an interview"
+          },
+          {
+            "value": "d",
+            "text": "He wants to celebrate"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How did he feel about the interview?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He thought he did bad"
+          },
+          {
+            "value": "b",
+            "text": "He thought he did good"
+          },
+          {
+            "value": "c",
+            "text": "He though he did perfect"
+          },
+          {
+            "value": "d",
+            "text": "He didn't have an interview"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What are they going to do to celebrate?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go to a party"
+          },
+          {
+            "value": "b",
+            "text": "Go watch a movie"
+          },
+          {
+            "value": "c",
+            "text": "Go drink beer"
+          },
+          {
+            "value": "d",
+            "text": "Go play pool"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who is paying for the celebration?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Doesn't mention anything about who is paying"
+          },
+          {
+            "value": "b",
+            "text": "Both of them will pay equally"
+          },
+          {
+            "value": "c",
+            "text": "The friend with the good news"
+          },
+          {
+            "value": "d",
+            "text": "The friend who heard the good news"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "He received a job offer",
+      "He thought he did bad",
+      "Go drink beer",
+      "The friend with the good news"
+    ]
+  },
+  "transcript": "A: \"Hey John. I have some great news.\"\nB: \"What happened?\"\nA: \"I got a job offer from Dell.\"\nB: \"That's great. I thought you said you didn't get the job.\"\nA: \"I thought I did bad on the interview, but I guess I was wrong. I'm so happy right now.\"\nB: \"I bet. That's great news. I'm very happy for you.\"\nA: \"Thanks. I feel like celebrating. Let's go have a beer. It's on me.\"\nB: \"Sounds good.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=121",
+  "crawledAt": "2025-11-24T14:29:13.459Z"
+}

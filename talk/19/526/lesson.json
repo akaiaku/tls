@@ -1,0 +1,48 @@
+{
+  "id": 526,
+  "sectionId": 19,
+  "number": 14,
+  "title": "Deadline",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=497",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/497-long.mp3",
+  "content": "Deadlines and due dates are common among projects and assignments. Sometimes the deadline changes or your direct needs a reminder. In any case, you should know some sentences how to convey the deadline.\n\"Here is your new project. You have two weeks to complete it. After you review the project, let me know if there will be any problems.\"\n\"You have until the end of this month to complete your assignment. It is critical that everyone completes on time.\"\n\"We have two more days to complete the test pass. If anyone cannot complete their portion on time, let me know as soon as possible.\"\n\"We are not required to send in our analysis until Wednesday, so you have a couple more days to complete it.\"\n\"Do you think you can finish the marketing report by Friday?\"\n\"Our deadline is fast approaching. I try to minimize weekend work, but we might have to work this Saturday if we do not finish on Friday.\"",
+  "examples": [
+    {
+      "sentence": "Here is your new project. You have two weeks to complete it. After you review the project, let me know if there will be any problems.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S1.mp3"
+    },
+    {
+      "sentence": "You have until the end of this month to complete your assignment. It is critical that everyone completes on time.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S2.mp3"
+    },
+    {
+      "sentence": "We have two more days to complete the test pass. If anyone cannot complete their portion on time, let me know as soon as possible.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S3.mp3"
+    },
+    {
+      "sentence": "We are not required to send in our analysis until Wednesday, so you have a couple more days to complete it.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S4.mp3"
+    },
+    {
+      "sentence": "Do you think you can finish the marketing report by Friday?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S5.mp3"
+    },
+    {
+      "sentence": "Our deadline is fast approaching. I try to minimize weekend work, but we might have to work this Saturday if we do not finish on Friday.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B51/sentence/B51S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=498",
+  "crawledAt": "2025-11-24T14:20:44.113Z"
+}

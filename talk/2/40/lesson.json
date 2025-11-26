@@ -1,0 +1,68 @@
+{
+  "id": 40,
+  "sectionId": 2,
+  "number": 11,
+  "title": "I've heard that + (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2041",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2041-long.mp3",
+  "content": "You are letting someone know that you are aware of something or that you have been informed of something that is taking place. This could be something that has already happened or something happening in the near future. 'I've' is a contraction of the words 'I have.'\nHere are some examples:\n\"I've heard that you got a new job.\"\n\"I've heard that you want to leave your job.\"\n\"I've heard that you got a new car.\"\n\"I've heard that you like to jog.\"\n\"I've heard that you fix computers.\"\n\"I've heard that you've never been to Canada.\"\n\"I've heard that you like to shop.\"\n\"I've heard that you and your boss don't get along.\"\n\"I've heard that there is no school next week.\"\n\"I've heard that your wife is a yoga instructor.\"",
+  "examples": [
+    {
+      "sentence": "I've heard that you got a new job.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S1.mp3"
+    },
+    {
+      "sentence": "I've heard that you want to leave your job.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S2.mp3"
+    },
+    {
+      "sentence": "I've heard that you got a new car.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S3.mp3"
+    },
+    {
+      "sentence": "I've heard that you like to jog.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S4.mp3"
+    },
+    {
+      "sentence": "I've heard that you fix computers.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S5.mp3"
+    },
+    {
+      "sentence": "I've heard that you've never been to Canada.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S6.mp3"
+    },
+    {
+      "sentence": "I've heard that you like to shop.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S7.mp3"
+    },
+    {
+      "sentence": "I've heard that you and your boss don't get along.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S8.mp3"
+    },
+    {
+      "sentence": "I've heard that there is no school next week.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S9.mp3"
+    },
+    {
+      "sentence": "I've heard that your wife is a yoga instructor.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E41/sentence/E041S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2042",
+  "crawledAt": "2025-11-24T14:10:01.425Z"
+}

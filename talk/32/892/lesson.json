@@ -1,0 +1,120 @@
+{
+  "id": 892,
+  "sectionId": 32,
+  "number": 30,
+  "title": "Basic Listening Lesson #30",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=129",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L161/practice/L161P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What do they plan on doing tonight?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go play basketball with friends"
+          },
+          {
+            "value": "b",
+            "text": "Work all night long for tomorrow's presentation"
+          },
+          {
+            "value": "c",
+            "text": "Drink and get drunk"
+          },
+          {
+            "value": "d",
+            "text": "Stay home and rest"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why do they plan on going out tonight?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To forget about work"
+          },
+          {
+            "value": "b",
+            "text": "Because work is stressful"
+          },
+          {
+            "value": "c",
+            "text": "To get drunk"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How late do they plan on staying out tonight?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Until the next morning"
+          },
+          {
+            "value": "b",
+            "text": "Not too late"
+          },
+          {
+            "value": "c",
+            "text": "After they are both drunk"
+          },
+          {
+            "value": "d",
+            "text": "Until 3 in the morning"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where do they plan on going?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To the local bar"
+          },
+          {
+            "value": "b",
+            "text": "To a restaurant"
+          },
+          {
+            "value": "c",
+            "text": "To a club in downtown"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Drink and get drunk",
+      "All of the above",
+      "Not too late",
+      "None of the above"
+    ]
+  },
+  "transcript": "A: \"Hey Mike. What are you doing tonight?\"\nB: \"Nothing planned. How about you?\"\nA: \"Work is kicking my ass. I'm so stressed. Let's go grab a drink.\"\nB: \"I'm always up for a drink. To tell you the truth, it's been quite stressful here too.\"\nA: \"I say we get drunk tonight. I don't want to think about all this stuff.\"\nB: \"But we have to work tomorrow.\"\nA: \"We won't stay out too late. I just need to forget about work.\"\nB: \"I hear ya. Let's do it.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=130",
+  "crawledAt": "2025-11-24T14:29:38.007Z"
+}

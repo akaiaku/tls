@@ -1,0 +1,38 @@
+{
+  "id": 508,
+  "sectionId": 18,
+  "number": 40,
+  "title": "Telling person you will call them back",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=479",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/479-long.mp3",
+  "content": "If you receive a question from a client or customer that you do not know, you can either tell them that you will find the answer for them, or tell them to call someone else. Let's learn how to do these things professionally.\n\"I don't have the answer right off hand. I'll need to find that information for you. Will it be ok if I call you back in about 30 minutes?\"\n\"I believe I can find that information for you. It might take 10 minutes or so. Can I call you back with the information?\"\n\"I'm not sure about the answer. I'll find the information and call you right back. Will that be ok?\"\n\"I'm not sure about this one. Let me ask my manager. Can you please hold?\"",
+  "examples": [
+    {
+      "sentence": "I don't have the answer right off hand. I'll need to find that information for you. Will it be ok if I call you back in about 30 minutes?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B36/sentence/B36S1.mp3"
+    },
+    {
+      "sentence": "I believe I can find that information for you. It might take 10 minutes or so. Can I call you back with the information?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B36/sentence/B36S2.mp3"
+    },
+    {
+      "sentence": "I'm not sure about the answer. I'll find the information and call you right back. Will that be ok?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B36/sentence/B36S3.mp3"
+    },
+    {
+      "sentence": "I'm not sure about this one. Let me ask my manager. Can you please hold?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B36/sentence/B36S4.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=480",
+  "crawledAt": "2025-11-24T14:20:20.392Z"
+}

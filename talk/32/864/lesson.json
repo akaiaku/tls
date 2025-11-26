@@ -1,0 +1,120 @@
+{
+  "id": 864,
+  "sectionId": 32,
+  "number": 2,
+  "title": "Basic Listening Lesson #02",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=101",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L23/practice/L23P4.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What day are they planning on seeing a movie?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Friday"
+          },
+          {
+            "value": "b",
+            "text": "Saturday"
+          },
+          {
+            "value": "c",
+            "text": "Sunday"
+          },
+          {
+            "value": "d",
+            "text": "Wednesday"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "When is the new movie supposed to come out?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Friday"
+          },
+          {
+            "value": "b",
+            "text": "Saturday"
+          },
+          {
+            "value": "c",
+            "text": "Sunday"
+          },
+          {
+            "value": "d",
+            "text": "Wednesday"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What do they plan on doing before the movie?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Nothing"
+          },
+          {
+            "value": "b",
+            "text": "Eat Dinner"
+          },
+          {
+            "value": "c",
+            "text": "Play pool"
+          },
+          {
+            "value": "d",
+            "text": "Eat Lunch"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Where do they plan on meeting?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In front of the movie theater"
+          },
+          {
+            "value": "b",
+            "text": "In front of McDonalds"
+          },
+          {
+            "value": "c",
+            "text": "In front of Tower Records"
+          },
+          {
+            "value": "d",
+            "text": "In front of the subway entrance"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Saturday",
+      "Friday",
+      "Eat Lunch",
+      "In front of Tower Records"
+    ]
+  },
+  "transcript": "A: \"What should we do this Saturday?\"\nB: \"Rocky six is suppose to come out this Friday.\"\nA: \"Yeah, but I don't know if it is going to be any good.\"\nB: \"The only reason I want to see it is because I have seen the previous five.\"\nA: \"True. Ok. Let's see it this Saturday.\"\nB: \"How about we hook up for lunch at 12:00, and then go see the movie afterwards.\"\nA: \"Sounds like a plan. Let's meet in front of Tower Records at 12:00.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=102",
+  "crawledAt": "2025-11-24T14:28:17.547Z"
+}

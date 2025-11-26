@@ -1,0 +1,48 @@
+{
+  "id": 514,
+  "sectionId": 19,
+  "number": 2,
+  "title": "Asking for help or offering help",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=485",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/485-long.mp3",
+  "content": "When you offer to help someone, you are asking your co-worker if they want to give you some of their work. Here are a couple of ways you can offer some help.\n\"I finished my project already so I have extra bandwidth. Let me know if you need help with anything.\"\nBandwidth is usually used as a networking terminology. But in this context, it means having extra time.\n\"You're doing the analysis on ABC Company? I did that last year. If you need any help, just let me know.\"\n\"I'm pretty familiar with your project so if you have any questions, feel free to ask me.\"\nAsking for help is a little more difficult. You will have to see what the work environment is like and what type of relationship you have with your co-workers.\n\"I'm having trouble implementing Plan A on ABC Company. Can you look at my work and see if I am missing a step?\"\n\"Can you help me analyze the finance data? This is my first time and I don't want to screw it up.\"\n\"Do you have a few minutes to help me with the data migration tool? I can't figure it out.\"",
+  "examples": [
+    {
+      "sentence": "I finished my project already so I have extra bandwidth. Let me know if you need help with anything.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S1.mp3"
+    },
+    {
+      "sentence": "You're doing the analysis on ABC Company? I did that last year. If you need any help, just let me know.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S2.mp3"
+    },
+    {
+      "sentence": "I'm pretty familiar with your project so if you have any questions, feel free to ask me.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S3.mp3"
+    },
+    {
+      "sentence": "I'm having trouble implementing Plan A on ABC Company. Can you look at my work and see if I am missing a step?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S4.mp3"
+    },
+    {
+      "sentence": "Can you help me analyze the finance data? This is my first time and I don't want to screw it up.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S5.mp3"
+    },
+    {
+      "sentence": "Do you have a few minutes to help me with the data migration tool? I can't figure it out.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B41/sentence/B41S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=486",
+  "crawledAt": "2025-11-24T14:20:28.315Z"
+}

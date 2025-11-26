@@ -1,0 +1,120 @@
+{
+  "id": 886,
+  "sectionId": 32,
+  "number": 24,
+  "title": "Basic Listening Lesson #24",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=123",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L151/practice/L151P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is the person so angry?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He lost his car"
+          },
+          {
+            "value": "b",
+            "text": "He got into a car accident"
+          },
+          {
+            "value": "c",
+            "text": "His car got damaged by a tow company"
+          },
+          {
+            "value": "d",
+            "text": "No one is angry in this dialog"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How is he going to solve the problem with his car?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Go to a auto body shop"
+          },
+          {
+            "value": "b",
+            "text": "Go to the company"
+          },
+          {
+            "value": "c",
+            "text": "Go to court"
+          },
+          {
+            "value": "d",
+            "text": "Nothing"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How much will it cost to repair the car?",
+        "options": [
+          {
+            "value": "a",
+            "text": "$800"
+          },
+          {
+            "value": "b",
+            "text": "$1500"
+          },
+          {
+            "value": "c",
+            "text": "$4000"
+          },
+          {
+            "value": "d",
+            "text": "$6800"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Who will be used as a witness?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A stranger in the street"
+          },
+          {
+            "value": "b",
+            "text": "A friend who witnessed everything"
+          },
+          {
+            "value": "c",
+            "text": "A cop who was there"
+          },
+          {
+            "value": "d",
+            "text": "His companies lawyer"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "His car got damaged by a tow company",
+      "Go to court",
+      "$",
+      "A cop who was there"
+    ]
+  },
+  "transcript": "A: \"What happened to your car?\"\nB: \"A tow truck was towing my car and put all those dents in my car.\"\nA: \"Are they going to pay you for the damages?\"\nB: \"They're saying it was already there.\"\nA: \"What the hell. That doesn't make sense. What are you going to do.\"\nB: \"I have to go to court. A cop was there so he can prove that the damage wasn't there.\"\nA: \"That sucks. I'd be pissed if that happened to me.\"\nB: \"I got an estimate and it's four thousand dollars.\"\nA: \"Oh my gosh. Damn... screw the court, I would burn down their store.\"\nB: \"We'll see what happens after court.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=124",
+  "crawledAt": "2025-11-24T14:29:21.726Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 491,
+  "sectionId": 18,
+  "number": 23,
+  "title": "Asking for Email Address",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=462",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/462-long.mp3",
+  "content": "Email is a daily part of the office life. Everybody and every company uses email as a way to communicate quickly. This lesson will cover all aspects of using the email.\n\"Can I have your email address?\"\n\"What is your email address?\"\n\"Do you have an email account?\"\n\"My email address is someone at hotmail dot com (someone@hotmail.com).\"\n\"It is someone@hotmail.com.\"\n\"Do you have his email address?\"\n\"What was her email address again?\"",
+  "examples": [
+    {
+      "sentence": "Can I have your email address?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S1.mp3"
+    },
+    {
+      "sentence": "What is your email address?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S2.mp3"
+    },
+    {
+      "sentence": "Do you have an email account?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S3.mp3"
+    },
+    {
+      "sentence": "My email address is someone at hotmail dot com (someone@hotmail.com).",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S4.mp3"
+    },
+    {
+      "sentence": "It is someone@hotmail.com.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S5.mp3"
+    },
+    {
+      "sentence": "Do you have his email address?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S6.mp3"
+    },
+    {
+      "sentence": "What was her email address again?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B20/sentence/B20S7.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=463",
+  "crawledAt": "2025-11-24T14:19:58.024Z"
+}

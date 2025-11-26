@@ -1,0 +1,120 @@
+{
+  "id": 925,
+  "sectionId": 33,
+  "number": 29,
+  "title": "Intermediate Listening Lesson #29",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=228",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L165/practice/L165P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why does Sarah look so terrible?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Her dog died"
+          },
+          {
+            "value": "b",
+            "text": "Her fish died"
+          },
+          {
+            "value": "c",
+            "text": "Her grandmother passed away"
+          },
+          {
+            "value": "d",
+            "text": "Her grandfather passed away"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What was the cause of death?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Natural"
+          },
+          {
+            "value": "b",
+            "text": "Car accident"
+          },
+          {
+            "value": "c",
+            "text": "Attacked by another dog"
+          },
+          {
+            "value": "d",
+            "text": "Cat ate the fish"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What recommendation did the friend give Sarah?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To forget about everything"
+          },
+          {
+            "value": "b",
+            "text": "To visit the cemetery often"
+          },
+          {
+            "value": "c",
+            "text": "To look at old photos"
+          },
+          {
+            "value": "d",
+            "text": "To buy another pet"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where are they going now?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To the cemetery"
+          },
+          {
+            "value": "b",
+            "text": "To the pet store"
+          },
+          {
+            "value": "c",
+            "text": "To eat something"
+          },
+          {
+            "value": "d",
+            "text": "To the hospital"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Her grandmother passed away",
+      "Natural",
+      "To visit the cemetery often",
+      "To eat something"
+    ]
+  },
+  "transcript": "A: \"Sarah. You look terrible. What's wrong?\"\nB: \"My grandmother just passed away.\"\nA: \"I'm so sorry to hear that. When did this happen?\"\nB: \"A couple of days ago. I just go back from the funeral.\"\nA: \"Is there anything I can do?\"\nB: \"No... not really. The sad thing is that I wasn't there when she died. I really wanted to be there one last time.\"\nA: \"I'm sure she knew you loved her. Did she pass away in the hospital?\"\nB: \"Yeah. She died in her sleep.\"\nA: \"I'm sorry she's gone.\"\nB: \"At least she didn't suffer.\"\nA: \"I think your grandmother would want you to think of all the good times you spent together.\"\nB: \"I know. But I miss her.\"\nA: \"When my grandmother passed away, I frequently visited her in the cemetery. I always talked to her. Even though she wasn't there, I somehow knew she heard what I said.\"\nB: \"Yeah? That's what I was thinking too. Thanks.\"\nA: \"It looks like you haven't eaten anything all day. We should get you something to eat.\"\nB: \"You're right... I should eat something. Let's go.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=229",
+  "crawledAt": "2025-11-24T14:31:12.039Z"
+}

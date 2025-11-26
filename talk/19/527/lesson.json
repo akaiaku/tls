@@ -1,0 +1,43 @@
+{
+  "id": 527,
+  "sectionId": 19,
+  "number": 15,
+  "title": "Subordinate asking you Questions",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=498",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/498-long.mp3",
+  "content": "All directs at one time or another asks you questions on how to do something, or asks what something is. The average employee will usually ask you something that is obvious and you simply tell them. Sometimes however, a smart employee asks difficult questions that you are not sure about.\nIf an employee asks you a factual question that you are not sure about, you can always refer them to other sources.\n\"I'm not sure about that one. I think the information you are looking for is in a manual I saw in the file cabinet. Why don't you check there?\"\n\"Do a search on Google and see if you can find the information there.\"\n\"I think Stacy will know the answer. She is very familiar with that topic.\"\nIf the question is more process related where it involves an opinion, you can answer telling them what you would do.\n\"I'm not sure on the exact procedure, but if I were you, I would do the forth step before the third one.\"\n\"I don't think we ever decided on a specific way. I think it might be better to do this before that.\"\nThese are vague sentences, so you should fill in the details depending on your situation.",
+  "examples": [
+    {
+      "sentence": "I'm not sure about that one. I think the information you are looking for is in a manual I saw in the file cabinet. Why don't you check there?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B52/sentence/B52S1.mp3"
+    },
+    {
+      "sentence": "Do a search on Google and see if you can find the information there.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B52/sentence/B52S2.mp3"
+    },
+    {
+      "sentence": "I think Stacy will know the answer. She is very familiar with that topic.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B52/sentence/B52S3.mp3"
+    },
+    {
+      "sentence": "I'm not sure on the exact procedure, but if I were you, I would do the forth step before the third one.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B52/sentence/B52S4.mp3"
+    },
+    {
+      "sentence": "I don't think we ever decided on a specific way. I think it might be better to do this before that.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B52/sentence/B52S5.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=499",
+  "crawledAt": "2025-11-24T14:20:45.424Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 337,
+  "sectionId": 12,
+  "number": 17,
+  "title": "Basketball - Talking about Kids",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=689",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/689-long.mp3",
+  "content": "\"My daughter made her junior high basketball team.\"\n\"My son is playing for his high school team.\"\n\"I have to drive my son to basketball practice every Tuesdays and Thursdays.\"\n\"I'm going to watch my daughter's basketball game tomorrow night.\"\n\"Your daughter is pretty athletic. She plays both soccer and basketball.\"\n\"Johnny started dribbling the ball since he was 3 years old.\"\n\"Does your son play any other sport besides basketball?\"\n\"Your kid is quite a basketball player.\"",
+  "examples": [
+    {
+      "sentence": "My daughter made her junior high basketball team.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S1.mp3"
+    },
+    {
+      "sentence": "My son is playing for his high school team.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S2.mp3"
+    },
+    {
+      "sentence": "I have to drive my son to basketball practice every Tuesdays and Thursdays.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S3.mp3"
+    },
+    {
+      "sentence": "I'm going to watch my daughter's basketball game tomorrow night.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S4.mp3"
+    },
+    {
+      "sentence": "Your daughter is pretty athletic. She plays both soccer and basketball.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S5.mp3"
+    },
+    {
+      "sentence": "Johnny started dribbling the ball since he was 3 years old.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S6.mp3"
+    },
+    {
+      "sentence": "Does your son play any other sport besides basketball?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S7.mp3"
+    },
+    {
+      "sentence": "Your kid is quite a basketball player.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L124/sentence/L124S8.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=690",
+  "crawledAt": "2025-11-24T14:16:32.716Z"
+}

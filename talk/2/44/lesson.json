@@ -1,0 +1,68 @@
+{
+  "id": 44,
+  "sectionId": 2,
+  "number": 15,
+  "title": "Can I + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2045",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2045-long.mp3",
+  "content": "When ending a sentence with a question mark (?) you are asking the person or people you are talking to a question for which you would like an answer. Here you are asking permission to do a particular action.\nHere are some examples:\n\"Can I answer your question?\"\n\"Can I attend the event?\"\n\"Can I move to another spot?\"\n\"Can I call you tomorrow?\"\n\"Can I complete this later?\"\n\"Can I explain myself?\"\n\"Can I help you with your homework?\"\n\"Can I include you in our plans?\"\n\"Can I introduce you to my co-workers?\"\n\"Can I inform you of some bad news?\"",
+  "examples": [
+    {
+      "sentence": "Can I answer your question?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S1.mp3"
+    },
+    {
+      "sentence": "Can I attend the event?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S2.mp3"
+    },
+    {
+      "sentence": "Can I move to another spot?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S3.mp3"
+    },
+    {
+      "sentence": "Can I call you tomorrow?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S4.mp3"
+    },
+    {
+      "sentence": "Can I complete this later?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S5.mp3"
+    },
+    {
+      "sentence": "Can I explain myself?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S6.mp3"
+    },
+    {
+      "sentence": "Can I help you with your homework?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S7.mp3"
+    },
+    {
+      "sentence": "Can I include you in our plans?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S8.mp3"
+    },
+    {
+      "sentence": "Can I introduce you to my co-workers?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S9.mp3"
+    },
+    {
+      "sentence": "Can I inform you of some bad news?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E45/sentence/E045S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2046",
+  "crawledAt": "2025-11-24T14:10:06.643Z"
+}

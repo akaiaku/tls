@@ -1,0 +1,63 @@
+{
+  "id": 41,
+  "sectionId": 2,
+  "number": 12,
+  "title": "It occurred to me that (subject + verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2042",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2042-long.mp3",
+  "content": "The word 'occurred' informs someone that something has come to mind or has been found. You are letting someone know that you suddenly have thought or remembered about something.\nHere are some examples:\n\"It occurred to me that I forgot your birthday.\"\n\"It occurred to me that we both belong to the same gym.\"\n\"It occurred to me that we enjoy a lot of the same things.\"\n\"It occurred to me the price for homes are more expensive here.\"\n\"It occurred to me that eating healthy makes me feel better.\"\nUsing the word 'had' or 'has' can change what you are saying to represent something remembered in a past time.\nHere are some examples:\n\"It had occurred to me that I forgot something at the grocery.\"\n\"It had occurred to me I might need to change my email address.\"\n\"It has occurred to me I forgot my mom's birthday.\"\n\"It has occurred to me before.\"",
+  "examples": [
+    {
+      "sentence": "It occurred to me that I forgot your birthday.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S1.mp3"
+    },
+    {
+      "sentence": "It occurred to me that we both belong to the same gym.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S2.mp3"
+    },
+    {
+      "sentence": "It occurred to me that we enjoy a lot of the same things.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S3.mp3"
+    },
+    {
+      "sentence": "It occurred to me the price for homes are more expensive here.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S4.mp3"
+    },
+    {
+      "sentence": "It occurred to me that eating healthy makes me feel better.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S5.mp3"
+    },
+    {
+      "sentence": "It had occurred to me that I forgot something at the grocery.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S6.mp3"
+    },
+    {
+      "sentence": "It had occurred to me I might need to change my email address.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S7.mp3"
+    },
+    {
+      "sentence": "It has occurred to me I forgot my mom's birthday.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S8.mp3"
+    },
+    {
+      "sentence": "It has occurred to me before.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E42/sentence/E042S9.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2043",
+  "crawledAt": "2025-11-24T14:10:02.734Z"
+}

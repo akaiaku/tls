@@ -1,0 +1,120 @@
+{
+  "id": 904,
+  "sectionId": 33,
+  "number": 8,
+  "title": "Intermediate Listening Lesson #08",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=207",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L47/practice/L47P5.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What month or season do you think it is in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Summer"
+          },
+          {
+            "value": "b",
+            "text": "Autumn"
+          },
+          {
+            "value": "c",
+            "text": "Winter"
+          },
+          {
+            "value": "d",
+            "text": "Spring"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What did Mark do over the summer vacation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Traveled to Europe"
+          },
+          {
+            "value": "b",
+            "text": "Played in a basketball league"
+          },
+          {
+            "value": "c",
+            "text": "Worked at a restaurant"
+          },
+          {
+            "value": "d",
+            "text": "Stayed home and watched TV"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why did Nicole drop out of school?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She was depressed and needed a break"
+          },
+          {
+            "value": "b",
+            "text": "Her mother got sick and needed time to take care of her"
+          },
+          {
+            "value": "c",
+            "text": "She got a job offer that she couldn't refuse"
+          },
+          {
+            "value": "d",
+            "text": "She finished school early"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How many University years has Stacy completed?",
+        "options": [
+          {
+            "value": "a",
+            "text": "1"
+          },
+          {
+            "value": "b",
+            "text": "2"
+          },
+          {
+            "value": "c",
+            "text": "3"
+          },
+          {
+            "value": "d",
+            "text": "4"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Autumn",
+      "Worked at a restaurant",
+      "She got a job offer that she couldn't refuse",
+      "2"
+    ]
+  },
+  "transcript": "A: \"Hi Mark.\"\nB: \"Oh, hi Stacy.\"\nA: \"How was your summer vacation?\"\nB: \"I worked over the summer at a restaurant. Have to make tuition money right? What did you do?\"\nA: \"I took summer school. I withdrew from two of my classes last year so I wanted to make them up.\"\nB: \"So are you officially a junior now?\"\nA: \"Yeah. And I have 5 credits to spare. I only needed to take 10 credits over the summer, but I took 15 because the price was the same.\"\nB: \"That makes sense. So where is Nicole?\"\nA: \"She dropped out of school completely.\"\nB: \"Really? Why?\"\nA: \"She worked at a startup company as an intern and since the business did well, they asked her if she wanted to work full time.\"\nB: \"Wow. She's so lucky. She doesn't have a degree and she already has a job.\"\nA: \"It sounds good now, but I'm traditional. I want the degree, so I wouldn't have accepted the offer.\"\nB: \"Do you know how much they are paying her?\"\nA: \"I don't know. But I bet it must have been a good offer, or she wouldn't have accepted it.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=208",
+  "crawledAt": "2025-11-24T14:30:11.234Z"
+}

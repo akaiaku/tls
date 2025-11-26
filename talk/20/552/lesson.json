@@ -1,0 +1,48 @@
+{
+  "id": 552,
+  "sectionId": 20,
+  "number": 4,
+  "title": "Finding the Gate",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=390",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/390-long.mp3",
+  "content": "They will usually tell you what gate you should go to, but if you need to ask again, I will provide an example question. Also, you might need to ask someone where the gate is located.\n\"Which gate did you say it was?\"\n\"What was the gate number again?\"\n\"Can you point me towards the gate?\"\n\"How do I get to the gate again?\"\n\"How do I get to gate C2?\"\n\"Where is gate C2?\"",
+  "examples": [
+    {
+      "sentence": "Which gate did you say it was?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S1.mp3"
+    },
+    {
+      "sentence": "What was the gate number again?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S2.mp3"
+    },
+    {
+      "sentence": "Can you point me towards the gate?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S3.mp3"
+    },
+    {
+      "sentence": "How do I get to the gate again?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S4.mp3"
+    },
+    {
+      "sentence": "How do I get to gate C2?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S5.mp3"
+    },
+    {
+      "sentence": "Where is gate C2?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T4/sentence/T4S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessonpractice.aspx?ALID=394",
+  "crawledAt": "2025-11-24T14:21:18.263Z"
+}

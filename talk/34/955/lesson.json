@@ -1,0 +1,120 @@
+{
+  "id": 955,
+  "sectionId": 34,
+  "number": 25,
+  "title": "Advanced Listening Lesson #25",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=324",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L144/practice/L144P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is a true statement about Samantha?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She is a tall"
+          },
+          {
+            "value": "b",
+            "text": "She is dating Matt"
+          },
+          {
+            "value": "c",
+            "text": "She is very smart"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "One of the guys in this conversation doesn't have a girlfriend. What is the reason?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He doesn't know how to talk to girls"
+          },
+          {
+            "value": "b",
+            "text": "He is shy and nervous around girls"
+          },
+          {
+            "value": "c",
+            "text": "He says stupid things around girls"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "If the guy has a problem around pretty girls, what is his friend recommending?",
+        "options": [
+          {
+            "value": "a",
+            "text": "That he needs to work on it and practice"
+          },
+          {
+            "value": "b",
+            "text": "To prepare things to say ahead of time"
+          },
+          {
+            "value": "c",
+            "text": "To date ugly girls"
+          },
+          {
+            "value": "d",
+            "text": "To bring a friend with him when he talks to girls"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What does being shallow represent in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It represents a persons inner depth"
+          },
+          {
+            "value": "b",
+            "text": "It represents that the water is not deep"
+          },
+          {
+            "value": "c",
+            "text": "It represents that he is thinking only skin deep"
+          },
+          {
+            "value": "d",
+            "text": "Both A and C"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "She is dating Matt",
+      "All of the above",
+      "To date ugly girls",
+      "Both A and C"
+    ]
+  },
+  "transcript": "A: \"What do you think about Matt's new girlfriend?\"\nB: \"Samantha? She's pretty hot. I can't believe she fell for Matt.\"\nA: \"I don't seem to have much luck with girls.\"\nB: \"Why do you think that is?\"\nA: \"I say the stupidest things around girls. I don't know why I do that?\"\nB: \"It's because you're nervous. Best thing to do is not say a word until you know it's not stupid.\"\nA: \"It doesn't work that way. I stop thinking around pretty girls.\"\nB: \"I know. You got to date a girl who isn't that pretty then.\"\nA: \"What the story of your love life these days?\"\nB: \"It's only been a couple of months that I broke up with Sarah. But I think it's about time to start hunting again.\"\nA: \"Who's your type?\"\nB: \"Anybody with a nice body and a pretty face.\"\nA: \"How about their personality or their character?\"\nB: \"I'm not thinking about marriage, so those things don't matter.\"\nA: \"You're so shallow.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=325",
+  "crawledAt": "2025-11-24T14:33:03.124Z"
+}

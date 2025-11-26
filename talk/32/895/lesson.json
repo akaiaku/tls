@@ -1,0 +1,120 @@
+{
+  "id": 895,
+  "sectionId": 32,
+  "number": 33,
+  "title": "Basic Listening Lesson #33",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=132",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L181/practice/L181P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is Mark doing right now?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Playing basketball"
+          },
+          {
+            "value": "b",
+            "text": "Watching TV"
+          },
+          {
+            "value": "c",
+            "text": "Studying for an exam"
+          },
+          {
+            "value": "d",
+            "text": "Eating lunch"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What day of the week is it?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Wednesday"
+          },
+          {
+            "value": "b",
+            "text": "Friday"
+          },
+          {
+            "value": "c",
+            "text": "Saturday"
+          },
+          {
+            "value": "d",
+            "text": "Sunday"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What are they planning on doing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Planning to watch TV"
+          },
+          {
+            "value": "b",
+            "text": "Planning to play basketball"
+          },
+          {
+            "value": "c",
+            "text": "Planning on going to Starbucks"
+          },
+          {
+            "value": "d",
+            "text": "Planning on shopping with their girlfriend"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When are they going to meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Tomorrow after lunch"
+          },
+          {
+            "value": "b",
+            "text": "In 30 minutes"
+          },
+          {
+            "value": "c",
+            "text": "In 1 hour"
+          },
+          {
+            "value": "d",
+            "text": "On Sunday"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Watching TV",
+      "Saturday",
+      "Planning on going to Starbucks",
+      "In 30 minutes"
+    ]
+  },
+  "transcript": "A: \"Hey Mark. What are you doing?\"\nB: \"Just watching some TV.\"\nA: \"Anything interesting on?\"\nB: \"Not really. Just watching the sports highlight on ESPN.\"\nA: \"So I take it you're pretty bored too.\"\nB: \"Just killing time until I find something to do. What are you up to?\"\nA: \"It's Saturday and we are sitting at home doing nothing. What's wrong with us?\"\nB: \"You wanna shoot some hoops?\"\nA: \"I already tried to call up some of the guys, but they are all busy.\"\nB: \"Where's your girlfriend? I thought you were going out with her today.\"\nA: \"She's out shopping with her friends.\"\nB: \"Let's go to Starbucks and think of something to do then.\"\nA: \"Aright. Do you have any cigarettes?\"\nB: \"I only have a couple left. Why don't you pick some up on the way.\"\nA: \"Ok. See you there in about 30 minutes.\"\nB: \"Aright. See you there.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=133",
+  "crawledAt": "2025-11-24T14:29:46.218Z"
+}

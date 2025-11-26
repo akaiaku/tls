@@ -1,0 +1,120 @@
+{
+  "id": 913,
+  "sectionId": 33,
+  "number": 17,
+  "title": "Intermediate Listening Lesson #17",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=216",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L91/practice/L91P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is Jack going to ask Martha?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To get married"
+          },
+          {
+            "value": "b",
+            "text": "To be his girlfriend"
+          },
+          {
+            "value": "c",
+            "text": "To go fishing with her father"
+          },
+          {
+            "value": "d",
+            "text": "To borrow her father's car"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What does it mean \"to have balls\"?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To like sports"
+          },
+          {
+            "value": "b",
+            "text": "To be frightened of everything"
+          },
+          {
+            "value": "c",
+            "text": "To be brave"
+          },
+          {
+            "value": "d",
+            "text": "To be a coach of a sporting team"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How is Jack going to ask Martha?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Ask her in a restaurant"
+          },
+          {
+            "value": "b",
+            "text": "Ask her in a public area"
+          },
+          {
+            "value": "c",
+            "text": "Ask her father in front of her"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When did Jack decide to ask this question?",
+        "options": [
+          {
+            "value": "a",
+            "text": "About 2 weeks ago"
+          },
+          {
+            "value": "b",
+            "text": "About a month ago"
+          },
+          {
+            "value": "c",
+            "text": "Last night"
+          },
+          {
+            "value": "d",
+            "text": "Today"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "To get married",
+      "To be brave",
+      "Ask her father in front of her",
+      "About 2 weeks ago"
+    ]
+  },
+  "transcript": "A: \"Hey Jack. What's going on?\"\nB: \"Hey Matt. I'm going to ask Martha to marry me?\"\nA: \"Really? When did you decide this?\"\nB: \"I always knew she was the one, but I decided to pop the big question about 2 weeks ago. I'm just debating on how to do it.\"\nA: \"That's exciting man.\"\nB: \"So how did you propose?\"\nA: \"You shouldn't use my example. It wasn't special. I kind of wish I made it more special but it's too late now.\"\nB: \"What do you think I should do?\"\nA: \"There are a lot of options. You can surprise her over dinner, or ask her in a public area, or if you have the balls, ask her father in front of her.\"\nB: \"I never thought about that.\"\nA: \"Thought about what?\"\nB: \"Asking her father in front of her. How do you think she will react?\"\nA: \"I don't know. You should know how she's going to react. She is your girlfriend.\"\nB: \"I think that's the idea I was looking for. Thanks man.\"\nA: \"Don't mention it. Good luck. You're going to need it.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=217",
+  "crawledAt": "2025-11-24T14:30:37.895Z"
+}

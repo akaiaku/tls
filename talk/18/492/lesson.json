@@ -1,0 +1,78 @@
+{
+  "id": 492,
+  "sectionId": 18,
+  "number": 24,
+  "title": "Requesting information through email",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=463",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/463-long.mp3",
+  "content": "\"Can you send it to my email address?\"\n\"You can send it to me through email.\"\n\"Can you email it to me?\"\n\"Can I email it to you?\"\n\"Can I send you the information through email?\"\nWhenever you send an email to an account that doesn't exist, you get an automated email saying the mail was not delivered. You can use these sentences if you are in this situation.\n\"Can I verify your email address? The address I have on file appears to be incorrect.\"\n\"I am unable to email it to you. Can you tell me your email address again?\"\n\"I am getting a mail saying it is undeliverable. I might have misspelled it. Can I double check your email address?\"\n\"The email address I sent it to was someone@hotmail.com. Is this correct?\"\n\"I sent the email to someone@hotmail.com. Didn't you get it?\"\n\"That's the wrong email address. My email address is someone@hotmail.net.\"\n\"Oh... I see the problem. My email address is some1@hotmail.com.\"",
+  "examples": [
+    {
+      "sentence": "Can you send it to my email address?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S1.mp3"
+    },
+    {
+      "sentence": "You can send it to me through email.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S2.mp3"
+    },
+    {
+      "sentence": "Can you email it to me?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S3.mp3"
+    },
+    {
+      "sentence": "Can I email it to you?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S4.mp3"
+    },
+    {
+      "sentence": "Can I send you the information through email?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S5.mp3"
+    },
+    {
+      "sentence": "Can I verify your email address? The address I have on file appears to be incorrect.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S6.mp3"
+    },
+    {
+      "sentence": "I am unable to email it to you. Can you tell me your email address again?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S7.mp3"
+    },
+    {
+      "sentence": "I am getting a mail saying it is undeliverable. I might have misspelled it. Can I double check your email address?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S8.mp3"
+    },
+    {
+      "sentence": "The email address I sent it to was someone@hotmail.com. Is this correct?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S9.mp3"
+    },
+    {
+      "sentence": "I sent the email to someone@hotmail.com. Didn't you get it?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S10.mp3"
+    },
+    {
+      "sentence": "That's the wrong email address. My email address is someone@hotmail.net.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S11.mp3"
+    },
+    {
+      "sentence": "Oh... I see the problem. My email address is some1@hotmail.com.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B21/sentence/B21S12.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=464",
+  "crawledAt": "2025-11-24T14:19:59.330Z"
+}

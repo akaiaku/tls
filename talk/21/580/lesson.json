@@ -1,0 +1,48 @@
+{
+  "id": 580,
+  "sectionId": 21,
+  "number": 15,
+  "title": "Bank - Currency Exchange",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=424",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/424-long.mp3",
+  "content": "If you are a traveler, then you don't need to open a bank account. For more banking specifics, feel free to ask us.\n\"Do you exchange foreign currency?\"\n\"What is your exchange rate for the Korean Won?\"\n\"Can I cash my traveler's checks here?\"\n\"The exchange rate is .0009 cents for one won.\"\n\"I would like to exchange 500,000 won please.\"\n\"500,000 won at the current exchange rate is $450. Here you go.\"",
+  "examples": [
+    {
+      "sentence": "Do you exchange foreign currency?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S1.mp3"
+    },
+    {
+      "sentence": "What is your exchange rate for the Korean Won?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S2.mp3"
+    },
+    {
+      "sentence": "Can I cash my traveler's checks here?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S3.mp3"
+    },
+    {
+      "sentence": "The exchange rate is .0009 cents for one won.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S4.mp3"
+    },
+    {
+      "sentence": "I would like to exchange 500,000 won please.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S5.mp3"
+    },
+    {
+      "sentence": "500,000 won at the current exchange rate is $450. Here you go.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/T28/sentence/T28S6.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=425",
+  "crawledAt": "2025-11-24T14:21:55.650Z"
+}

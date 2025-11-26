@@ -1,0 +1,68 @@
+{
+  "id": 10,
+  "sectionId": 1,
+  "number": 10,
+  "title": "I used to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2011",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2011-long.mp3",
+  "content": "'Used to' expresses something that was done in the past, and is not usually done now.\nHere are some examples:\n\"I used to develop websites.\"\n\"I used to jog every day.\"\n\"I used to paint.\"\n\"I used to smoke.\"\n\"I used to work from home.\"\n\"I used to live in California.\"\n\"I used to go to the beach every day.\"\n\"I used to sing in a choir.\"\n\"I used to like vegetables.\"\n\"I used to start work at 6 o'clock.\"",
+  "examples": [
+    {
+      "sentence": "I used to develop websites.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S1.mp3"
+    },
+    {
+      "sentence": "I used to jog every day.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S2.mp3"
+    },
+    {
+      "sentence": "I used to paint.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S3.mp3"
+    },
+    {
+      "sentence": "I used to smoke.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S4.mp3"
+    },
+    {
+      "sentence": "I used to work from home.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S5.mp3"
+    },
+    {
+      "sentence": "I used to live in California.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S6.mp3"
+    },
+    {
+      "sentence": "I used to go to the beach every day.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S7.mp3"
+    },
+    {
+      "sentence": "I used to sing in a choir.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S8.mp3"
+    },
+    {
+      "sentence": "I used to like vegetables.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S9.mp3"
+    },
+    {
+      "sentence": "I used to start work at 6 o'clock.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E11/sentence/E011S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2012",
+  "crawledAt": "2025-11-24T14:09:22.436Z"
+}

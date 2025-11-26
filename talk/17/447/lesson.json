@@ -1,0 +1,53 @@
+{
+  "id": 447,
+  "sectionId": 17,
+  "number": 5,
+  "title": "Appointment",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=232",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/232-long.mp3",
+  "content": "Depending on the age of your child and the reason for the appointment things may vary on what happens during the appointment.\nMost appointments will include taking the height and weight of the child. Checking ears and eyes, listening to hearts and lungs, and taking blood pressure. Depending on the age of your child, vaccines might be also done. This is also a good time to talk with your doctor about any concerns or issues and simply a good time to ask questions.\nHere are some questions commonly asked when making an appointment.\n\"How is your child doing?\"\n\"Do you have any concerns?\"\n\"Is he/she eating ok?\"\n\"Is he/she sleeping ok?\"\n\"Is he/she responding to noise or their name?\"\n\"How are the child's bowl movements?\"\n\"Is he/she saying any words?\"\nIf you are asked any of these questions just answer to your best knowledge and be honest. They are all important information for the doctor to know and see how your child is doing.",
+  "examples": [
+    {
+      "sentence": "How is your child doing?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S1.mp3"
+    },
+    {
+      "sentence": "Do you have any concerns?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S2.mp3"
+    },
+    {
+      "sentence": "Is he/she eating ok?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S3.mp3"
+    },
+    {
+      "sentence": "Is he/she sleeping ok?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S4.mp3"
+    },
+    {
+      "sentence": "Is he/she responding to noise or their name?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S5.mp3"
+    },
+    {
+      "sentence": "How are the child's bowl movements?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S6.mp3"
+    },
+    {
+      "sentence": "Is he/she saying any words?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/P232/sentence/P232S7.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=233",
+  "crawledAt": "2025-11-24T14:19:00.533Z"
+}

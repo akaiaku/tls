@@ -1,0 +1,120 @@
+{
+  "id": 914,
+  "sectionId": 33,
+  "number": 18,
+  "title": "Intermediate Listening Lesson #18",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=217",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L119/practice/L119P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What sport are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Basketball"
+          },
+          {
+            "value": "c",
+            "text": "Football"
+          },
+          {
+            "value": "d",
+            "text": "Soccer"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Until when did he play?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Until he was 15 years old"
+          },
+          {
+            "value": "b",
+            "text": "Until he graduated from high school"
+          },
+          {
+            "value": "c",
+            "text": "Until he finished college"
+          },
+          {
+            "value": "d",
+            "text": "He is still playing"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What two positions are mentioned in this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Quarterback and running back"
+          },
+          {
+            "value": "b",
+            "text": "Midfielder and goalie"
+          },
+          {
+            "value": "c",
+            "text": "Third base and outfielder"
+          },
+          {
+            "value": "d",
+            "text": "Guard and forward"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What does one guy in the dialog play every Tuesdays and Thursdays?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Hockey"
+          },
+          {
+            "value": "c",
+            "text": "Softball"
+          },
+          {
+            "value": "d",
+            "text": "Golf"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Baseball",
+      "Until he graduated from high school",
+      "Third base and outfielder",
+      "Softball"
+    ]
+  },
+  "transcript": "A: \"What sport do you like the most?\"\nB: \"I like baseball the best.\"\nA: \"Me too. Did you play when you were a kid?\"\nB: \"Yeah. I played until I graduated from high school.\"\nA: \"What position did you play?\"\nB: \"I think I tried every position, but the last few years, I played third.\"\nA: \"I hate third base. It's scary when the ball is coming at you so fast.\"\nB: \"It was scary at first, but after awhile, I got used to it. If you have fast reflexes, then it's not really a problem. What position did you play?\"\nA: \"I played outfield. I hated the infield because I never figured out all the bounces.\"\nB: \"I wish I could play again, but there isn't much opportunities around here.\"\nA: \"I'm on a softball league. It's not fast pitch, but it's still fun. You wanna join our group?\"\nB: \"When do you guys play?\"\nA: \"We play either Tuesdays or Thursdays.\"\nB: \"Sounds pretty fun. I'll come out and join you next time.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=218",
+  "crawledAt": "2025-11-24T14:30:40.818Z"
+}

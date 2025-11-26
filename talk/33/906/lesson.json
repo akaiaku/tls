@@ -1,0 +1,120 @@
+{
+  "id": 906,
+  "sectionId": 33,
+  "number": 10,
+  "title": "Intermediate Listening Lesson #10",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=209",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L64/practice/L64P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What are these two people doing?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Taking a smoke break"
+          },
+          {
+            "value": "b",
+            "text": "At the cigarette store buying cigarettes"
+          },
+          {
+            "value": "c",
+            "text": "At a bar drinking and smoking"
+          },
+          {
+            "value": "d",
+            "text": "Talking over the phone"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why is he asking a friend for a cigarette?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He forgot his cigarettes today"
+          },
+          {
+            "value": "b",
+            "text": "He wants to try smoking"
+          },
+          {
+            "value": "c",
+            "text": "He ran out of cigarettes earlier that day"
+          },
+          {
+            "value": "d",
+            "text": "He needs one for later"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Select the statement that is true from this dialog?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Smoking is addicting"
+          },
+          {
+            "value": "b",
+            "text": "It is hard to quit smoking"
+          },
+          {
+            "value": "c",
+            "text": "The longer you smoke the harder it becomes to quit"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "Where is this conversation taking place?",
+        "options": [
+          {
+            "value": "a",
+            "text": "At work"
+          },
+          {
+            "value": "b",
+            "text": "At school"
+          },
+          {
+            "value": "c",
+            "text": "At home"
+          },
+          {
+            "value": "d",
+            "text": "At a restaurant"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Taking a smoke break",
+      "He forgot his cigarettes today",
+      "All of the above",
+      "At school"
+    ]
+  },
+  "transcript": "A: \"Hey Bobby. What's going on?\"\nB: \"Just taking a smoke break.\"\nA: \"I forgot my cigarette today. Do you have another one?\"\nB: \"Sure. Here you go.\"\nA: \"Thanks.\"\nB: \"I didn't know you smoked.\"\nA: \"Really? I've been smoking for over a year now.\"\nB: \"Oh. You're new to smoking still. I've been smoking for 7 years.\"\nA: \"You ever tired to quit?\"\nB: \"Many times. I'm really addicted. It's harder to stop than you think.\"\nA: \"Yeah. I tried to quit last month, and I thought it was going to be easy, but it turns out that I'm still smoking.\"\nB: \"I highly recommend you quit soon. The longer you smoke, the harder it becomes to quit.\"\nA: \"I think you're right. Aright. Gotta go to class. Thanks for the cigarette. I'll talk to you later.\"\nB: \"No problem. I'll talk to you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=210",
+  "crawledAt": "2025-11-24T14:30:16.793Z"
+}

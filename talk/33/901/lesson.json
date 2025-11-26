@@ -1,0 +1,120 @@
+{
+  "id": 901,
+  "sectionId": 33,
+  "number": 5,
+  "title": "Intermediate Listening Lesson #05",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=204",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L47/practice/L47P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "When does John register for classes?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He already registered last Friday"
+          },
+          {
+            "value": "b",
+            "text": "He will register this Friday"
+          },
+          {
+            "value": "c",
+            "text": "He doesn't need to register because he is graduating"
+          },
+          {
+            "value": "d",
+            "text": "He doesn't know when he will register"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why is their a problem registering for the communications class?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because it is very popular and becomes full early"
+          },
+          {
+            "value": "b",
+            "text": "Because nobody registers for the class and it becomes canceled due to lack of students"
+          },
+          {
+            "value": "c",
+            "text": "Because the university doesn't have a professor for that class yet"
+          },
+          {
+            "value": "d",
+            "text": "All of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "In this dialog, what does the class English 201 concentrate on?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Thesis"
+          },
+          {
+            "value": "b",
+            "text": "Reading and Comprehension"
+          },
+          {
+            "value": "c",
+            "text": "Writing"
+          },
+          {
+            "value": "d",
+            "text": "Non fiction books"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why did the student get a lower grade in English 201 versus English 101?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because English 101 was easier"
+          },
+          {
+            "value": "b",
+            "text": "Because he didn't study as much"
+          },
+          {
+            "value": "c",
+            "text": "Because the class was much harder"
+          },
+          {
+            "value": "d",
+            "text": "Because he was partying too much"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "He will register this Friday",
+      "Because it is very popular and becomes full early",
+      "Writing",
+      "Because he didn't study as much"
+    ]
+  },
+  "transcript": "A: \"Hey John, did you register for classes yet?\"\nB: \"I register this Friday.\"\nA: \"What classes do you plan on taking?\"\nB: \"I really want to take the communication class, but I don't know if it will be available.\"\nA: \"Is that class really that popular?\"\nB: \"Yeah. I tried to get in last semester, but it was full by the time I registered.\"\nA: \"What other classes are you going to take?\"\nB: \"I still need to take English 201, but I really don't like writing.\"\nA: \"I took that class already. There is a lot of writing, but it's not that bad.\"\nB: \"Oh really? Who was the instructor? There are like 4 different instructors to choose from.\"\nA: \"I had Professor Mahoney.\"\nB: \"Is he an easy grader?\"\nA: \"I'm not sure if he is or not, but I thought he was definitely fair.\"\nB: \"Do you mind if I ask you what you got?\"\nA: \"Not at all. I got a 3.8.\"\nB: \"Well, what did you get in English 101 last year?\"\nA: \"I got a 4.0 in that class.\"\nB: \"Well, I can't compare to you. I got a 3.1 in English 101. That means if you got a lower grade in English 201, it must be harder.\"\nA: \"It's not what it appears. I actually tried harder in the 101 class. If I put as much effort into the 201 class, I would have received the same grade.\"\nB: \"Oh. That helps. Thanks.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=205",
+  "crawledAt": "2025-11-24T14:30:02.812Z"
+}

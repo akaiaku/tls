@@ -1,0 +1,38 @@
+{
+  "id": 700,
+  "sectionId": 29,
+  "number": 11,
+  "title": "Do you have any outside income?",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=374",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "<b>\"Do you have any outside income?\"</b>\nThis might be a job interview question, or it could be a question when you are talking to a creditor. In either case, you can simply reply with a yes or no. If it is a yes, then briefly tell them the other source of income.\n\"I get paid child support from my ex-husband.\"\n\"I have a rental property.\"\n\"No. I do not.\"",
+  "examples": [
+    {
+      "sentence": "Do you have any outside income?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I115/sentence/I115S1.mp3"
+    },
+    {
+      "sentence": "I get paid child support from my ex-husband.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I115/sentence/I115S2.mp3"
+    },
+    {
+      "sentence": "I have a rental property.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I115/sentence/I115S3.mp3"
+    },
+    {
+      "sentence": "No. I do not.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/I115/sentence/I115S4.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=375",
+  "crawledAt": "2025-11-24T14:24:36.738Z"
+}

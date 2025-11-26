@@ -1,0 +1,120 @@
+{
+  "id": 877,
+  "sectionId": 32,
+  "number": 15,
+  "title": "Basic Listening Lesson #15",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=114",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L71/practice/L71P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "There are several topics in this short discussion, what is the main topic?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Exercising"
+          },
+          {
+            "value": "b",
+            "text": "Eating"
+          },
+          {
+            "value": "c",
+            "text": "Sleeping"
+          },
+          {
+            "value": "d",
+            "text": "Health"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "How many hours is one person recommending to sleep?",
+        "options": [
+          {
+            "value": "a",
+            "text": "7 hours"
+          },
+          {
+            "value": "b",
+            "text": "8 hours"
+          },
+          {
+            "value": "c",
+            "text": "10 hours"
+          },
+          {
+            "value": "d",
+            "text": "12 hours"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Why did mike start exercising?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To burn off fat"
+          },
+          {
+            "value": "b",
+            "text": "A girl he likes joined the local gym"
+          },
+          {
+            "value": "c",
+            "text": "Because he was bored"
+          },
+          {
+            "value": "d",
+            "text": "To improve his health"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "When you get old, Mike recommends that you want to be what?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Handsome and tall"
+          },
+          {
+            "value": "b",
+            "text": "Smart and successful"
+          },
+          {
+            "value": "c",
+            "text": "Healthy and active"
+          },
+          {
+            "value": "d",
+            "text": "Rich and independent"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Health",
+      "8 hours",
+      "To improve his health",
+      "Healthy and active"
+    ]
+  },
+  "transcript": "A: \"Hi Mike. What have you been up to?\"\nB: \"Not much. I started exercising.\"\nA: \"Trying to get in shape?\"\nB: \"Yeah, and I need to start improving my health.\"\nA: \"Me too. What are you doing besides exercising?\"\nB: \"That's about all.\"\nA: \"I think if you eat better, it will help tremendously.\"\nB: \"Sleep is good too. I heard people who sleep an average of eight hours a day have less health problems.\"\nA: \"Looks like there are a lot of things to do to stay healthy.\"\nB: \"True. But I think it is worth it. When you get old, you want to be healthy and active.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=115",
+  "crawledAt": "2025-11-24T14:28:56.455Z"
+}

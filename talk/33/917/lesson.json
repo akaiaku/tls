@@ -1,0 +1,120 @@
+{
+  "id": 917,
+  "sectionId": 33,
+  "number": 21,
+  "title": "Intermediate Listening Lesson #21",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=220",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L140/practice/L140P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why are they going to the department store?",
+        "options": [
+          {
+            "value": "a",
+            "text": "They are having a sale"
+          },
+          {
+            "value": "b",
+            "text": "They need to shop for school clothes"
+          },
+          {
+            "value": "c",
+            "text": "They are bored with nothing to do"
+          },
+          {
+            "value": "d",
+            "text": "None of the above"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "When are they going to meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "On Friday"
+          },
+          {
+            "value": "b",
+            "text": "On Saturday"
+          },
+          {
+            "value": "c",
+            "text": "After dinner"
+          },
+          {
+            "value": "d",
+            "text": "In thirty minutes"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What are the two items they are looking at?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Bags and pants"
+          },
+          {
+            "value": "b",
+            "text": "Rings and necklaces"
+          },
+          {
+            "value": "c",
+            "text": "Shoes and sweaters"
+          },
+          {
+            "value": "d",
+            "text": "Jackets and belts"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is on sale for $80?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Shoe"
+          },
+          {
+            "value": "b",
+            "text": "Jacket"
+          },
+          {
+            "value": "c",
+            "text": "Sweater"
+          },
+          {
+            "value": "d",
+            "text": "Necklace"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "They are having a sale",
+      "In thirty minutes",
+      "Shoes and sweaters",
+      "Sweater"
+    ]
+  },
+  "transcript": "A: \"Hey Jackie. What are you doing?\"\nB: \"Nothing much. I'm just relaxing today. Why? What's going on?\"\nA: \"I was thinking about heading to the mall. Do you want to go?\"\nB: \"Are they having a sale?\"\nA: \"Yeah. Both Bon and Nordstrom's is having there annual sale. It's a great time to buy some clothes you've been holding out on.\"\nB: \"That sounds great. Where should we meet?\"\nA: \"I'll meet you in front of Nordstrom's in 30 minutes.\"\nB: \"Sounds good. See you there.\"\nA: \"What do you think about these shoes?\"\nB: \"They're cute. But do you think you'll wear them much?\"\nA: \"No. Not really.\"\nB: \"This sweater is so pretty. I love the low neck design.\"\nA: \"I bet it's expensive.\"\nB: \"It's on sale for $80. What do you think? Should I try them on?\"\nA: \"For 80 bucks it looks great. Go try it on.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=221",
+  "crawledAt": "2025-11-24T14:30:49.480Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": 42,
+  "sectionId": 2,
+  "number": 13,
+  "title": "Let me + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2043",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2043-long.mp3",
+  "content": "'Let me' is suggesting that you are asking for permission or an opportunity to do something.\nHere are some examples:\n\"Let me make my own decisions.\"\n\"Let me offer to help you.\"\n\"Let me open the door for you.\"\n\"Let me pause and think about what we are doing.\"\n\"Let me welcome you to the neighborhood.\"\n\"Let me save you the trouble.\"\n\"Let me make a suggestion.\"\n\"Let me try and fix your car.\"\n\"Let me taste the soup before you add more spices.\"\n\"Let me treat you to some ice cream.\"",
+  "examples": [
+    {
+      "sentence": "Let me make my own decisions.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S1.mp3"
+    },
+    {
+      "sentence": "Let me offer to help you.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S2.mp3"
+    },
+    {
+      "sentence": "Let me open the door for you.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S3.mp3"
+    },
+    {
+      "sentence": "Let me pause and think about what we are doing.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S4.mp3"
+    },
+    {
+      "sentence": "Let me welcome you to the neighborhood.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S5.mp3"
+    },
+    {
+      "sentence": "Let me save you the trouble.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S6.mp3"
+    },
+    {
+      "sentence": "Let me make a suggestion.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S7.mp3"
+    },
+    {
+      "sentence": "Let me try and fix your car.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S8.mp3"
+    },
+    {
+      "sentence": "Let me taste the soup before you add more spices.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S9.mp3"
+    },
+    {
+      "sentence": "Let me treat you to some ice cream.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E43/sentence/E043S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2044",
+  "crawledAt": "2025-11-24T14:10:04.036Z"
+}

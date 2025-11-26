@@ -1,0 +1,120 @@
+{
+  "id": 915,
+  "sectionId": 33,
+  "number": 19,
+  "title": "Intermediate Listening Lesson #19",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=218",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L127/practice/L127P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What sport are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Basketball"
+          },
+          {
+            "value": "c",
+            "text": "Football"
+          },
+          {
+            "value": "d",
+            "text": "Soccer"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does he like the sport they are talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It is fun to both watch and play"
+          },
+          {
+            "value": "b",
+            "text": "It is a good form of exercise"
+          },
+          {
+            "value": "c",
+            "text": "It is very challenging"
+          },
+          {
+            "value": "d",
+            "text": "It is a great way to meet people"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why are there other forms of this sport such as two hand touch and the usage of flags?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because it makes the game more interesting"
+          },
+          {
+            "value": "b",
+            "text": "Because it is a safer way to play"
+          },
+          {
+            "value": "c",
+            "text": "Because it requires less people"
+          },
+          {
+            "value": "d",
+            "text": "Because they don't know all the rules"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "Where do they play every Saturdays?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In the high school field"
+          },
+          {
+            "value": "b",
+            "text": "The field by the tennis courts"
+          },
+          {
+            "value": "c",
+            "text": "In the apartment complex"
+          },
+          {
+            "value": "d",
+            "text": "In the sports center"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Football",
+      "It is fun to both watch and play",
+      "Because it is a safer way to play",
+      "The field by the tennis courts"
+    ]
+  },
+  "transcript": "A: \"What sports do you like to play?\"\nB: \"I like baseball and basketball.\"\nA: \"How about football?\"\nB: \"In my country football is brand new, so I never learned the game when I was younger.\"\nA: \"It's a very popular game in America.\"\nB: \"Yeah. I heard a lot about it. Is it really that fun?\"\nA: \"For me, it's one of those games that are fun to both watch and play.\"\nB: \"Are you a football player?\"\nA: \"No, just for fun with my friends. We play two hand touch or flag football. We're too old to play tackle football.\"\nB: \"What is two hand touch and flag football?\"\nA: \"Instead of tackling somebody, you just have to touch them with two hands, or if it is flag football, grab the flag that the ball carrier is wearing.\"\nB: \"I see. It's safer then right?\"\nA: \"Exactly. We play every Saturdays on the field by the tennis courts. If you want to learn and play a little, you're welcome to join us.\"\nB: \"I'll give it a try. Give me a call and let's go down together.\"\nA: \"Ok. I'll call you Saturday morning.\"\nB: \"Great.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=219",
+  "crawledAt": "2025-11-24T14:30:43.758Z"
+}

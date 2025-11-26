@@ -1,0 +1,68 @@
+{
+  "id": 20,
+  "sectionId": 1,
+  "number": 20,
+  "title": "I promise not to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2021",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2021-long.mp3",
+  "content": "When using the word 'promise' you are giving your word that what you are saying is true. You might also be assuring someone a guarantee that you will follow thru on what you are saying to them.\nWhen using 'promise not to' you are stating you will not do a particular thing.\nHere are some examples:\n\"I promise not to tell.\"\n\"I promise not to leave without you.\"\n\"I promise not to be so late.\"\n\"I promise not to hurt your feelings.\"\n\"I promise not to wake you up.\"\nYou can also just use the word 'promise' to assure someone of your intentions.\nHere are some examples:\n\"I promise I am telling the truth.\"\n\"I promise to practice my math.\"\n\"I promise to call you.\"\n\"I promise I will tell you.\"\n\"I promise I will come to your party.\"",
+  "examples": [
+    {
+      "sentence": "I promise not to tell.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S1.mp3"
+    },
+    {
+      "sentence": "I promise not to leave without you.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S2.mp3"
+    },
+    {
+      "sentence": "I promise not to be so late.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S3.mp3"
+    },
+    {
+      "sentence": "I promise not to hurt your feelings.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S4.mp3"
+    },
+    {
+      "sentence": "I promise not to wake you up.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S5.mp3"
+    },
+    {
+      "sentence": "I promise I am telling the truth.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S6.mp3"
+    },
+    {
+      "sentence": "I promise to practice my math.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S7.mp3"
+    },
+    {
+      "sentence": "I promise to call you.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S8.mp3"
+    },
+    {
+      "sentence": "I promise I will tell you.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S9.mp3"
+    },
+    {
+      "sentence": "I promise I will come to your party.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E21/sentence/E021S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2022",
+  "crawledAt": "2025-11-24T14:09:35.302Z"
+}

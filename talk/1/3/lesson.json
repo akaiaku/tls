@@ -1,0 +1,68 @@
+{
+  "id": 3,
+  "sectionId": 1,
+  "number": 3,
+  "title": "I'm good at",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2003",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2003-long.mp3",
+  "content": "Again, 'I'm' is used here as 'I am.' 'Good at' informs someone what you excel at and are comfortable doing.\nHere are some examples:\n\"I'm good at drawing.\"\n\"I'm good at video games.\"\n\"I'm good at swimming.\"\n\"I'm good at driving.\"\n\"I'm good at reading.\"\n\"I'm good at sports.\"\n\"I'm good at writing.\"\n\"I'm good at math.\"\n\"I'm good at dancing.\"\n\"I'm good at chess.\"",
+  "examples": [
+    {
+      "sentence": "I'm good at drawing.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S1.mp3"
+    },
+    {
+      "sentence": "I'm good at video games.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S2.mp3"
+    },
+    {
+      "sentence": "I'm good at swimming.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S3.mp3"
+    },
+    {
+      "sentence": "I'm good at driving.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S4.mp3"
+    },
+    {
+      "sentence": "I'm good at reading.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S5.mp3"
+    },
+    {
+      "sentence": "I'm good at sports.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S6.mp3"
+    },
+    {
+      "sentence": "I'm good at writing.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S7.mp3"
+    },
+    {
+      "sentence": "I'm good at math.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S8.mp3"
+    },
+    {
+      "sentence": "I'm good at dancing.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S9.mp3"
+    },
+    {
+      "sentence": "I'm good at chess.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E03/sentence/E003S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2005",
+  "crawledAt": "2025-11-24T14:09:13.536Z"
+}

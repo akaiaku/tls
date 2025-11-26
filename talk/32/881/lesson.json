@@ -1,0 +1,120 @@
+{
+  "id": 881,
+  "sectionId": 32,
+  "number": 19,
+  "title": "Basic Listening Lesson #19",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=118",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L103/practice/L103P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why is Stacy so tired these days?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Has to watch the kids, cook, clean, and laundry"
+          },
+          {
+            "value": "b",
+            "text": "Has to work all day long"
+          },
+          {
+            "value": "c",
+            "text": "Currently recovering from surgery and took pain medication"
+          },
+          {
+            "value": "d",
+            "text": "She has the flu"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "Why is Stacy doing all the work herself?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She is a single mom working 2 jobs"
+          },
+          {
+            "value": "b",
+            "text": "Her husband is on business trips and is home to help"
+          },
+          {
+            "value": "c",
+            "text": "Her husband helps a lot, but there is too much to do"
+          },
+          {
+            "value": "d",
+            "text": "Her husband only complains about his day and doesn't help"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What is one chore that the husband takes care of?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Vacuuming"
+          },
+          {
+            "value": "b",
+            "text": "Mowing the lawn"
+          },
+          {
+            "value": "c",
+            "text": "Washing the car"
+          },
+          {
+            "value": "d",
+            "text": "Dishes"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What is one change Stacy wants to see from her husband?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To be more loving"
+          },
+          {
+            "value": "b",
+            "text": "To be less lazy"
+          },
+          {
+            "value": "c",
+            "text": "To be home more often"
+          },
+          {
+            "value": "d",
+            "text": "To change jobs that require less traveling"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Has to watch the kids, cook, clean, and laundry",
+      "Her husband only complains about his day and doesn't help",
+      "Mowing the lawn",
+      "To be less lazy"
+    ]
+  },
+  "transcript": "A: \"Hey Stacy. What's going on?\"\nB: \"I'm pretty tired these days.\"\nA: \"Why? You're not working so don't you have a lot of time on your hands?\"\nB: \"I have so much house work to do. I have to take care of the kids, cook, clean, laundry, and the cycle never ends.\"\nA: \"How about your husband. Does he help much?\"\nB: \"Not at all. He comes home and complains about his hard day at work. He expects me to do everything. He even wants me to feed him sometimes. Can you believe that?\"\nA: \"That sucks.\"\nB: \"If he wasn't so lazy, I think I wouldn't have any complaints. He mows the lawn, but can you believe he tried to convince me to do it?\"\nA: \"That's crossing the line.\"\nB: \"Oh well. I'll have to live with it. What else can I do?\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=119",
+  "crawledAt": "2025-11-24T14:29:07.698Z"
+}

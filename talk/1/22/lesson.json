@@ -1,0 +1,78 @@
+{
+  "id": 22,
+  "sectionId": 1,
+  "number": 22,
+  "title": "I feel like + (verb-ing)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2023",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2023-long.mp3",
+  "content": "Here you are expressing to someone something you would enjoy doing.\nHere are some examples:\n\"I feel like going for a bike ride.\"\n\"I feel like going to the beach.\"\n\"I feel like having a snack.\"\n\"I feel like talking.\"\n\"I feel like dancing.\"\n\"I feel like having friends over to my house.\"\n\"I feel like watching TV.\"\nBy adding 'don't' or 'do not' you can change what you are saying to express something you would not enjoy or express a concern about something.\nHere are some examples:\n\"I don't feel like leaving yet.\"\n\"I don't feel like explaining.\"\n\"I don't feel like going to bed.\"\n\"I do not feel comfortable talking about it.\"\n\"I do not feel like we are going in the right direction.\"",
+  "examples": [
+    {
+      "sentence": "I feel like going for a bike ride.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S1.mp3"
+    },
+    {
+      "sentence": "I feel like going to the beach.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S2.mp3"
+    },
+    {
+      "sentence": "I feel like having a snack.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S3.mp3"
+    },
+    {
+      "sentence": "I feel like talking.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S4.mp3"
+    },
+    {
+      "sentence": "I feel like dancing.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S5.mp3"
+    },
+    {
+      "sentence": "I feel like having friends over to my house.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S6.mp3"
+    },
+    {
+      "sentence": "I feel like watching TV.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S7.mp3"
+    },
+    {
+      "sentence": "I don't feel like leaving yet.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S8.mp3"
+    },
+    {
+      "sentence": "I don't feel like explaining.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S9.mp3"
+    },
+    {
+      "sentence": "I don't feel like going to bed.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S10.mp3"
+    },
+    {
+      "sentence": "I do not feel comfortable talking about it.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S11.mp3"
+    },
+    {
+      "sentence": "I do not feel like we are going in the right direction.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E23/sentence/E023S12.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2024",
+  "crawledAt": "2025-11-24T14:09:37.911Z"
+}

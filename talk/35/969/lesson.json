@@ -1,0 +1,53 @@
+{
+  "id": 969,
+  "sectionId": 35,
+  "number": 5,
+  "title": "Pronouncing the letter H",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=005",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Listen to the lesson\nInstruction: The whole mouth is open. This sound is made by using the vocal chord in the throat. The difference between a h sound and an \"ah\" or an \"eh\" sound is that it is more hollow in the mouth when the air passes.\nHere are some words and sentences to help you hear what it should sound like. Click on any word or sentence to hear the correct sound.\nHome\nDoghouse\nHelium\n\"After the long day, he went home to sleep\"\n\"The little puppy didn't like the big doghouse\"\n\"The helium balloons filled the room for the birthday girl\"",
+  "examples": [
+    {
+      "sentence": "Listen to the lesson",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S1.mp3"
+    },
+    {
+      "sentence": "Home",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S2.mp3"
+    },
+    {
+      "sentence": "Doghouse",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S3.mp3"
+    },
+    {
+      "sentence": "Helium",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S4.mp3"
+    },
+    {
+      "sentence": "After the long day, he went home to sleep",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S5.mp3"
+    },
+    {
+      "sentence": "The little puppy didn't like the big doghouse",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S6.mp3"
+    },
+    {
+      "sentence": "The helium balloons filled the room for the birthday girl",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S5S7.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=6",
+  "crawledAt": "2025-11-24T14:33:41.269Z"
+}

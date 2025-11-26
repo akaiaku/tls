@@ -1,0 +1,73 @@
+{
+  "id": 190,
+  "sectionId": 6,
+  "number": 1,
+  "title": "Greeting - Basic",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=520",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/520-long.mp3",
+  "content": "There are many ways to greet someone. We'll learn about the most common way to greet someone in this lesson. I'll give a variety of example sentences.\nGreeting someone you never met:\n\"Hi, my name is Steve. It's nice to meet you.\"\nYou can respond to this by saying,\n\"It's a pleasure to meet you. I'm Jack.\"\nAnother common question to ask is\n\"What do you do for a living?\"\nYou can respond to this by saying,\n\"I work at a restaurant.\"\n\"I work at a bank.\"\n\"I work in a software company.\"\n\"I'm a dentist.\"\nUsually, you will not need to ask for a name. It is implied that each person should say their name. But in case they don't, you can ask,\n\"What is your name?\"\nMany times, I don't hear the name. If you would like for them to repeat their name, you can say,\n\"What was that again?\"\n\"Excuse me?\"\n\"Pardon me?\"",
+  "examples": [
+    {
+      "sentence": "Hi, my name is Steve. It's nice to meet you.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S1.mp3"
+    },
+    {
+      "sentence": "It's a pleasure to meet you. I'm Jack.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S2.mp3"
+    },
+    {
+      "sentence": "What do you do for a living?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S3.mp3"
+    },
+    {
+      "sentence": "I work at a restaurant.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S4.mp3"
+    },
+    {
+      "sentence": "I work at a bank.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S5.mp3"
+    },
+    {
+      "sentence": "I work in a software company.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S6.mp3"
+    },
+    {
+      "sentence": "I'm a dentist.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S7.mp3"
+    },
+    {
+      "sentence": "What is your name?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S8.mp3"
+    },
+    {
+      "sentence": "What was that again?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S9.mp3"
+    },
+    {
+      "sentence": "Excuse me?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S10.mp3"
+    },
+    {
+      "sentence": "Pardon me?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L1/sentence/L1S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=521",
+  "crawledAt": "2025-11-24T14:13:17.083Z"
+}

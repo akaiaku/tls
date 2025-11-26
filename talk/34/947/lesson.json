@@ -1,0 +1,120 @@
+{
+  "id": 947,
+  "sectionId": 34,
+  "number": 17,
+  "title": "Advanced Listening Lesson #17",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=316",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L119/practice/L119P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is one possible weakness the Yankees might have from one of the guy in the conversation?",
+        "options": [
+          {
+            "value": "a",
+            "text": "No other good players besides A-Rod"
+          },
+          {
+            "value": "b",
+            "text": "The team is too young"
+          },
+          {
+            "value": "c",
+            "text": "Yankees do not have a good pitching staff"
+          },
+          {
+            "value": "d",
+            "text": "Many players are injured"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What team was mentioned as an example of what the Yankees might end up like?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Seattle Mariners"
+          },
+          {
+            "value": "b",
+            "text": "Texas Rangers"
+          },
+          {
+            "value": "c",
+            "text": "Boston Red Sox"
+          },
+          {
+            "value": "d",
+            "text": "New York Mets"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What team tickets were sold out and are the most popular to watch?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Seattle Mariners"
+          },
+          {
+            "value": "b",
+            "text": "Texas Rangers"
+          },
+          {
+            "value": "c",
+            "text": "Boston Red Sox"
+          },
+          {
+            "value": "d",
+            "text": "New York Yankees"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What sport are the talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Baseball"
+          },
+          {
+            "value": "b",
+            "text": "Basketball"
+          },
+          {
+            "value": "c",
+            "text": "Football"
+          },
+          {
+            "value": "d",
+            "text": "Soccer"
+          }
+        ],
+        "correctAnswer": "a"
+      }
+    ],
+    "answers": [
+      "Yankees do not have a good pitching staff",
+      "Texas Rangers",
+      "New York Yankees",
+      "Baseball"
+    ]
+  },
+  "transcript": "A: \"Do you like to watch baseball?\"\nB: \"Yeah. I follow the Mariners every year.\"\nA: \"I wonder how they will do this year.\"\nB: \"I don't know if they have a chance. Did you hear that A-Rod went to the Yankees?\"\nA: \"I know. Their team was too good even before getting Alex.\"\nB: \"Yeah. The richest team is usually the best team. They need to put a salary cap to make things fair.\"\nA: \"I agree. I don't know why they haven't done so already.\"\nB: \"But don't lose hope too soon. The Yankees don't have a good pitching staff this year. They might end up like the Texas Rangers. Great offense, no pitching.\"\nA: \"I highly doubt that. Even though they lost Pettite, they still have a decent pitching rotation.\"\nB: \"We'll see. I hope the Mariners do well this year.\"\nA: \"Me too. Oh, did you buy any tickets this year?\"\nB: \"I got a couple of games with Oakland and Boston, but I couldn't get anything with the Yankees.\"\nA: \"Same here. I went in on the second day and all the tickets with the Yankees were already sold out.\"\nB: \"There's still plenty of other games though. We should go together one of these days.\"\nA: \"Sounds good. Let's plan for late June.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=317",
+  "crawledAt": "2025-11-24T14:32:41.721Z"
+}

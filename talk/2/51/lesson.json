@@ -1,0 +1,68 @@
+{
+  "id": 51,
+  "sectionId": 2,
+  "number": 22,
+  "title": "You should + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2052",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2052-long.mp3",
+  "content": "Here you are suggesting an obligation or duty that needs to take place either now or in the near future.\nHere are some examples:\n\"You should go to bed.\"\n\"You should do your homework before going outside.\"\n\"You should replace your headlights on your car.\"\n\"You should request a raise at work.\"\n\"You should stop smoking.\"\n\"You should smile more.\"\n\"You should slow down when driving in a neighborhood.\"\n\"You should talk to him about it.\"\n\"You should train your dog.\"\n\"You should trust what they say.\"",
+  "examples": [
+    {
+      "sentence": "You should go to bed.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S1.mp3"
+    },
+    {
+      "sentence": "You should do your homework before going outside.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S2.mp3"
+    },
+    {
+      "sentence": "You should replace your headlights on your car.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S3.mp3"
+    },
+    {
+      "sentence": "You should request a raise at work.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S4.mp3"
+    },
+    {
+      "sentence": "You should stop smoking.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S5.mp3"
+    },
+    {
+      "sentence": "You should smile more.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S6.mp3"
+    },
+    {
+      "sentence": "You should slow down when driving in a neighborhood.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S7.mp3"
+    },
+    {
+      "sentence": "You should talk to him about it.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S8.mp3"
+    },
+    {
+      "sentence": "You should train your dog.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S9.mp3"
+    },
+    {
+      "sentence": "You should trust what they say.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E52/sentence/E052S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2053",
+  "crawledAt": "2025-11-24T14:10:15.787Z"
+}

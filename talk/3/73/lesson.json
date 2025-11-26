@@ -1,0 +1,68 @@
+{
+  "id": 73,
+  "sectionId": 3,
+  "number": 14,
+  "title": "How about + (verb-ing)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2074",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2074-long.mp3",
+  "content": "You're asking someone their opinion on something or if they would like to do something.\nHere are some examples:\n\"How about singing?\"\n\"How about hanging out tonight?\"\n\"How about folding the laundry for me?\"\n\"How about helping us out?\"\n\"How about describing to me what happened?\"\n\"How about exploring new ideas?\"\n\"How about comparing prices before we buy it?\"\n\"How about considering it?\"\n\"How about following me to their house?\"\n\"How about feeding the dogs?\"",
+  "examples": [
+    {
+      "sentence": "How about singing?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S1.mp3"
+    },
+    {
+      "sentence": "How about hanging out tonight?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S2.mp3"
+    },
+    {
+      "sentence": "How about folding the laundry for me?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S3.mp3"
+    },
+    {
+      "sentence": "How about helping us out?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S4.mp3"
+    },
+    {
+      "sentence": "How about describing to me what happened?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S5.mp3"
+    },
+    {
+      "sentence": "How about exploring new ideas?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S6.mp3"
+    },
+    {
+      "sentence": "How about comparing prices before we buy it?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S7.mp3"
+    },
+    {
+      "sentence": "How about considering it?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S8.mp3"
+    },
+    {
+      "sentence": "How about following me to their house?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S9.mp3"
+    },
+    {
+      "sentence": "How about feeding the dogs?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E74/sentence/E074S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2075",
+  "crawledAt": "2025-11-24T14:10:44.375Z"
+}

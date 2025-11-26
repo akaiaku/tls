@@ -1,0 +1,73 @@
+{
+  "id": 19,
+  "sectionId": 1,
+  "number": 19,
+  "title": "I don't have time to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2020",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2020-long.mp3",
+  "content": "The word 'don't' is a contraction of the words 'do not.' When adding 'have time to' you are simply stating that you have other obligations and all other things considered must wait.\nHere are some examples:\n\"I don't have time to explain.\"\n\"I don't have time to eat.\"\n\"I don't have time to exercise.\"\n\"I don't have time to watch my favorite TV show.\"\n\"I don't have time to talk.\"\nYou can also use the phrase 'I don't' to express things you do not like, things you do not understand, or things you do not do.\nHere are some examples:\n\"I don't eat meat.\"\n\"I don't like the rain.\"\n\"I don't understand Spanish.\"\n\"I do not understand what you are saying.\"\n\"I do not like scary movies.\"\n\"I do not like sports.\"",
+  "examples": [
+    {
+      "sentence": "I don't have time to explain.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S1.mp3"
+    },
+    {
+      "sentence": "I don't have time to eat.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S2.mp3"
+    },
+    {
+      "sentence": "I don't have time to exercise.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S3.mp3"
+    },
+    {
+      "sentence": "I don't have time to watch my favorite TV show.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S4.mp3"
+    },
+    {
+      "sentence": "I don't have time to talk.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S5.mp3"
+    },
+    {
+      "sentence": "I don't eat meat.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S6.mp3"
+    },
+    {
+      "sentence": "I don't like the rain.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S7.mp3"
+    },
+    {
+      "sentence": "I don't understand Spanish.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S8.mp3"
+    },
+    {
+      "sentence": "I do not understand what you are saying.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S9.mp3"
+    },
+    {
+      "sentence": "I do not like scary movies.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S10.mp3"
+    },
+    {
+      "sentence": "I do not like sports.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E20/sentence/E020S11.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2021",
+  "crawledAt": "2025-11-24T14:09:33.986Z"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 4,
+  "sectionId": 1,
+  "number": 4,
+  "title": "I'm + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2005",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2005-long.mp3",
+  "content": "'I'm' is a contraction of the words 'I am.' By adding a verb to 'I'm' this lets you express an action or occurrence about yourself.\nHere are some examples:\n\"I'm eating lunch.\"\n\"I'm brushing my teeth.\"\n\"I'm scared.\"\n\"I'm driving to work.\"\n\"I'm crying.\"\n\"I'm typing an email.\"\n\"I'm cooking dinner.\"\n\"I'm combing my hair.\"\n\"I'm hanging a picture.\"\n\"I am texting.\"\n\"I am dancing.\"\n\"I am interested in the job.\"\n\"I am exercising.\"\n\"I am sad.\"\n\"I am learning.\"",
+  "examples": [
+    {
+      "sentence": "I'm eating lunch.",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S1.mp3"
+    },
+    {
+      "sentence": "I'm brushing my teeth.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S2.mp3"
+    },
+    {
+      "sentence": "I'm scared.",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S3.mp3"
+    },
+    {
+      "sentence": "I'm driving to work.",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S4.mp3"
+    },
+    {
+      "sentence": "I'm crying.",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S5.mp3"
+    },
+    {
+      "sentence": "I'm typing an email.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S6.mp3"
+    },
+    {
+      "sentence": "I'm cooking dinner.",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S7.mp3"
+    },
+    {
+      "sentence": "I'm combing my hair.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S8.mp3"
+    },
+    {
+      "sentence": "I'm hanging a picture.",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S9.mp3"
+    },
+    {
+      "sentence": "I am texting.",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S10.mp3"
+    },
+    {
+      "sentence": "I am dancing.",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S11.mp3"
+    },
+    {
+      "sentence": "I am interested in the job.",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S12.mp3"
+    },
+    {
+      "sentence": "I am exercising.",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S13.mp3"
+    },
+    {
+      "sentence": "I am sad.",
+      "audio": "example_14.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S14.mp3"
+    },
+    {
+      "sentence": "I am learning.",
+      "audio": "example_15.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E05/sentence/E005S15.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2006",
+  "crawledAt": "2025-11-24T14:09:14.799Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 922,
+  "sectionId": 33,
+  "number": 26,
+  "title": "Intermediate Listening Lesson #26",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=225",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L153/practice/L153P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What is the exciting news?",
+        "options": [
+          {
+            "value": "a",
+            "text": "She is pregnant"
+          },
+          {
+            "value": "b",
+            "text": "She is getting married"
+          },
+          {
+            "value": "c",
+            "text": "She passed the law exam"
+          },
+          {
+            "value": "d",
+            "text": "She got a baby"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "How many months did they try to get a baby?",
+        "options": [
+          {
+            "value": "a",
+            "text": "3 months"
+          },
+          {
+            "value": "b",
+            "text": "5 months"
+          },
+          {
+            "value": "c",
+            "text": "8 months"
+          },
+          {
+            "value": "d",
+            "text": "12 months"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What is the gender of the baby?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A boy"
+          },
+          {
+            "value": "b",
+            "text": "A girl"
+          },
+          {
+            "value": "c",
+            "text": "Do not know yet"
+          },
+          {
+            "value": "d",
+            "text": "They are not talking about babies"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does the lady want to find out the gender?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because she hates surprises"
+          },
+          {
+            "value": "b",
+            "text": "So she can prepare ahead of time"
+          },
+          {
+            "value": "c",
+            "text": "To figure out if they need another baby"
+          },
+          {
+            "value": "d",
+            "text": "Because she wants a baby girl"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "She is pregnant",
+      "8 months",
+      "Do not know yet",
+      "So she can prepare ahead of time"
+    ]
+  },
+  "transcript": "A: \"Hey Suzie. Guess what? I'm having a baby!\"\nB: \"Really? That's so great. Congratulations.\"\nA: \"Thanks. I'm so excited. We've been trying for 8 months now.\"\nB: \"That's really exciting. How many months are you pregnant?\"\nA: \"Three months.\"\nB: \"Are you going to find out if it is a boy or a girl?\"\nA: \"I want to, but Bob doesn't. He wants to be surprised like the old fashioned way.\"\nB: \"Maybe it's more exciting not knowing.\"\nA: \"I'd rather know and buy all the baby things ahead of time.\"\nB: \"There are so many things you have to prepare for.\"\nA: \"I know I am going to be busy, but I know I can handle it. I have been looking forward to this day for a long long time.\"\nB: \"It really must be an exciting time for you guys.\"\nA: \"Thank you so much.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=226",
+  "crawledAt": "2025-11-24T14:31:03.662Z"
+}

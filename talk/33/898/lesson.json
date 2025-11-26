@@ -1,0 +1,120 @@
+{
+  "id": 898,
+  "sectionId": 33,
+  "number": 2,
+  "title": "Intermediate Listening Lesson #02",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=201",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L40/practice/L40P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What are Steve and Mike planning on doing today?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Nothing"
+          },
+          {
+            "value": "b",
+            "text": "Watch a movie"
+          },
+          {
+            "value": "c",
+            "text": "Play pool"
+          },
+          {
+            "value": "d",
+            "text": "Drink beer"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What does Steve have to do later today?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Study for exams"
+          },
+          {
+            "value": "b",
+            "text": "Watch a television show"
+          },
+          {
+            "value": "c",
+            "text": "Meet parents for dinner"
+          },
+          {
+            "value": "d",
+            "text": "Go to a party"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What will the weather be like tomorrow?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Same as today"
+          },
+          {
+            "value": "b",
+            "text": "Clear and Sunny"
+          },
+          {
+            "value": "c",
+            "text": "Neither A or B"
+          },
+          {
+            "value": "d",
+            "text": "Both A and B"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What are they planning to do tomorrow?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Watch a movie after lunch"
+          },
+          {
+            "value": "b",
+            "text": "Lunch together then watch a concert at 1pm"
+          },
+          {
+            "value": "c",
+            "text": "Eat dinner together"
+          },
+          {
+            "value": "d",
+            "text": "Go to a party at eleven thirty at night"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "Nothing",
+      "Meet parents for dinner",
+      "Both A and B",
+      "Watch a concert at 1pm"
+    ]
+  },
+  "transcript": "A: \"Hello?\"\nB: \"Hi Steve. This is Mike. What are you doing?\"\nA: \"Oh, hi. I was just watching TV.\"\nB: \"There's nothing to watch right now.\"\nA: \"I know. I was watching a re-run. I have nothing to do and I was bored.\"\nB: \"Me too. Let's get together and do something.\"\nA: \"I'd like to, but I have to meet my parents in an hour for dinner. How about tomorrow?\"\nB: \"Yeah. Let's plan something tomorrow.\"\nA: \"Did you hear the weather forecast for tomorrow?\"\nB: \"I think it is going to be the same as today. Clear and sunny.\"\nA: \"That's great. We can do something outdoors then.\"\nB: \"Are there any special events going on tomorrow?\"\nA: \"Yeah. I think there's a live outdoor concert by the river tomorrow.\"\nB: \"Oh yeah. I heard about that too. Let's go check it out.\"\nA: \"Do you know what time it starts?\"\nB: \"It starts at one PM.\"\nA: \"Let's meet for lunch at eleven thirty and afterwards, we can head over there.\"\nB: \"Perfect. I'll see you in front of the apartment at eleven thirty.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=202",
+  "crawledAt": "2025-11-24T14:29:54.468Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 525,
+  "sectionId": 19,
+  "number": 13,
+  "title": "Project Change",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=496",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/496-long.mp3",
+  "content": "There are times when a project changes and you have to tell your direct to change something. Let's work on some sentences where you do this.\n\"I know you have been working on the database using excel, but we need to use SQL. Can you make the necessary changes?\"\nAlthough you don't have to be polite to your direct, it is good practice to show directs some common courtesy. In the sentence above, it recognizes the work that has been done so far, instructs what needs to be changed, and politely asks if they can do it. You should follow a similar way of asking your direct to change something.\nIn another scenario, your direct might give you a report to review. If something is incorrect, or not complete, you should tell them professionally what needs to be redone.\n\"Hey Jackie, I reviewed your report and there are a couple areas you have to change. Can you double check the figures you provided in page 7, and provide a recommendation for step 3? I would appreciate it.\"\nThis example is a little more firm, but still polite. It states that changes are required, it then asks if two things can be changed, and finally, adds a good comment about appreciating the work.\nFinally, your direct could be doing something on a regular basis that you don't like. As a manager, you should tolerate things that do not affect the work, but if there is something that is work related, it is your responsibility to tell that person. Let's use an example where a person has a habit of talking before someone finishes.\n\"John, when we are discussing something in meetings or small groups, I noticed that you don't allow the other person to complete their sentences. I do appreciate your contributions, but I think you should always hear the other person out. Can you try to do that?\"\nAdding a simple phrase like appreciating the contribution can make a huge difference when giving criticism. There is a great chance the direct will be offended or upset. But if you add a small compliment in there, the chances of the direct accepting your criticism will be that much greater.",
+  "examples": [
+    {
+      "sentence": "I know you have been working on the database using excel, but we need to use SQL. Can you make the necessary changes?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B50/sentence/B50S1.mp3"
+    },
+    {
+      "sentence": "Hey Jackie, I reviewed your report and there are a couple areas you have to change. Can you double check the figures you provided in page 7, and provide a recommendation for step 3? I would appreciate it.",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B50/sentence/B50S2.mp3"
+    },
+    {
+      "sentence": "John, when we are discussing something in meetings or small groups, I noticed that you don't allow the other person to complete their sentences. I do appreciate your contributions, but I think you should always hear the other person out. Can you try to do that?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B50/sentence/B50S3.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=497",
+  "crawledAt": "2025-11-24T14:20:42.813Z"
+}

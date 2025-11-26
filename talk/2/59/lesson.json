@@ -1,0 +1,68 @@
+{
+  "id": 59,
+  "sectionId": 2,
+  "number": 30,
+  "title": "Do you like",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2060",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2060-long.mp3",
+  "content": "With this question you are asking someone what they prefer or enjoy.\nHere are some examples:\n\"Do you like traveling on a plane?\"\n\"Do you like watching baseball on TV?\"\n\"Do you like skiing or snowboarding?\"\n\"Do you like going to bed early?\"\n\"Do you like spending time with me?\"\n\"Do you like repeating the class?\"\n\"Do you like playing video games?\"\n\"Do you like listening to music?\"\n\"Do you like practicing playing the piano?\"\n\"Do you like jogging with me?\"",
+  "examples": [
+    {
+      "sentence": "Do you like traveling on a plane?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S1.mp3"
+    },
+    {
+      "sentence": "Do you like watching baseball on TV?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S2.mp3"
+    },
+    {
+      "sentence": "Do you like skiing or snowboarding?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S3.mp3"
+    },
+    {
+      "sentence": "Do you like going to bed early?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S4.mp3"
+    },
+    {
+      "sentence": "Do you like spending time with me?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S5.mp3"
+    },
+    {
+      "sentence": "Do you like repeating the class?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S6.mp3"
+    },
+    {
+      "sentence": "Do you like playing video games?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S7.mp3"
+    },
+    {
+      "sentence": "Do you like listening to music?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S8.mp3"
+    },
+    {
+      "sentence": "Do you like practicing playing the piano?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S9.mp3"
+    },
+    {
+      "sentence": "Do you like jogging with me?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E60/sentence/E060S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2061",
+  "crawledAt": "2025-11-24T14:10:26.197Z"
+}

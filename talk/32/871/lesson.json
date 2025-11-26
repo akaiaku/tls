@@ -1,0 +1,120 @@
+{
+  "id": 871,
+  "sectionId": 32,
+  "number": 9,
+  "title": "Basic Listening Lesson #09",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=108",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L36/practice/L36P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Person A works and watches TV all day. What is he starting to think about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "His health"
+          },
+          {
+            "value": "b",
+            "text": "Playing basketball"
+          },
+          {
+            "value": "c",
+            "text": "The next great movie"
+          },
+          {
+            "value": "d",
+            "text": "Work he didn't finish yet"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What suggestion is made to get more exercise?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Running or Jogging"
+          },
+          {
+            "value": "b",
+            "text": "Doing more outdoor activities"
+          },
+          {
+            "value": "c",
+            "text": "Going to the local gym"
+          },
+          {
+            "value": "d",
+            "text": "Geting a health club membership"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What type of lessons are they considering?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Music lessons"
+          },
+          {
+            "value": "b",
+            "text": "Piano lessons"
+          },
+          {
+            "value": "c",
+            "text": "Tennis lessons"
+          },
+          {
+            "value": "d",
+            "text": "English lessons"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "For $120, how often will they meet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Everyday for a month"
+          },
+          {
+            "value": "b",
+            "text": "Once a week for two months"
+          },
+          {
+            "value": "c",
+            "text": "Twice a week for one month"
+          },
+          {
+            "value": "d",
+            "text": "8 Weeks"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Hi health",
+      "Doing more outdoor activities",
+      "Tennis lessons",
+      "Twice a week for one month"
+    ]
+  },
+  "transcript": "A: \"All I do all day is work and watch TV. I really should start thinking about my health.\"\nB: \"I never thought about that, but you're right. What do you think we should do?\"\nA: \"For starters, we should start doing more outdoor activities. That way we'll get some exercise.\"\nB: \"I was thinking about taking tennis lessons. I always have an hour to spare in the afternoon. What do you think about that?\"\nA: \"That's not a bad idea. How much is it?\"\nB: \"I heard it is only about one hundred twenty dollars a month for 8 lessons.\"\nA: \"Playing tennis twice a week will be a good start. Count me in.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=109",
+  "crawledAt": "2025-11-24T14:28:38.965Z"
+}

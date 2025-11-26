@@ -1,0 +1,120 @@
+{
+  "id": 919,
+  "sectionId": 33,
+  "number": 23,
+  "title": "Intermediate Listening Lesson #23",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=222",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L143/practice/L143P1.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What material is the bracelet?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Platinum"
+          },
+          {
+            "value": "b",
+            "text": "Silver"
+          },
+          {
+            "value": "c",
+            "text": "White gold"
+          },
+          {
+            "value": "d",
+            "text": "Gold"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What was the occasion of the gift?",
+        "options": [
+          {
+            "value": "a",
+            "text": "No occasion"
+          },
+          {
+            "value": "b",
+            "text": "A birthday present"
+          },
+          {
+            "value": "c",
+            "text": "Anniversary present"
+          },
+          {
+            "value": "d",
+            "text": "A wedding present"
+          }
+        ],
+        "correctAnswer": "a"
+      },
+      {
+        "question": "What does she want next?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A ring"
+          },
+          {
+            "value": "b",
+            "text": "A bracelet"
+          },
+          {
+            "value": "c",
+            "text": "A necklace"
+          },
+          {
+            "value": "d",
+            "text": "A pendant"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When does she want a ring from her boyfriend?",
+        "options": [
+          {
+            "value": "a",
+            "text": "As soon as possible"
+          },
+          {
+            "value": "b",
+            "text": "Next year"
+          },
+          {
+            "value": "c",
+            "text": "Never"
+          },
+          {
+            "value": "d",
+            "text": "A little later after she is ready"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "White gold",
+      "No occasion",
+      "A necklace",
+      "A little later after she is ready"
+    ]
+  },
+  "transcript": "A: \"I love your bracelet. When did you get it?\"\nB: \"I got it awhile ago, but I haven't worn it much. You really like it?\"\nA: \"Yeah. It's beautiful. Is it white gold or silver?\"\nB: \"It's white gold.\"\nA: \"Where did you buy it?\"\nB: \"My boyfriend took me to the Shane Co. and he let me pick it out.\"\nA: \"That's so sweet. What was the occasion?\"\nB: \"That's the best part. It wasn't for anything special. He just wanted to buy me something.\"\nA: \"You're so lucky. If he bought you something for no special day, I wonder what he would buy you for your birthday.\"\nB: \"My birthday is coming up next month. We'll find out pretty soon.\"\nA: \"What do you want?\"\nB: \"I wouldn't mind a necklace. I was at the jewelry shop looking around, and they have a couple of beautiful necklaces I want.\"\nA: \"Why not a ring?\"\nB: \"I don't think I'm ready for a ring from him yet.\"\nA: \"But you're ready for everything else?\"\nB: \"Damn right.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=223",
+  "crawledAt": "2025-11-24T14:30:55.348Z"
+}

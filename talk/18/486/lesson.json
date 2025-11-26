@@ -1,0 +1,83 @@
+{
+  "id": 486,
+  "sectionId": 18,
+  "number": 18,
+  "title": "Software",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=457",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/457-long.mp3",
+  "content": "Different companies use different software programs. For example, a tax firm might use a program for tax purposes, and an insurance company will use their own software for inputting data to retrieve quotes for customers. You might not have the software or it might be broken. I'll have some example sentences for these situations.\n\"What software do you use here?\"\n\"What kind of application do you use to keep track of all these records?\"\n\"Martha told me about TaxIt. When can I get a copy?\"\n\"Is there a manual how to use this program?\"\n\"How do you use this?\"\n\"TaxIt won't open any more. I think it's broken.\"\n\"I can't get TaxIt to work. Can someone help me with this?\"\n\"Microsoft Office applications do everything we need. That's all we use here.\"\n\"What version of Office do you use here?\"\n\"What software do you use for word processing?\"\n\"All the documents are saved using MSWord. Do you have Word or another application that will be able to read the information?\"\n\"We use a different word processing application. Can you save as a text file?\"\n\"I can't open the file that you gave me. What version of Word are you using?\"",
+  "examples": [
+    {
+      "sentence": "What software do you use here?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S1.mp3"
+    },
+    {
+      "sentence": "What kind of application do you use to keep track of all these records?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S2.mp3"
+    },
+    {
+      "sentence": "Martha told me about TaxIt. When can I get a copy?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S3.mp3"
+    },
+    {
+      "sentence": "Is there a manual how to use this program?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S4.mp3"
+    },
+    {
+      "sentence": "How do you use this?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S5.mp3"
+    },
+    {
+      "sentence": "TaxIt won't open any more. I think it's broken.",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S6.mp3"
+    },
+    {
+      "sentence": "I can't get TaxIt to work. Can someone help me with this?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S7.mp3"
+    },
+    {
+      "sentence": "Microsoft Office applications do everything we need. That's all we use here.",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S8.mp3"
+    },
+    {
+      "sentence": "What version of Office do you use here?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S9.mp3"
+    },
+    {
+      "sentence": "What software do you use for word processing?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S10.mp3"
+    },
+    {
+      "sentence": "All the documents are saved using MSWord. Do you have Word or another application that will be able to read the information?",
+      "audio": "example_11.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S11.mp3"
+    },
+    {
+      "sentence": "We use a different word processing application. Can you save as a text file?",
+      "audio": "example_12.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S12.mp3"
+    },
+    {
+      "sentence": "I can't open the file that you gave me. What version of Word are you using?",
+      "audio": "example_13.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/B16/sentence/B16S13.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=458",
+  "crawledAt": "2025-11-24T14:19:51.461Z"
+}

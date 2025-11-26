@@ -1,0 +1,120 @@
+{
+  "id": 921,
+  "sectionId": 33,
+  "number": 25,
+  "title": "Intermediate Listening Lesson #25",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=224",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L143/practice/L143P3.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What type of ring are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A wedding ring"
+          },
+          {
+            "value": "b",
+            "text": "A couples ring"
+          },
+          {
+            "value": "c",
+            "text": "An engagement ring"
+          },
+          {
+            "value": "d",
+            "text": "A lucky ring"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "When does this person plan on getting married?",
+        "options": [
+          {
+            "value": "a",
+            "text": "In March"
+          },
+          {
+            "value": "b",
+            "text": "In June"
+          },
+          {
+            "value": "c",
+            "text": "In July"
+          },
+          {
+            "value": "d",
+            "text": "In September"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What kind of watch are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "A Rolex"
+          },
+          {
+            "value": "b",
+            "text": "A Timex"
+          },
+          {
+            "value": "c",
+            "text": "A Tag Heuer"
+          },
+          {
+            "value": "d",
+            "text": "A Cartier"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "How much was the watch?",
+        "options": [
+          {
+            "value": "a",
+            "text": "$600"
+          },
+          {
+            "value": "b",
+            "text": "$1500"
+          },
+          {
+            "value": "c",
+            "text": "$2500"
+          },
+          {
+            "value": "d",
+            "text": "$3000"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "An engagement ring",
+      "In June",
+      "A Tag Heuer",
+      "$1500"
+    ]
+  },
+  "transcript": "A: \"What a beautiful watch. It goes very well with your ring.\"\nB: \"Thank you.\"\nA: \"Is that your wedding ring?\"\nB: \"I'm not married yet. It's my engagement ring.\"\nA: \"Well, congratulations. When is the big date?\"\nB: \"In June.\"\nA: \"Did you have the watch before getting the ring?\"\nB: \"Actually, we bought the ring together after I got the watch.\"\nA: \"You did a fabulous job with the selection. It's gorgeous.\"\nB: \"Thank you so much.\"\nA: \"What kind of watch is it?\"\nB: \"It's a Tag Heuer.\"\nA: \"If you don't mind me asking, how much do they cost?\"\nB: \"This one is $1500. But they range from $600 to $3000.\"\nA: \"That's why it looks so nice. I should have figured. You always get what you pay for.\"\nB: \"Yeah. I would rather get one nice watch instead of 20 mediocre ones.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=225",
+  "crawledAt": "2025-11-24T14:31:00.871Z"
+}

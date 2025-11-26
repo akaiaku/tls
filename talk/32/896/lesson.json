@@ -1,0 +1,120 @@
+{
+  "id": 896,
+  "sectionId": 32,
+  "number": 34,
+  "title": "Basic Listening Lesson #34",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=133",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L180/practice/L180P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What does having a long face represent?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The face is not short"
+          },
+          {
+            "value": "b",
+            "text": "The face is narrow but long"
+          },
+          {
+            "value": "c",
+            "text": "Represents happiness"
+          },
+          {
+            "value": "d",
+            "text": "Represents unhappiness"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What happened at work that caused the long face?",
+        "options": [
+          {
+            "value": "a",
+            "text": "He got a promotion"
+          },
+          {
+            "value": "b",
+            "text": "A different person got a promotion"
+          },
+          {
+            "value": "c",
+            "text": "He got a raise"
+          },
+          {
+            "value": "d",
+            "text": "He lost his job"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What topic are they talking about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Fun classes at school"
+          },
+          {
+            "value": "b",
+            "text": "Being busy at work"
+          },
+          {
+            "value": "c",
+            "text": "Stress from work"
+          },
+          {
+            "value": "d",
+            "text": "Drinking and partying"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What do they plan on drinking?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Coke"
+          },
+          {
+            "value": "b",
+            "text": "Whiskey"
+          },
+          {
+            "value": "c",
+            "text": "Beer"
+          },
+          {
+            "value": "d",
+            "text": "Water"
+          }
+        ],
+        "correctAnswer": "c"
+      }
+    ],
+    "answers": [
+      "Represents unhappiness",
+      "A different person got a promotion",
+      "Stress from work",
+      "Beer"
+    ]
+  },
+  "transcript": "A: \"Why the long face?\"\nB: \"I'm getting sick of work man. I can't take the political bull in the company any more.\"\nA: \"Did you just get your review or something?\"\nB: \"Yeah, but that's not why I am upset. I just found out another guy got a promotion. He doesn't know how to do anything. He sits there and kisses the managers butt all day long.\"\nA: \"That sucks.\"\nB: \"I'm just pissed that management can't see behind his smooth talking lies.\"\nA: \"Look on the bright side. At least you have a job.\"\nB: \"Yeah. I shouldn't stress about this anymore. It's not like I can do anything about it.\"\nA: \"Exactly. Instead, we should have some drinks tonight.\"\nB: \"How about a cold bottle of beer.\"\nA: \"Now you're talking.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=200",
+  "crawledAt": "2025-11-24T14:29:48.983Z"
+}

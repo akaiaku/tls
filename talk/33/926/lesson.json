@@ -1,0 +1,120 @@
+{
+  "id": 926,
+  "sectionId": 33,
+  "number": 30,
+  "title": "Intermediate Listening Lesson #30",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=229",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L172/practice/L172P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "What description is used for a breakup?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It is unpleasant but necessary"
+          },
+          {
+            "value": "b",
+            "text": "It was the worst feeling in the world"
+          },
+          {
+            "value": "c",
+            "text": "It was bearable"
+          },
+          {
+            "value": "d",
+            "text": "It sucked"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What time frame did the friend mention for the pain?",
+        "options": [
+          {
+            "value": "a",
+            "text": "It lasts a long time"
+          },
+          {
+            "value": "b",
+            "text": "It is over before you know it"
+          },
+          {
+            "value": "c",
+            "text": "It will never get better"
+          },
+          {
+            "value": "d",
+            "text": "It is only temporary"
+          }
+        ],
+        "correctAnswer": "d"
+      },
+      {
+        "question": "What did his friend tell him to think about?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Think about all the good memories"
+          },
+          {
+            "value": "b",
+            "text": "Think of all the bad things"
+          },
+          {
+            "value": "c",
+            "text": "Think how stupid the relationship was"
+          },
+          {
+            "value": "d",
+            "text": "Think about a new girl"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What final recommendation did his friend give him?",
+        "options": [
+          {
+            "value": "a",
+            "text": "To eat a lot of food"
+          },
+          {
+            "value": "b",
+            "text": "To be around people"
+          },
+          {
+            "value": "c",
+            "text": "To start old hobbies"
+          },
+          {
+            "value": "d",
+            "text": "To watch a lot of TV"
+          }
+        ],
+        "correctAnswer": "b"
+      }
+    ],
+    "answers": [
+      "It was the worst feeling in the world",
+      "It is only temporary",
+      "Think of all the bad things",
+      "To be around people"
+    ]
+  },
+  "transcript": "A: \"Why are you so quiet?\"\nB: \"My girlfriend just broke up with me.\"\nA: \"You must feel terrible now.\"\nB: \"Yeah.\"\nA: \"I remember my first break up. It was the worst feeling in the world. I was crying everyday for three months. And slowly, it got better. I know you'll feel better too.\"\nB: \"You've been through this too?\"\nA: \"Yeah. I remember it very clearly. The pain makes it easy to remember. I know you're really hurting right now, but you know many people experience break ups.\"\nB: \"But it hurts too much.\"\nA: \"I know it's painful, but it's only temporary. After the pain goes away, you'll find other girls.\"\nB: \"What if I don't want to find another girl?\"\nA: \"You'll change your mind. Look at everyone in the world. They all break up and move on. The faster you understand this, the quicker you will recover.\"\nB: \"You're right.\"\nA: \"I also know you must still have strong feelings for her, but try to think of all the bad things. You know she didn't treat you that well. Is that the person you want to spend the rest of your life with?\"\nB: \"Yeah. Thanks for the talk.\"\nA: \"I'll give you a call later. We should hang out. It's good to be around people.\"\nB: \"Ok. I'll talk to you later.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=230",
+  "crawledAt": "2025-11-24T14:31:15.012Z"
+}

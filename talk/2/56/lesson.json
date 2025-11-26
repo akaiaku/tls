@@ -1,0 +1,68 @@
+{
+  "id": 56,
+  "sectionId": 2,
+  "number": 27,
+  "title": "Are you trying to + (verb)",
+  "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=2057",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "main.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/audiolongTE/2057-long.mp3",
+  "content": "You are asking someone if they are attempting to do something. This can be something mentally or physically.\nHere are some examples:\n\"Are you trying to ignore me?\"\n\"Are you trying to manage your money?\"\n\"Are you trying to memorize that song?\"\n\"Are you trying to offer your help?\"\n\"Are you trying to program your new phone?\"\n\"Are you trying to pretend like it never happened?\"\n\"Are you trying to remain calm?\"\n\"Are you trying to remember her name?\"\n\"Are you trying to reflect on the past?\"\n\"Are you trying to switch flights?\"",
+  "examples": [
+    {
+      "sentence": "Are you trying to ignore me?",
+      "audio": "example_1.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S1.mp3"
+    },
+    {
+      "sentence": "Are you trying to manage your money?",
+      "audio": "example_2.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S2.mp3"
+    },
+    {
+      "sentence": "Are you trying to memorize that song?",
+      "audio": "example_3.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S3.mp3"
+    },
+    {
+      "sentence": "Are you trying to offer your help?",
+      "audio": "example_4.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S4.mp3"
+    },
+    {
+      "sentence": "Are you trying to program your new phone?",
+      "audio": "example_5.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S5.mp3"
+    },
+    {
+      "sentence": "Are you trying to pretend like it never happened?",
+      "audio": "example_6.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S6.mp3"
+    },
+    {
+      "sentence": "Are you trying to remain calm?",
+      "audio": "example_7.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S7.mp3"
+    },
+    {
+      "sentence": "Are you trying to remember her name?",
+      "audio": "example_8.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S8.mp3"
+    },
+    {
+      "sentence": "Are you trying to reflect on the past?",
+      "audio": "example_9.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S9.mp3"
+    },
+    {
+      "sentence": "Are you trying to switch flights?",
+      "audio": "example_10.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/E57/sentence/E057S10.mp3"
+    }
+  ],
+  "quiz": null,
+  "transcript": null,
+  "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2058",
+  "crawledAt": "2025-11-24T14:10:22.287Z"
+}

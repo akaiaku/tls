@@ -1,0 +1,120 @@
+{
+  "id": 963,
+  "sectionId": 34,
+  "number": 33,
+  "title": "Advanced Listening Lesson #33",
+  "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=332",
+  "videoId": "",
+  "videoUrl": "",
+  "mainAudio": "",
+  "mainAudioUrl": "",
+  "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
+  "examples": [
+    {
+      "sentence": "Listen to Dialog",
+      "audio": "dialog.mp3",
+      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L181/practice/L181P2.mp3"
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "question": "Why did it take so long for the guy to ask the girl on a date?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Because he didn't like her earlier"
+          },
+          {
+            "value": "b",
+            "text": "Because she was dating a different guy"
+          },
+          {
+            "value": "c",
+            "text": "Because he thought she was interested in a different guy"
+          },
+          {
+            "value": "d",
+            "text": "Because he already had a girlfriend"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "What drama did they like so much?",
+        "options": [
+          {
+            "value": "a",
+            "text": "The three amigos"
+          },
+          {
+            "value": "b",
+            "text": "Pay it forward"
+          },
+          {
+            "value": "c",
+            "text": "The mask"
+          },
+          {
+            "value": "d",
+            "text": "Stand by me"
+          }
+        ],
+        "correctAnswer": "b"
+      },
+      {
+        "question": "What does the girl like to do for exercise besides going to the health club?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Likes to play sports"
+          },
+          {
+            "value": "b",
+            "text": "Likes to run on the tread mill at home"
+          },
+          {
+            "value": "c",
+            "text": "Likes to jog around the lake"
+          },
+          {
+            "value": "d",
+            "text": "Doesn't like to exercise"
+          }
+        ],
+        "correctAnswer": "c"
+      },
+      {
+        "question": "Why does the girl like to shop in downtown versus the mall?",
+        "options": [
+          {
+            "value": "a",
+            "text": "Outdoor walking is better than the indoor mall"
+          },
+          {
+            "value": "b",
+            "text": "More sales are offered in downtown"
+          },
+          {
+            "value": "c",
+            "text": "Because she lives closer to downtown"
+          },
+          {
+            "value": "d",
+            "text": "More fun with less students"
+          }
+        ],
+        "correctAnswer": "d"
+      }
+    ],
+    "answers": [
+      "Because he thought she was interested in a different guy",
+      "Pay it forward",
+      "Likes to jog around the lake",
+      "More fun with less students"
+    ]
+  },
+  "transcript": "A: \"I can't believe it took you so long to ask me out on a date.\"\nB: \"I always thought you liked Mark, so I didn't think I had a chance.\"\nA: \"I had this thing about him, but it's over. So, what do you like to do on your free time?\"\nB: \"I like sports, watching movies, reading books. Things like that.\"\nA: \"What type of movies do you like?\"\nB: \"I like drama and comedy.\"\nA: \"Me too. Mostly drama though. Have you seen Pay it forward?\"\nB: \"Yeah. I loved that movie.\"\nA: \"It's one of my favorites. I cried so much at the end.\"\nB: \"I thought the idea of paying it forward was awesome.\"\nA: \"What was your favorite comedy?\"\nB: \"Do you remember the Three Amigos?\"\nA: \"Vaguely. I was pretty little when that came out.\"\nB: \"I don't remember it much back then, but I saw it again the other day and it cracked me up.\"\nA: \"Maybe I need to see that movie again.\"\nB: \"I think it is a classic. So many funny scenes.\"\nA: \"I really liked the Mask with Jim Carrey.\"\nB: \"He is hilarious. I love that guy.\"\nA: \"I like most of his movies. He is such a character.\"\nB: \"What else do you like to do?\"\nA: \"Well, I like to exercise.\"\nB: \"Where do you exercise?\"\nA: \"I go to a health club by my house. But on a nice day, I like to jog around the lake.\"\nB: \"That's good. I like to stay in shape too. But I do that by playing a lot of sports. Do you play any sports?\"\nA: \"I played a little bit in high school, but nothing really these days.\"\nB: \"Have you tried golf?\"\nA: \"Don't start with that. My dad always nagged at me to play, but I never got into it.\"\nB: \"What do you usually do with your friends?\"\nA: \"We go out shopping a lot.\"\nB: \"Where do you usually go?\"\nA: \"Usually downtown. It's more fun in the city than in the mall. Plus, there are too many high school students at the mall.\"\nB: \"I know some girls like bags, and some like shoes, what do you like to shop for the most?\"\nA: \"I can never have too many pairs of shoes. I have like 30 pairs already, but I am always shopping for more.\"\nB: \"Oh. The foods here.\"\nA: \"Great. I'm so hungry.\"\nB: \"After dinner, do you want to catch a movie?\"\nA: \"Sure. I'm always up for a good movie.\"",
+  "nextLesson": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=333",
+  "crawledAt": "2025-11-24T14:33:32.304Z"
+}

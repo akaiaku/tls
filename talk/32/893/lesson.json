@@ -6,16 +6,9 @@
   "url": "https://www.talkenglish.com/listening/lessonlisten.aspx?ALID=130",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "dialog.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L165/practice/L165P1.mp3",
   "content": "Step 1: Listen to Dialog\n\nStep 2: Quiz - View Questions\n\nStep 3: Show Conversation Dialog",
-  "examples": [
-    {
-      "sentence": "Listen to Dialog",
-      "audio": "dialog.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/L165/practice/L165P1.mp3"
-    }
-  ],
   "quiz": {
     "questions": [
       {

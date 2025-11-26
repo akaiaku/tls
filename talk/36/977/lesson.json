@@ -6,46 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=013",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S1.mp3",
   "content": "Listen to the lesson\nInstruction: To create the TH sound, place the tongue on the bottom of the upper tooth. Your tongue should almost be sticking out. Then blow air between the tongue and the top teeth.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nThere\nToothpaste\nBath\n\"There is a bike in front of that store\"\n\"Brush your teeth with a toothpaste that has fluoride\"\n\"My son played in the mud puddle, so I am going to give him a bath\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S1.mp3"
-    },
-    {
-      "sentence": "There",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S2.mp3"
-    },
-    {
-      "sentence": "Toothpaste",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S3.mp3"
-    },
-    {
-      "sentence": "Bath",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S4.mp3"
-    },
-    {
-      "sentence": "There is a bike in front of that store",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S5.mp3"
-    },
-    {
-      "sentence": "Brush your teeth with a toothpaste that has fluoride",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S6.mp3"
-    },
-    {
-      "sentence": "My son played in the mud puddle, so I am going to give him a bath",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S13S7.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=14",

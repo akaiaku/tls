@@ -6,76 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=007",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S1.mp3",
   "content": "Listen to the lesson\nInstruction: Slightly press the middle portion or your tongue to the top of your mouth. More pressure should be on the side of the tongue than the center as you press the top portion of your mouth. Then blow air outward through the small opening.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nSalad\nMassive\nHouse\n\"He bought some lettuce to make salad for dinner\"\n\"The massive tornado only left a few number of houses standing\"\n\"The small green house was on a large piece of land\"\nZebra\nResume\nRose\n\"The zebra was too quick for the lion\"\n\"The game will resume after a brief intermission\"\n\"The cozy house had a beautiful rose bush in the backyard\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S1.mp3"
-    },
-    {
-      "sentence": "Salad",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S2.mp3"
-    },
-    {
-      "sentence": "Massive",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S3.mp3"
-    },
-    {
-      "sentence": "House",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S4.mp3"
-    },
-    {
-      "sentence": "He bought some lettuce to make salad for dinner",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S5.mp3"
-    },
-    {
-      "sentence": "The massive tornado only left a few number of houses standing",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S6.mp3"
-    },
-    {
-      "sentence": "The small green house was on a large piece of land",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S7.mp3"
-    },
-    {
-      "sentence": "Zebra",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S8.mp3"
-    },
-    {
-      "sentence": "Resume",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S9.mp3"
-    },
-    {
-      "sentence": "Rose",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S10.mp3"
-    },
-    {
-      "sentence": "The zebra was too quick for the lion",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S11.mp3"
-    },
-    {
-      "sentence": "The game will resume after a brief intermission",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S12.mp3"
-    },
-    {
-      "sentence": "The cozy house had a beautiful rose bush in the backyard",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S7S13.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=8",

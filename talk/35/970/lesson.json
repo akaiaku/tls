@@ -6,76 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=006",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S1.mp3",
   "content": "Listen to the lesson\nInstruction: Press the top front teeth against the bottom lip and release as you blow air out.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nFiction\nInflicted\nLaugh\n\"Even though the story was a fiction, the children were afraid\"\n\"The damage the car inflicted was too severe to fix\"\n\"His laugh was so loud, the whole floor was shaking\"\nVase\nCurveball\nBelieve\n\"This vase is over a hundred years old and is very important to the country\"\n\"The batter had a hard time hitting the curveball\"\n\"Whether you believe it or not, I was victorious\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S1.mp3"
-    },
-    {
-      "sentence": "Fiction",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S2.mp3"
-    },
-    {
-      "sentence": "Inflicted",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S3.mp3"
-    },
-    {
-      "sentence": "Laugh",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S4.mp3"
-    },
-    {
-      "sentence": "Even though the story was a fiction, the children were afraid",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S5.mp3"
-    },
-    {
-      "sentence": "The damage the car inflicted was too severe to fix",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S6.mp3"
-    },
-    {
-      "sentence": "His laugh was so loud, the whole floor was shaking",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S7.mp3"
-    },
-    {
-      "sentence": "Vase",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S8.mp3"
-    },
-    {
-      "sentence": "Curveball",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S9.mp3"
-    },
-    {
-      "sentence": "Believe",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S10.mp3"
-    },
-    {
-      "sentence": "This vase is over a hundred years old and is very important to the country",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S11.mp3"
-    },
-    {
-      "sentence": "The batter had a hard time hitting the curveball",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S12.mp3"
-    },
-    {
-      "sentence": "Whether you believe it or not, I was victorious",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S6S13.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=7",

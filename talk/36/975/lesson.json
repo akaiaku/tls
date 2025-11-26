@@ -6,46 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=011",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S1.mp3",
   "content": "Listen to the lesson\nPronunciation for the W sound is not too difficult. This sound is very close to vowel sounds.\nInstruction: Make the lips narrow and close to each other without the lips touching. Also make the inside of the mouth closer together. Then move the lips and mouth further apart as you make this sound.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nWhen\nWork\nAway\n\"When will you do your homework\"\n\"Who is going to drive you to work\"\n\"How far away do you live\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S1.mp3"
-    },
-    {
-      "sentence": "When",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S2.mp3"
-    },
-    {
-      "sentence": "Work",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S3.mp3"
-    },
-    {
-      "sentence": "Away",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S4.mp3"
-    },
-    {
-      "sentence": "When will you do your homework",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S5.mp3"
-    },
-    {
-      "sentence": "Who is going to drive you to work",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S6.mp3"
-    },
-    {
-      "sentence": "How far away do you live",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S11S7.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=12",

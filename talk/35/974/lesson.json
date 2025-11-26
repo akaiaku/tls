@@ -6,76 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=010",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S1.mp3",
   "content": "Listen to the lesson\nThe letter R is difficult for many English learners. I will try to provide a good explanation with many examples to help students practice pronouncing the letter R.\nInstruction: To successfully make the R sound, curl the tongue upward without touching the top portion of the mouth. You should also curl the sides of the tongue upward so it is very close to the upper molars. In this position, make a roaring sound like a lion forcing air out of the nose and mouth at the same time. If you are confused about how you should position the tongue, try to make the shape of a bowl with your tongue. The sides should touch the top, but the tip of the tongue should not touch the top part of the mouth.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nRacing\nRoad\nGrowl\nCarry\nVery\nFaster\n\"He got a speeding ticket for racing\"\n\"The road home is usually long and lonely\"\n\"The dog was growling at the cat\"\n\"She hurt her leg so he had to carry her home\"\n\"You did a very good job\"\n\"If the zebra doesn't run any faster, the lion will catch up\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S1.mp3"
-    },
-    {
-      "sentence": "Racing",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S2.mp3"
-    },
-    {
-      "sentence": "Road",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S3.mp3"
-    },
-    {
-      "sentence": "Growl",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S4.mp3"
-    },
-    {
-      "sentence": "Carry",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S5.mp3"
-    },
-    {
-      "sentence": "Very",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S6.mp3"
-    },
-    {
-      "sentence": "Faster",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S7.mp3"
-    },
-    {
-      "sentence": "He got a speeding ticket for racing",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S8.mp3"
-    },
-    {
-      "sentence": "The road home is usually long and lonely",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S9.mp3"
-    },
-    {
-      "sentence": "The dog was growling at the cat",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S10.mp3"
-    },
-    {
-      "sentence": "She hurt her leg so he had to carry her home",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S11.mp3"
-    },
-    {
-      "sentence": "You did a very good job",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S12.mp3"
-    },
-    {
-      "sentence": "If the zebra doesn't run any faster, the lion will catch up",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S10S13.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=11",

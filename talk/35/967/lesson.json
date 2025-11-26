@@ -6,76 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=003",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S1.mp3",
   "content": "Listen to the lesson\nThis lesson will cover the hard sound for letter G. For the soft sound of letter G, please refer to the CH and J lesson.\nInstruction: The rear portion of your tongue should move up towards the rear part of the mouth, slightly touching it when the sound is made.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nGoose\nTogether\nTug\n\"The big goose flew off with my golf ball\"\n\"The guests won't mind if we pay together\"\n\"The constant tug of the little girl finally woke up the father\"\nKelly\nMaking\nPotluck\n\"My friend Kelly said she will come by soon\"\n\"I was making the ingredients for breakfast\"\n\"I didn't need to bake anything for the potluck\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S1.mp3"
-    },
-    {
-      "sentence": "Goose",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S2.mp3"
-    },
-    {
-      "sentence": "Together",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S3.mp3"
-    },
-    {
-      "sentence": "Tug",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S4.mp3"
-    },
-    {
-      "sentence": "The big goose flew off with my golf ball",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S5.mp3"
-    },
-    {
-      "sentence": "The guests won't mind if we pay together",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S6.mp3"
-    },
-    {
-      "sentence": "The constant tug of the little girl finally woke up the father",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S7.mp3"
-    },
-    {
-      "sentence": "Kelly",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S8.mp3"
-    },
-    {
-      "sentence": "Making",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S9.mp3"
-    },
-    {
-      "sentence": "Potluck",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S10.mp3"
-    },
-    {
-      "sentence": "My friend Kelly said she will come by soon",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S11.mp3"
-    },
-    {
-      "sentence": "I was making the ingredients for breakfast",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S12.mp3"
-    },
-    {
-      "sentence": "I didn't need to bake anything for the potluck",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S3S13.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=4",

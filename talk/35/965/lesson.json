@@ -6,76 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=001",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S1.mp3",
   "content": "Listen to the lesson\nThe letters P and B are similar.\nInstruction: Have your lips pressed together and then slighly push air out of your mouth forcing your lips apart.\nThese two letters do not require any nasal sound.\nHere are some words and sentences to help you hear what they should sound like. Click on any word or sentence to hear the correct sound.\nBorder\nBaseball\nAbnormal\n\"The baseball player got hurt when he went to bat\"\n\"The border patrol was given the best officer award\"\n\"The Abnormal tissue was being carefully examined\"\nPainting\nAppeal\nLapse\n\"The painting that was stolen was a precious art piece\"\n\"The pesty lawyer went to appeal his case\"\n\"The lapse of time caused him to bite his lip\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S1.mp3"
-    },
-    {
-      "sentence": "Border",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S2.mp3"
-    },
-    {
-      "sentence": "Baseball",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S3.mp3"
-    },
-    {
-      "sentence": "Abnormal",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S4.mp3"
-    },
-    {
-      "sentence": "The baseball player got hurt when he went to bat",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S5.mp3"
-    },
-    {
-      "sentence": "The border patrol was given the best officer award",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S6.mp3"
-    },
-    {
-      "sentence": "The Abnormal tissue was being carefully examined",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S7.mp3"
-    },
-    {
-      "sentence": "Painting",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S8.mp3"
-    },
-    {
-      "sentence": "Appeal",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S9.mp3"
-    },
-    {
-      "sentence": "Lapse",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S10.mp3"
-    },
-    {
-      "sentence": "The painting that was stolen was a precious art piece",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S11.mp3"
-    },
-    {
-      "sentence": "The pesty lawyer went to appeal his case",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S12.mp3"
-    },
-    {
-      "sentence": "The lapse of time caused him to bite his lip",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S1S13.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=2",

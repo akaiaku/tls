@@ -6,86 +6,9 @@
   "url": "https://www.talkenglish.com/lessondetails.aspx?ALID=017",
   "videoId": "",
   "videoUrl": "",
-  "mainAudio": "",
-  "mainAudioUrl": "",
+  "mainAudio": "example_1.mp3",
+  "mainAudioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S1.mp3",
   "content": "Listen to the lesson\nThere are two sounds using the letter I. The short of way saying \"I\" is very similar to the ee sound such as pin and win. The long sound is like the letter \"I\" that is actually considered a multi-vowel sound with A and I together such as pie and fry.\nLet's first take a look at the short \"I\" sound.\nSwim\nPrimrose\nTrim\nFish\n\"Do you know how to swim\"\n\"How to grow primroses in your garden\"\n\"You need to trim off the fat\"\n\"The fin was small in comparison to the size of the fish\"\nThe long \"I\" sound is a combination of \"A\" and \"I\" together. The sound starts with ah and ends with ee as in \"I\"\nAisle\nTry\nComply\n\"Who is going to walk you down the aisle\"\n\"Don't try so hard or you'll burn out before finishing\"\n\"You should comply with all the rules and regulations\"",
-  "examples": [
-    {
-      "sentence": "Listen to the lesson",
-      "audio": "example_1.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S1.mp3"
-    },
-    {
-      "sentence": "Swim",
-      "audio": "example_2.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S2.mp3"
-    },
-    {
-      "sentence": "Primrose",
-      "audio": "example_3.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S3.mp3"
-    },
-    {
-      "sentence": "Trim",
-      "audio": "example_4.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S4.mp3"
-    },
-    {
-      "sentence": "Fish",
-      "audio": "example_5.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S5.mp3"
-    },
-    {
-      "sentence": "Do you know how to swim",
-      "audio": "example_6.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S6.mp3"
-    },
-    {
-      "sentence": "How to grow primroses in your garden",
-      "audio": "example_7.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S7.mp3"
-    },
-    {
-      "sentence": "You need to trim off the fat",
-      "audio": "example_8.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S8.mp3"
-    },
-    {
-      "sentence": "The fin was small in comparison to the size of the fish",
-      "audio": "example_9.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S9.mp3"
-    },
-    {
-      "sentence": "Aisle",
-      "audio": "example_10.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S10.mp3"
-    },
-    {
-      "sentence": "Try",
-      "audio": "example_11.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S11.mp3"
-    },
-    {
-      "sentence": "Comply",
-      "audio": "example_12.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S12.mp3"
-    },
-    {
-      "sentence": "Who is going to walk you down the aisle",
-      "audio": "example_13.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S13.mp3"
-    },
-    {
-      "sentence": "Don't try so hard or you'll burn out before finishing",
-      "audio": "example_14.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S14.mp3"
-    },
-    {
-      "sentence": "You should comply with all the rules and regulations",
-      "audio": "example_15.mp3",
-      "audioUrl": "http://www.talkenglish.com/audio871/AudioTE1/Pronounce/S17S15.mp3"
-    }
-  ],
   "quiz": null,
   "transcript": null,
   "nextLesson": "https://www.talkenglish.com/lessondetails.aspx?ALID=18",
